@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DF96C78-6116-4D93-A3F8-8F6B83A8CBB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A593913-948D-4A41-BDF0-04BAAF9AF199",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76A5084B-0B75-4ADD-996D-DE86AF42C0AA",
+    "height": 1,
+    "width": 360,
+    "x": 0,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8173F2B2-6BF4-4BE6-A5D1-33C59CB3FFAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D77C5A60-923D-45F3-A1D0-81D52CAE9751"
+    }
+  ],
+  "name": "DIVIDER",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34AD7711-72B8-48D7-B9EA-540BC7161A87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AB46418-996E-4961-94BC-7C81EA4FADA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "688DBF76-3FD3-4BE6-AB1E-511C4F98E9CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "333B0A71-4DFB-4109-AD44-BB268E8FA011",
+    "height": 19,
+    "width": 204,
+    "x": 0,
+    "y": 23
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Subtitle 1 / Primary / Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5FA8A7B0-048B-46D5-AAEA-2088232DA4DF_stringValue",
+      "value": "5172 W. Point Blvd"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CA49260-A2C2-47AD-BCA0-BCB3277BF497",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BCACED21-0D23-4313-91D3-48FA9EA8F8DA",
+  "verticalSpacing": 0
+}

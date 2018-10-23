@@ -1,0 +1,138 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "29544D2A-05C9-4DA4-BFB3-9077A734D0B0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4709,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C723657-BFBF-4361-BFE6-B370CC24C736",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0F208F8-7422-43BE-835B-388AA1CD7AB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79EC8CAC-EF51-4076-8461-E4EEB352FC0C",
+    "height": 93,
+    "width": 300,
+    "x": 867,
+    "y": 161
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E67E6554-28F7-466A-96F9-07B6294D274F",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "68F385A4-EE08-4795-9159-179B5805798B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "63A38373-DD9F-45BE-BFD5-1B4FDE6625BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "A254A6B9-E8A2-4866-BDB6-0F14F74BDCFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "675E6487-B724-4250-8805-EFC69506A3EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99E80F1D-8DAE-42BB-BF25-61E560B9A4B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25620A19-F8DD-42ED-8DFB-FF78A39F9543"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F94A914-0A04-4A7C-9090-D6F1BAB0998D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62BEA07A-F179-4AFE-BF4A-405EE6DEE558"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47E8833B-A75A-4ECC-8D20-50ED5F08E73F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E0B2D66-E279-4A8B-9F7E-FA70846A2F4F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 32.875,
+    "do_objectID": "3B1EBBD1-BAFB-497F-81CA-843DC31549F9",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 234.25,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 300
+  },
+  "name": "Custom / Account Switch",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12AF6072-EEE0-4C21-AB17-406E41FF8F6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4288FAE3-7598-4D2D-82F9-26A0DE64C9DB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D2E758E2-75E5-45C5-B53B-06A0CD8A5E73",
+    "guides": [
+    ]
+  }
+}

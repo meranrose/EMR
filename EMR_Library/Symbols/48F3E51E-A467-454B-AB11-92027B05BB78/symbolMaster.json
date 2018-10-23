@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "36E38DD2-1FB4-4269-8AD4-C21B5315A4E2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 134,
+  "clippingMaskMode": 0,
+  "do_objectID": "48F3E51E-A467-454B-AB11-92027B05BB78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0322465-489D-423D-A631-FF94FCDBB3D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C022099-50A1-4569-855A-E9AFD7D5FC0F",
+    "height": 36,
+    "width": 96,
+    "x": 475,
+    "y": 544
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "40E024F3-5050-45DD-AB77-AEC88D53D06A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EF2F0B1A-5A9F-4958-9E1C-39D84FC04577"
+    }
+  ],
+  "name": "Buttons / Text - Underlined",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4DDF3D9-7566-49E4-9791-9FD7B41A31B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F80171EC-5F39-47D3-8FD8-741F10B4ACF4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FFF0E673-B16C-4A13-9DF8-1846B9C1290B",
+    "guides": [
+    ]
+  }
+}

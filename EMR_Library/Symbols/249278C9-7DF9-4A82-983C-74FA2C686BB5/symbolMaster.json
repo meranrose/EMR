@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AC2750B1-AA09-4486-BF97-D406D8AB3043",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 574,
+  "clippingMaskMode": 0,
+  "do_objectID": "249278C9-7DF9-4A82-983C-74FA2C686BB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "246F8CF8-9E82-4AE0-AE05-D70366D32E58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BBC58B3C-A042-4F2F-8369-8AA5B09CEED0",
+    "height": 300,
+    "width": 280,
+    "x": 1267,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D544E97-9A50-45D1-88D3-72323F9C2135",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6FC5D185-AF96-4FFF-BD5A-4BED0D11DF85"
+    }
+  ],
+  "name": "Dialogs / Simple",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61EF6D80-525C-44B2-A935-B3D0DEB3C6DA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BE3B80C0-8CF3-443E-AA74-CE27218548A9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "34235423-24C6-4802-A677-5305E63E8043",
+    "guides": [
+    ]
+  }
+}

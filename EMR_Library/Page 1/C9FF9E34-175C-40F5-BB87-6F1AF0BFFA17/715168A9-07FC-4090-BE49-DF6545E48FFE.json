@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "715168A9-07FC-4090-BE49-DF6545E48FFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5213A57A-94D7-47B3-9F63-D46B2BEBBB69",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EBF2781-F08F-423C-B7E6-E9CB056FD009",
+    "height": 56,
+    "width": 375,
+    "x": 1,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Top Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C15C309-E054-4607-BBCE-9BCD571E2296",
+      "overrideName": "A861B9DD-EE2B-4703-B02A-772C557F58D1/80B13B7B-CE6C-4C70-85C6-37A7CB74C252/5CFFEB67-F6EA-4F38-B0A2-5CAF91996170_stringValue",
+      "value": "Dialog"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B76D588-4168-431E-AD37-6CE2412CE390",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48BF8E39-4607-459B-B1A2-D123A3F206EF",
+  "verticalSpacing": 0
+}

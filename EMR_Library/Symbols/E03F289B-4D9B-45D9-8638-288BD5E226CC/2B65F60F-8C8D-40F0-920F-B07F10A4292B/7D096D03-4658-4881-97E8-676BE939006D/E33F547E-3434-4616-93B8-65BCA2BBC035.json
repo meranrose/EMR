@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E33F547E-3434-4616-93B8-65BCA2BBC035",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C14A5CEE-FC1A-459D-BDFA-40EFD67C0282",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E069A937-D319-4857-8A2F-A088C293442F",
+    "height": 23,
+    "width": 186,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Subtitle 1 / Primary / Left Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "12E6AACF-5BBB-42C5-B019-2C94D3D53C98_stringValue",
+      "value": "My House"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "12E6AACF-5BBB-42C5-B019-2C94D3D53C98_textStyle",
+      "value": "76DAD709-1889-46A5-9992-6E1A017F7AEF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9784A95F-45C4-4F2E-8DF9-61A9BB3F0E2B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE7E409E-C286-4331-9D52-E7E131058680",
+  "verticalSpacing": 0
+}

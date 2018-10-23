@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 8442,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8664366-8717-4CD4-834E-865D00D7E4A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4BC1B937-CF01-48B7-B2F0-CBFEC92299D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94488275-0588-44BC-8D90-EF69DA2251D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3ECD2F6E-16AA-40F6-8C48-A18A3ED796D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D24653BE-864B-48C6-BB5F-8A8B371DD011"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95BFBCED-711E-467C-A1D9-FC69A158A847"
+    }
+  ],
+  "name": "App Bar / Bottom",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC28E9A3-2035-456E-9A5B-4CC86ED34F38",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

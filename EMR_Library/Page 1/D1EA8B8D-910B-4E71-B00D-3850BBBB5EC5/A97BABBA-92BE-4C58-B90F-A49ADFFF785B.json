@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A97BABBA-92BE-4C58-B90F-A49ADFFF785B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D09604F4-918F-44A2-B831-0D5B0282C843",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A984A05-9F7B-4F21-BC79-15C1A322E9C9",
+    "height": 24,
+    "width": 24,
+    "x": 148,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Bill Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA9C2C20-AC83-48EA-A0EE-64705BBB9C3C",
+      "overrideName": "E205432B-4109-42D2-B396-1D10EB00DC7A_symbolID",
+      "value": "B0AC0C1F-E15F-4772-8208-811639A81727"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25BD8659-8E08-4BB9-9FE7-C957915AAA57",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "250C38CC-3B1A-4AF7-BC7D-8B0FBFA5C69C",
+  "verticalSpacing": 0
+}

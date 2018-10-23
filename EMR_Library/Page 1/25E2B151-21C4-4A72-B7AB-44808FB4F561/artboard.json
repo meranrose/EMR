@@ -1,0 +1,99 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3263816C-2E71-4708-AAA4-B0AE304F5B89",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25E2B151-21C4-4A72-B7AB-44808FB4F561",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56CF5147-CCAE-4C9E-B1F8-1A96EB0CF18A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61C8190F-A30B-41ED-B75A-76B0BD8E9223",
+    "height": 740,
+    "width": 360,
+    "x": -204,
+    "y": -865
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9D6B9086-3E37-475C-86C6-2D3B684442D7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "50BF961B-BC68-4307-B309-64A10096F30B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55654D6C-76B8-4A34-AB43-192E5F4FF294"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56A351EE-0FFC-48BB-AA4C-AC4F37172F65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10D108BF-5EAC-4D07-B928-201FEEA0FEF2"
+    }
+  ],
+  "name": "Android",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 740,
+    "name": "Galaxy S8",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C01FEF0-AE93-4D9E-BFCE-FCEB9F22AA77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0CC7CA1A-BFE3-4FF3-AAE2-CB23E0CBAAB2",
+    "guides": [
+    ]
+  }
+}
