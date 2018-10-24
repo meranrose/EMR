@@ -8,40 +8,41 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "alpha": 0.6,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 20.12648809523809
+              "size": 12.07589285714286
             }
           },
-          "kerning": 0.25,
+          "kerning": 0.4000000059604645,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 14,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "Caption"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "CB758768-7088-47A3-8964-68FDFBCDCA86",
+  "do_objectID": "3D50CF2D-D280-4F78-B868-909E823CBD4D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D8742EBF-F55E-4DB6-8B9F-041D34FB7768",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "515D2A9F-7CE4-46B8-AEA2-EDE388A456ED",
-    "height": 24,
-    "width": 306,
-    "x": 52,
-    "y": 16
+    "height": 16,
+    "width": 220,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{81, 4}, {143, 19}}",
+  "glyphBounds": "{{0, 3}, {43, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,16 +67,15 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Type something",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "name": "Caption",
+  "nameIsFixed": true,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "DD953952-D3E2-4881-AF9D-76E0E431683F",
+  "sharedStyleID": "47909E77-7CC4-4A87-986F-FFDCFCF3F3C0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "81B73949-0CDE-4B98-B0AF-5C698790D140",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -85,24 +84,26 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 0.6,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 20.12648809523809
+            "size": 12.07589285714286
           }
         },
-        "kerning": 0.25,
+        "kerning": 0.4000000059604645,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

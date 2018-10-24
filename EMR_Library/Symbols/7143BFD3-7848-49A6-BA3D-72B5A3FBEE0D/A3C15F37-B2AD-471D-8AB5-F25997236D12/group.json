@@ -36,6 +36,10 @@
       "id": "E1C8D84C-A973-42AE-85FC-DBFF98DCC54C"
     },
     {
+      "class": "text",
+      "id": "AB23A3BA-367F-43E3-8DDE-1711398846D1"
+    },
+    {
       "class": "group",
       "id": "6A9CAB35-007D-4357-8E8B-A1F7525D6C19"
     },
@@ -44,12 +48,12 @@
       "id": "0B85ABAA-25B4-47E9-B745-1F0B41593063"
     },
     {
-      "class": "symbolInstance",
-      "id": "E6C5F406-2ADB-434D-BAB7-5955B132B4CB"
+      "class": "group",
+      "id": "654BA6D5-7E8F-43B6-A9B2-614472CD29B2"
     },
     {
-      "class": "symbolInstance",
-      "id": "B97220C4-CE84-4DA4-B7B6-D2BB34F02874"
+      "class": "group",
+      "id": "9AB6C9B1-7810-4E29-BE95-19E99578BB32"
     }
   ],
   "name": "Text Field / Filled / Leading Icon / No Assistive Text / Enabled",

@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E6C5F406-2ADB-434D-BAB7-5955B132B4CB",
+  "do_objectID": "654BA6D5-7E8F-43B6-A9B2-614472CD29B2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4780682D-D449-4731-965A-4B597A265BFD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "14E6E8F9-4E93-42DA-888D-99F8FBFAFB73",
     "height": 16,
     "width": 220,
     "x": 56,
     "y": 7
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "CAPTION TEXT COLOR & STYLE",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "text",
+      "id": "3D50CF2D-D280-4F78-B868-909E823CBD4D"
+    }
   ],
-  "resizingConstraint": 10,
+  "name": "CAPTION TEXT COLOR & STYLE",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C996EB6D-E7DD-4F4F-8EBC-0A30683813D0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "A9E630AC-7810-4885-BFF9-545D100CA9AA",
-  "verticalSpacing": 0
+  }
 }

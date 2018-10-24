@@ -1,12 +1,10 @@
 {
-  "_class": "bitmap",
+  "_class": "page",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "28731854-0F02-4C4D-8FE9-ED93CC62F9CD",
+  "do_objectID": "A48D6B0B-032F-42F7-B087-65CD5946D391",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "31F8F2D0-B538-4B4A-BAE1-AD930254890F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,30 +12,32 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "C1C11432-6CB7-41B1-A358-8EF3394AAA16",
-    "height": 30.125,
-    "width": 62,
-    "x": 149,
-    "y": 13
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/f51f1b9809ef9134d4d0158e338a12690779dc3f.png",
-    "_ref_class": "MSImageData"
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -425,
+    "guides": [
+    ]
   },
-  "intendedDPI": 72,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Logo",
+  "layers": [
+  ],
+  "name": "Pay",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,10 +45,16 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DAEB1494-1590-413B-95EE-726562F84000",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -426,
+    "guides": [
+      149
+    ]
   }
 }

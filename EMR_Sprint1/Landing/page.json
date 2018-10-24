@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
+  "_class": "page",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FCD35F62-4423-431F-9DC8-F18B0E6F406A",
+  "do_objectID": "c7af4c00-d7ca-11e8-8c04-a36e2f861ebb",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D81B242D-0643-484E-87B7-A14A57D0F706",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,43 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9D9126B8-AE2D-4F15-85D9-6087103ABDC8",
-    "height": 56,
-    "width": 360,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "CONTAINER COLOR",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
   ],
+  "name": "Landing",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CB8FA15A-5079-415C-97C2-8023DC895BB5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "symbolID": "CF5D4546-529B-4A58-8725-0DDF9D2B3B03",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
 }

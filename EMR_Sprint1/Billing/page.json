@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "_class": "page",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "27D3FA4F-965C-445E-B1F5-4CE174CAB037",
+  "do_objectID": "47F51E15-2E81-41E4-95B5-D65F0A756E83",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E57992F9-5B92-4F36-83EB-C0B35771C81D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DD702465-D182-4407-A7EC-1666C0FBFF45",
-    "height": 56.00000000000001,
-    "width": 360,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -425,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "↳ Tonal Palette",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
   ],
+  "name": "Billing",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B7EC70F9-A1A7-40BC-83E9-61AFD047275B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "152F3A73-018D-41CE-9F6C-70D588E9906F",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -426,
+    "guides": [
+    ]
+  }
 }
