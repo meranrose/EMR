@@ -29,16 +29,16 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 184,
+        "length": 67,
         "location": 0
       }
     ],
-    "string": "This account is enrolled in AutoPay and the full amount of your last bill will be deducted on the due date.\n\nScheduled date: 10/10/2018\nAmount: $100.00\nSource: Bank of America ****1234"
+    "string": "Hey, you don't have auto pay set up. Would you like to do that now?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "8724660B-0926-4497-8803-D6D1532B22A5",
+  "do_objectID": "A3E7FE06-D99E-47C7-BC13-94ED1C0E4378",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
-    "width": 290,
-    "x": 15,
-    "y": 16
+    "height": 40,
+    "width": 251,
+    "x": 38,
+    "y": 4
   },
-  "glyphBounds": "{{0, 4}, {280, 132}}",
+  "glyphBounds": "{{0, 4}, {231, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,16 +66,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "This account is enro",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "Subtitle 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "7AB1794B-0A21-4FC2-A221-7554444D6621",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "83AC5DD5-1C67-4997-B300-CF8518A8F32B",
+    "do_objectID": "5000E9E3-8F12-4794-9F50-FC1C3947D987",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AD7DFA2A-5EC4-4A67-96A8-4C0186BB66B0",
+  "do_objectID": "8F28C3E1-300F-4058-9F35-8BFACD92CD09",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "554B68F9-0775-4094-883D-89C592AF7075",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "18D82100-B11E-4270-8E47-7F005B2FFA5C",
-    "height": 300,
-    "width": 280,
+    "height": 56,
+    "width": 328,
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Surface",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A491A477-3E04-4CCD-B3AC-1FC8F66251C9"
+    }
   ],
+  "name": "CONTAINER COLOR",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D422D4D8-5C63-4CC3-B263-19B08025A390",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.08
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "AFB57821-64A6-4522-8732-2B40E0BEC28F",
-  "verticalSpacing": 0
+  }
 }

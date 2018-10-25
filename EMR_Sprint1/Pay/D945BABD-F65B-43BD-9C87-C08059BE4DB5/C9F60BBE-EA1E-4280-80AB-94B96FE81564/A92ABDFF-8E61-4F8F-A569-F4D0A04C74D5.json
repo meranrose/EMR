@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2901960784313724,
-            "green": 0.2470588235294117,
-            "red": 0.9294117647058824
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -83,14 +83,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BB9B42E0-D3EA-43BE-8F3A-E408938E0A8B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2901960784313724,
-          "green": 0.2470588235294117,
-          "red": 0.9294117647058824
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

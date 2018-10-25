@@ -55,8 +55,24 @@
       "id": "ED45F652-77EE-4596-9AC3-1F23231AAF08"
     },
     {
+      "class": "bitmap",
+      "id": "FECB56A7-71DD-47A4-B13A-C8DFB9217692"
+    },
+    {
+      "class": "rectangle",
+      "id": "315F4081-519C-41D2-94CE-354727BF74FE"
+    },
+    {
+      "class": "rectangle",
+      "id": "33D7D927-1E38-4B82-BD87-B4B5389213F4"
+    },
+    {
       "class": "symbolInstance",
       "id": "76E24725-7A59-4F87-9477-88D4A8FAE63A"
+    },
+    {
+      "class": "group",
+      "id": "4270BAE1-4F18-4405-93C3-86F7D5158679"
     },
     {
       "class": "symbolInstance",
@@ -71,8 +87,16 @@
       "id": "E563D2E1-B545-45D7-9C37-E30CEF4FEBAE"
     },
     {
+      "class": "symbolInstance",
+      "id": "C0A10FDE-9359-44CE-A52B-416263E3A0C6"
+    },
+    {
       "class": "text",
       "id": "F237B5AD-E943-403F-9B2C-64E8ACC7DF22"
+    },
+    {
+      "class": "text",
+      "id": "EEC306E9-1B01-46E3-9AC3-458B2A418FC6"
     }
   ],
   "name": "Pay - Dialog - Autopay",

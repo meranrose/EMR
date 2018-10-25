@@ -1,8 +1,8 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "799E430F-673E-416E-9BF6-13212E2CF3BF",
+  "do_objectID": "78C70070-04E2-4FED-BAAD-CD6F6467966A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 96,
-    "x": 270,
-    "y": 653
+    "height": 24,
+    "width": 24,
+    "x": 8,
+    "y": 4
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,17 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary",
-  "nameIsFixed": false,
+  "name": "LEADING ICON",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "ABE735A2-855A-48C0-BB21-B70CEDFEE743",
-      "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
-      "value": "Submit"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "43F3AB69-C29B-4CC7-BE7B-66E6E75FE9AB",
+  "symbolID": "CD95E06B-2342-447C-956E-A962D9B3039B",
   "verticalSpacing": 0
 }

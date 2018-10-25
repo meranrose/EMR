@@ -36,7 +36,7 @@
         "location": 0
       }
     ],
-    "string": "Modify AutoPay"
+    "string": "Set up AutoPay"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -58,11 +58,11 @@
     "constrainProportions": false,
     "do_objectID": "13A32489-BC99-4365-9BEE-ADADFFC3C983",
     "height": 16,
-    "width": 118,
-    "x": 60,
-    "y": 289
+    "width": 116,
+    "x": 21,
+    "y": 582
   },
-  "glyphBounds": "{{1, 2}, {115, 14}}",
+  "glyphBounds": "{{0, 2}, {114, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Modify AutoPay",
+  "name": "Set up AutoPay",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -29,16 +29,16 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 184,
+        "length": 59,
         "location": 0
       }
     ],
-    "string": "This account is enrolled in AutoPay and the full amount of your last bill will be deducted on the due date.\n\nScheduled date: 10/10/2018\nAmount: $100.00\nSource: Bank of America ****1234"
+    "string": "You've got e-billing set up. Nice work, saving those trees!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8724660B-0926-4497-8803-D6D1532B22A5",
+  "do_objectID": "EEC306E9-1B01-46E3-9AC3-458B2A418FC6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
-    "width": 290,
-    "x": 15,
-    "y": 16
+    "height": 40,
+    "width": 303,
+    "x": 27,
+    "y": 580
   },
-  "glyphBounds": "{{0, 4}, {280, 132}}",
+  "glyphBounds": "{{0, 4}, {283, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "This account is enro",
+  "name": "You've got e-billing",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,7 +75,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "83AC5DD5-1C67-4997-B300-CF8518A8F32B",
+    "do_objectID": "23BC7295-E97B-4C71-9967-D88ABA2D6B4F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

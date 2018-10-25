@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "799E430F-673E-416E-9BF6-13212E2CF3BF",
+  "do_objectID": "66219E65-4D13-4B71-993D-E64670AD0144",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 96,
-    "x": 270,
-    "y": 653
+    "height": 14,
+    "width": 345,
+    "x": 3,
+    "y": 1
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "ABE735A2-855A-48C0-BB21-B70CEDFEE743",
-      "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
-      "value": "Submit"
+      "class": "shapePath",
+      "id": "6B28FB69-2B25-4A90-8F95-5A0B49AA4676"
+    },
+    {
+      "class": "text",
+      "id": "54070487-F70E-4F4B-9648-B4CF2BDF2F56"
     }
   ],
+  "name": "Group 6",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -49,7 +50,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "43F3AB69-C29B-4CC7-BE7B-66E6E75FE9AB",
-  "verticalSpacing": 0
+  }
 }
