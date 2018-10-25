@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 406,
+  "changeIdentifier": 423,
   "clippingMaskMode": 0,
   "do_objectID": "265BDD8A-B3D4-4CEA-8EA4-8C27C5004988",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "height": 24,
     "width": 24,
     "x": 1647,
-    "y": 620
+    "y": 372
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,8 +53,8 @@
       "id": "94F1AA18-DBE6-4E13-99CB-675FD2D18965"
     },
     {
-      "class": "symbolInstance",
-      "id": "CF2866C9-EA61-482D-AA85-3A474F850AB6"
+      "class": "rectangle",
+      "id": "B544376C-AC5C-4FDF-BD07-817A9090E838"
     }
   ],
   "name": "Icons / Chevron - Left",

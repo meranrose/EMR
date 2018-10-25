@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3025D41-CFF3-46BB-B0D1-22231A7E50EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2EF8EE3-3DC8-4EEA-BCBA-A518BFA10D8A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1985BEBC-2C54-4344-A4F5-D6F1734B557F",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Top - Centered Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33BA696E-CEE5-4D0A-BCA8-E39C262CE286",
+      "overrideName": "CB758768-7088-47A3-8964-68FDFBCDCA86_stringValue",
+      "value": "Pay Your Bill"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6447008-BFD8-4AD4-88D3-4EF02DFC385C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB835332-C300-4A0E-BFFA-56C024284D5E",
+  "verticalSpacing": 0
+}

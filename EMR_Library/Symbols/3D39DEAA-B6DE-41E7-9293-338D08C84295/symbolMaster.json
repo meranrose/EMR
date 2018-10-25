@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 137,
+  "changeIdentifier": 154,
   "clippingMaskMode": 0,
   "do_objectID": "3D39DEAA-B6DE-41E7-9293-338D08C84295",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "height": 24,
     "width": 24,
     "x": 1647,
-    "y": 1364
+    "y": 744
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,8 +53,8 @@
       "id": "F5E251FC-E4C1-410F-B6DA-741B3CFF237B"
     },
     {
-      "class": "symbolInstance",
-      "id": "28C32993-0A71-4565-AD70-057866D18CC0"
+      "class": "rectangle",
+      "id": "4BAB6C4A-32FD-4DFF-9284-4CC400F72B8D"
     }
   ],
   "name": "Icons / Like",

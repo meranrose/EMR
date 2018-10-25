@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A2E00945-4468-49EA-BBA0-5EF0BD0BF916",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 235,
+  "clippingMaskMode": 0,
+  "do_objectID": "8622900B-D5FD-4165-950F-6B1936DFFC72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E63E88BC-0E6F-4E2F-9371-9B99C7E8F1DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDC119EC-4427-45DC-8B8A-505559AA5B8F",
+    "height": 56,
+    "width": 328,
+    "x": 3232,
+    "y": 156
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4052323C-4B19-4851-A384-9C300A2B5B17",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "723ABDF7-4D9C-4DC5-A591-F42E36A1E486"
+    }
+  ],
+  "name": "Text Field / Input",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA2EFBB6-543E-489F-9E8A-959CA313A767",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE981AA8-54B9-4866-9097-8E32AFC204DC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B9985C0-56DD-4C84-9F75-C8C26E3DE52F",
+    "guides": [
+    ]
+  }
+}

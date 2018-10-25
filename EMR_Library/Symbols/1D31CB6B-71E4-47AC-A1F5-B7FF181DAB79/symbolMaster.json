@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2083,
+  "changeIdentifier": 2100,
   "clippingMaskMode": 0,
   "do_objectID": "1D31CB6B-71E4-47AC-A1F5-B7FF181DAB79",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "height": 24,
     "width": 24,
     "x": 1647,
-    "y": 1860
+    "y": 992
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,8 +53,8 @@
       "id": "5D17B2C0-C015-4C7A-BB53-009A57652328"
     },
     {
-      "class": "symbolInstance",
-      "id": "A61F24E8-6212-42CE-B38A-4AD209E476B0"
+      "class": "rectangle",
+      "id": "7E331672-C477-4C16-A9C9-C43A3646F4E3"
     }
   ],
   "name": "Icons / Usage",

@@ -42,9 +42,33 @@
       "do_objectID": "619F63AA-8AA7-4EBB-9738-17F938B0F196",
       "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC_symbolID",
       "value": "02EB8AD9-1BC7-4686-A55D-A1789ED6D4E3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "701AAA2D-1D25-4FDB-9B40-42EC3BE8A985",
+      "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/1C2A8FE3-75EC-4B55-A348-663DD610EE1B_symbolID",
+      "value": "C6485ED8-6187-4CC9-9FF0-E62056BFC58F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CB7BA8A-A179-40D4-BC0C-718B2F33ECAA",
+      "overrideName": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52F611CC-5006-4E40-B0D4-1C238F223B8E",
+      "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/B05FAC16-8B88-49B5-BD88-EB868361588D_layerStyle",
+      "value": "1354FC8F-D151-48D2-9B8C-DCF2437FA187"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CC9A87B-EA4B-49F5-A46D-E60829D22C76",
+      "overrideName": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4_textStyle",
+      "value": "7A77AF4C-D27A-4AC8-B4BD-561616C0A354"
     }
   ],
-  "resizingConstraint": 23,
+  "resizingConstraint": 21,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
