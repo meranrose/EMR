@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C4209D7-7176-434B-9A06-B81A4B1F7E78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "625B2035-6A44-4C92-AF51-A3A49D117CB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E3715EF-B1E4-48CE-B9BE-1C786E15D963",
+    "height": 20.9650708999273,
+    "width": 23.99997462433623,
+    "x": 0.00002500000005056791,
+    "y": -0.000004661811772166402
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6524C03C-B851-4975-8B2F-BCFB6AB34957"
+    },
+    {
+      "class": "shapePath",
+      "id": "23E18404-1BA5-4FB3-9096-143FBEC35F0A"
+    }
+  ],
+  "name": "Clip 173",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F07713A-D1BF-4175-865F-96B2AFA5ACA1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

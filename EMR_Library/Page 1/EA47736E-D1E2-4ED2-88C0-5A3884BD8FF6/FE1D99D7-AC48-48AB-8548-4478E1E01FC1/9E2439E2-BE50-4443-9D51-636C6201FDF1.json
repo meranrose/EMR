@@ -52,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 272,
+    "width": 99,
     "x": 0,
     "y": 0
   },
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Subheader",
   "nameIsFixed": true,
-  "resizingConstraint": 26,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "3AFABF89-4DFB-44AD-BAA0-831DCA2509C4",
@@ -106,5 +106,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

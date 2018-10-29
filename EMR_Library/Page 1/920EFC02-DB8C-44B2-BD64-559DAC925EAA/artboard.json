@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "920EFC02-DB8C-44B2-BD64-559DAC925EAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1734,
+    "width": 1084,
+    "x": 934,
+    "y": -865
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "56CB55A8-1CAD-47F7-B332-DAE7299AF216"
+    },
+    {
+      "class": "text",
+      "id": "06E0290B-4C80-4F0F-8A85-14F6EF394255"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA79EFB5-E42B-4E3E-8FB5-3DBAD7F9EFB5"
+    },
+    {
+      "class": "text",
+      "id": "A67C2000-2E5C-47EA-8DC9-972B4FF4F74D"
+    },
+    {
+      "class": "text",
+      "id": "78015E14-C8CC-4525-BC6E-1A6D5A6C505B"
+    },
+    {
+      "class": "shapePath",
+      "id": "20D173C9-AA30-49F0-ABCB-217BD26C6EC0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0E79995-0D24-4554-A7C2-09663A6D1667"
+    },
+    {
+      "class": "text",
+      "id": "6A65C5E6-4A76-412B-9F5D-9C8EF1D8E68B"
+    },
+    {
+      "class": "text",
+      "id": "E1A8B26D-354B-4E24-A5B8-0B7DD38F3624"
+    },
+    {
+      "class": "text",
+      "id": "9B70722F-9C27-4BDA-B6E4-B9A53349E347"
+    },
+    {
+      "class": "text",
+      "id": "E7C22825-EABF-4BFD-B098-688FB8501CBB"
+    },
+    {
+      "class": "group",
+      "id": "FAA7E006-9CDA-488F-BF6E-D13A36454515"
+    }
+  ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

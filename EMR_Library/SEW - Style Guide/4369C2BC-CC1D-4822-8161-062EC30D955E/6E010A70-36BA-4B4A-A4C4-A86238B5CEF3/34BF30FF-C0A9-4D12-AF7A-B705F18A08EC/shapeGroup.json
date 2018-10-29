@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "34BF30FF-C0A9-4D12-AF7A-B705F18A08EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A64E6175-9792-4969-B567-85B5B8550E2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4F6FF45-C7D0-41FA-A554-4B5206BBB308",
+    "height": 23,
+    "width": 20.125,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DED4DC9B-3BA7-4DFC-BDE6-E71B6B10D2F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F83664B-8FF5-49FC-A673-197E6DC546DC"
+    }
+  ],
+  "name": "Clip 41",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A8802CE-FF95-4F4E-AEA7-C9245C64BCE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

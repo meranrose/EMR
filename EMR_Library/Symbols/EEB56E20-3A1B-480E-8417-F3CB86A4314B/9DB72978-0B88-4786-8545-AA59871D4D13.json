@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Interstate-Light",
-              "size": 14.08854166666666
+              "name": "Interstate-Black",
+              "size": 16
             }
           },
-          "kerning": 1.25,
+          "kerning": 1.419593,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -58,7 +58,7 @@
     "x": 16,
     "y": 10
   },
-  "glyphBounds": "{{8, 2}, {47, 12}}",
+  "glyphBounds": "{{2, 2}, {59, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "362F1644-DDFA-4D95-B030-2CC097B032EC",
+  "sharedStyleID": "A5EB2CFE-BDF6-4274-AEDB-F76E2373AC0D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,11 +93,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Interstate-Light",
-            "size": 14.08854166666666
+            "name": "Interstate-Black",
+            "size": 16
           }
         },
-        "kerning": 1.25,
+        "kerning": 1.419593,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

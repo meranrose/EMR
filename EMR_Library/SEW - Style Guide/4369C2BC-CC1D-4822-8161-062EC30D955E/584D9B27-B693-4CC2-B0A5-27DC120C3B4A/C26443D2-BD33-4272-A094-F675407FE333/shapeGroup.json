@@ -1,0 +1,102 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C26443D2-BD33-4272-A094-F675407FE333",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C01C76BA-A2B4-4929-8721-CBCCCF669E47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB798A3B-7CA7-4EDB-B5F8-60DF666E2DA1",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4F0C9DD2-8E12-4A3C-9D4F-72B4AB3F1E24"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE037372-F55C-4FB8-BB73-57B5CC2F4FF5"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADDB74B9-95C9-4EF8-BADD-E7C4D7E547DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B10F811-56D3-43C1-9443-F67A2D4528E5"
+    },
+    {
+      "class": "shapePath",
+      "id": "00B8D9E7-DF31-4C7B-B9C6-69D70160FF97"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E0528C2-ED93-421E-855B-4F03EEBCA793"
+    },
+    {
+      "class": "shapePath",
+      "id": "3F3FF83F-F84B-4D4D-B6D1-0DE406BECE02"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F81A785-F7D2-4102-8A9A-B707DDC1B002"
+    },
+    {
+      "class": "shapePath",
+      "id": "C42E125D-E032-4325-9E92-0029DE2A02B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC80ABC4-9713-4C88-9C2F-9EAF5FA1D27A"
+    },
+    {
+      "class": "shapePath",
+      "id": "FA813A2D-0B8C-4FD9-84F6-A7FBA652D02E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F3EA5651-EC74-4EAC-A3BD-64585CB16514"
+    },
+    {
+      "class": "shapePath",
+      "id": "13F3149D-F61F-45E3-8370-835B001E6E57"
+    }
+  ],
+  "name": "Clip 158",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8CE4683-264E-4B14-97AE-F95C03EBC611",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

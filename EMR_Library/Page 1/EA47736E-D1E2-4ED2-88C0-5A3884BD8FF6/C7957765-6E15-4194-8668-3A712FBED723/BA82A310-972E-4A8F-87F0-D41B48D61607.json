@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 0.6,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -51,7 +51,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 41,
-    "width": 164,
+    "width": 112,
     "x": 0,
     "y": 0
   },
@@ -66,13 +66,14 @@
   "lineSpacingBehaviour": 2,
   "name": "Header",
   "nameIsFixed": true,
-  "resizingConstraint": 27,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "C27A0533-E0AA-4F18-A4E2-52AA6CD24CB9",
+  "sharedStyleID": "D1D0311D-924B-4574-ABD2-93F3C018F8C7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3723F0C6-F0D9-44C9-8C01-F4BB252CD37B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -82,9 +83,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 0.6,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -104,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

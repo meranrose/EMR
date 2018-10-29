@@ -25,12 +25,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "20FC75F9-27F2-42E7-BE57-F04AEA65D049",
-    "height": 741,
-    "width": 360,
+    "height": 785,
+    "width": 375,
     "x": 411,
-    "y": -674
+    "y": -662
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -38,6 +38,7 @@
     "base": 0,
     "do_objectID": "7AD59EEB-70A3-4AF9-B5A9-B2C96F19FF58",
     "guides": [
+      451
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -51,28 +52,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "EE714D1A-4038-4E07-A911-C687ABAD88C5"
+    },
+    {
+      "class": "group",
+      "id": "E23F889E-1173-46CD-AA22-0622C3A814B6"
+    },
+    {
       "class": "symbolInstance",
       "id": "ED45F652-77EE-4596-9AC3-1F23231AAF08"
     },
     {
-      "class": "bitmap",
-      "id": "FECB56A7-71DD-47A4-B13A-C8DFB9217692"
-    },
-    {
-      "class": "rectangle",
-      "id": "315F4081-519C-41D2-94CE-354727BF74FE"
-    },
-    {
-      "class": "rectangle",
-      "id": "33D7D927-1E38-4B82-BD87-B4B5389213F4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76E24725-7A59-4F87-9477-88D4A8FAE63A"
-    },
-    {
       "class": "group",
-      "id": "4270BAE1-4F18-4405-93C3-86F7D5158679"
+      "id": "1D59F73E-06A6-4B4B-8AB9-718A0E957E16"
     },
     {
       "class": "symbolInstance",
@@ -83,24 +76,43 @@
       "id": "799E430F-673E-416E-9BF6-13212E2CF3BF"
     },
     {
-      "class": "symbolInstance",
-      "id": "E563D2E1-B545-45D7-9C37-E30CEF4FEBAE"
+      "class": "group",
+      "id": "63C1DAF2-BA6A-4294-B164-FBCCC922BDEA"
+    },
+    {
+      "class": "group",
+      "id": "F7E7A83D-4646-4B9D-ABC4-6919A25F3E03"
     },
     {
       "class": "symbolInstance",
-      "id": "C0A10FDE-9359-44CE-A52B-416263E3A0C6"
+      "id": "0D6FADB4-9749-4F3F-9234-9508C2C00C9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96AB0B99-1DC6-4F12-BE19-75045408148E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EAA1607-0AEE-4D86-A55C-E3273022738A"
     },
     {
       "class": "text",
-      "id": "F237B5AD-E943-403F-9B2C-64E8ACC7DF22"
+      "id": "D26777E8-C4BB-451D-8161-9C08F7C07BE2"
     },
     {
-      "class": "text",
-      "id": "EEC306E9-1B01-46E3-9AC3-458B2A418FC6"
+      "class": "symbolInstance",
+      "id": "76E24725-7A59-4F87-9477-88D4A8FAE63A"
     }
   ],
-  "name": "Pay - Dialog - Autopay",
+  "name": "Pay - Quick",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -119,6 +131,10 @@
     "base": 0,
     "do_objectID": "AA16A5BF-74AF-4F94-A90A-63A1A9693892",
     "guides": [
+      402,
+      331,
+      145,
+      -96
     ]
   }
 }

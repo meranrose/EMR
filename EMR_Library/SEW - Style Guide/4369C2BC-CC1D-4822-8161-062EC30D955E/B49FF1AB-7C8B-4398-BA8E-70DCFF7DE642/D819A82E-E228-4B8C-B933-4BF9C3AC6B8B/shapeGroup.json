@@ -1,0 +1,74 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D819A82E-E228-4B8C-B933-4BF9C3AC6B8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D364A071-F647-4321-83A2-003B6465633E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A90B7B2-7F15-4395-A4A1-370B76C46084",
+    "height": 21.99996153500956,
+    "width": 22.79221,
+    "x": 7.105427357601002e-15,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ABA8C81C-F58D-4736-A673-CDF576857D84"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD6D8CAA-D771-4A4E-A71D-9C3DB93399BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "D7749092-2C62-4EF1-95F5-F8FE7F4C3D2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "315E6662-62A6-4B2A-A8EC-AB91E01FE735"
+    },
+    {
+      "class": "shapePath",
+      "id": "46E59352-DCC2-451E-8E44-C0D0533A9054"
+    },
+    {
+      "class": "shapePath",
+      "id": "3575A8AB-B373-43DE-A999-CA916ED92B29"
+    }
+  ],
+  "name": "Clip 338",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C99E514E-5334-46A0-8A13-74CF6B12B677",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA139FBB-37FF-4059-B27F-543CED4E45AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A3B44CB-CDCD-43A4-99B0-BF3A311DBD91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1172EFB7-A039-4AC1-867B-D50C52297B6A",
+    "height": 56,
+    "width": 290,
+    "x": 16,
+    "y": 193
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F73371E-B3EF-4A67-9348-CFFAB4774344",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_stringValue",
+      "value": "Bank of America ****1234"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2B0CA28-8F06-4F6B-8AAD-8207F548B030",
+      "overrideName": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1_stringValue",
+      "value": "Manage Payment Accounts >"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83348F61-C856-44BC-9CDD-99CB13B78A4B",
+      "overrideName": "29026114-B7A0-4362-8164-7F2F9BDCB190_stringValue",
+      "value": "Method"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D739711-49D7-46DF-B031-6733D8811C21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A024B0F3-858F-43C4-98DD-DE595AAD79CD",
+  "verticalSpacing": 0
+}

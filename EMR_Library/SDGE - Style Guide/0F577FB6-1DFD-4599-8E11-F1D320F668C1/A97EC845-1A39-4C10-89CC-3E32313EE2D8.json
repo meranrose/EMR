@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A97EC845-1A39-4C10-89CC-3E32313EE2D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CB9D72C-6F8B-450F-B151-EFD7005F16F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A146D78-CB8D-4F0C-94B5-4DAC6A80DD7A",
+    "height": 119,
+    "width": 355,
+    "x": 10,
+    "y": 196.0709999999999
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Alert Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5074AFC1-CC39-4AFD-9983-5677EBB1FACF",
+      "overrideName": "397B69CD-31FF-4771-9D0C-44AC5E61D99B_symbolID",
+      "value": "60C970F0-193A-4F83-B7D9-982DBE1DD785"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C584AF91-60B8-476F-8563-21942AADA029",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D66A54C8-2D89-4D1C-9BE0-B4BDE5B559D2",
+  "verticalSpacing": 0
+}

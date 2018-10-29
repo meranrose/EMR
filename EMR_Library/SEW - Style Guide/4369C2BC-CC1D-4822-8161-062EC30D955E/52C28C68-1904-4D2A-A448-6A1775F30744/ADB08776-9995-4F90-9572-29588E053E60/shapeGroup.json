@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADB08776-9995-4F90-9572-29588E053E60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D6572F1-DD4A-4408-9F94-3F061A128410",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A1E903F-00EA-4E01-A498-7B8C2280DDA4",
+    "height": 23.99999900108298,
+    "width": 23.15122500000007,
+    "x": -0.00002500000005056791,
+    "y": 9.989170166591066e-7
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E3A4EC94-03F5-428E-AAE8-CE20469682BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "7333F1E7-E809-41C1-96AC-39C89842C1CB"
+    }
+  ],
+  "name": "Clip 245",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09ED5336-CB1B-4FC8-99D9-380A2FAFBA81",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

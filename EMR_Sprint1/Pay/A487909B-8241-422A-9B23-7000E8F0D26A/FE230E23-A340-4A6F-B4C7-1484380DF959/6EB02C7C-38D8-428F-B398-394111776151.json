@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 226,
-    "width": 321,
+    "width": 334.375,
     "x": 0,
     "y": 0
   },
@@ -91,9 +91,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.9803921568627451,
-          "red": 0.9803921568627451
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

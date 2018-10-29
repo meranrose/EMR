@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B42D4272-7DAC-4704-9297-50EA39F525A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A0FFF26-0910-4D73-ABAB-AEFA1E1E0069",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53DE4689-4F2B-4276-8C79-C796B55C1515",
+    "height": 6.427199999999999,
+    "width": 5.842000000000098,
+    "x": 0.8959999999999582,
+    "y": 0.4454999999999956
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "79E4EDB1-DD2E-4B27-9FDF-C1FCFFBC8CE9"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B59290B-BB26-48AF-92CD-86E9E4059035"
+    }
+  ],
+  "name": "Clip 1934",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "118FA8C7-FE1D-4CE2-B163-AB5FF68955B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

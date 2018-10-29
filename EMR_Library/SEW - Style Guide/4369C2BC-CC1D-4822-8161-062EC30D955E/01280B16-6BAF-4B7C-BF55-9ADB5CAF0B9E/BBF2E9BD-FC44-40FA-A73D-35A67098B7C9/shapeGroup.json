@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBF2E9BD-FC44-40FA-A73D-35A67098B7C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3BC1D31-97EC-467F-AF7E-3A6C348CEED9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8283923-7ACB-448A-81F1-699B0BC51122",
+    "height": 20.80288137423855,
+    "width": 24,
+    "x": 0,
+    "y": 0.0000186257614132046
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3C18A988-C939-4BBF-A52C-980232D1D3B5"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE69F13D-F371-49D6-92FD-36C72CFEAF42"
+    }
+  ],
+  "name": "Clip 152",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8ACB2BA3-574F-4EF4-BEDA-DB9E302872AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

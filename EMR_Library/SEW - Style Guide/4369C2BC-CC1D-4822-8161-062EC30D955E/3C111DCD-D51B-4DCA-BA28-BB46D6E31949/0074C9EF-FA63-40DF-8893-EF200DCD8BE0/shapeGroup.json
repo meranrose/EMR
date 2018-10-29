@@ -1,0 +1,62 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0074C9EF-FA63-40DF-8893-EF200DCD8BE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "802E8A53-BFD9-48F2-8E51-6C96C9087567",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81358CF5-982A-4741-A6FA-AFE99DD1107C",
+    "height": 19.5,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3D847A5C-203C-410C-92CE-066221F0711E"
+    },
+    {
+      "class": "shapePath",
+      "id": "A652864D-2527-4BD0-9705-23081742A081"
+    },
+    {
+      "class": "shapePath",
+      "id": "85CCFE26-DB5C-4773-8C9B-1D602A963E28"
+    }
+  ],
+  "name": "Clip 248",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A38BC714-ACA5-4016-ADB2-415A3453E9EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

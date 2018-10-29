@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "288AC695-ECDB-4142-9CB8-80AF70E207BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACC12441-C61D-40F6-A1AB-5A59FA7BF87B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C645B93F-FB1A-4330-9D2B-215D023EEA0F",
+    "height": 48,
+    "width": 48,
+    "x": 0.9649999999999181,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C71871AA-F47C-487C-9E74-1AC9D2BE56A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "B891C631-026F-4F79-BB7D-979532B94ECB"
+    }
+  ],
+  "name": "Clip 2009",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0456DB97-8F72-4FA7-8C26-741CD35C9D07",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

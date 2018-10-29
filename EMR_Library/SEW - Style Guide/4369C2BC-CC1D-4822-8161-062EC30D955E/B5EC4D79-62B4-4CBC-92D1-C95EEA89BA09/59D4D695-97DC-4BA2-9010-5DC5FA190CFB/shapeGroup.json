@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59D4D695-97DC-4BA2-9010-5DC5FA190CFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CB63AC0-9984-4DBE-AFB0-AF6E763182E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D0F94F1-52B0-4F2F-A514-E65E0E11B1B1",
+    "height": 23.99999713024891,
+    "width": 18.85519629815781,
+    "x": 0,
+    "y": -0.000002907257567130728
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F3496CA5-FCAC-4F85-9B68-8E6FEE015CD8"
+    },
+    {
+      "class": "shapePath",
+      "id": "72525375-1B0E-4F9B-86BD-8D1B0F0C98C0"
+    }
+  ],
+  "name": "Clip 185",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71C94ACD-8617-43F4-B67C-96CF8A02367A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

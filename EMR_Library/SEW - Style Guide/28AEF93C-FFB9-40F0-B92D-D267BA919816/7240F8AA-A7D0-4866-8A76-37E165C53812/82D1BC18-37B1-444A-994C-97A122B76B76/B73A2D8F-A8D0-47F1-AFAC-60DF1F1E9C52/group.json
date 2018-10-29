@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B73A2D8F-A8D0-47F1-AFAC-60DF1F1E9C52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A40E86C-78C8-4F23-9848-1450ADE30136",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2AD1493-BE8A-42E6-9C00-B4CD6AC656D5",
+    "height": 18,
+    "width": 74,
+    "x": 106,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9540A70C-1310-4370-8628-4A08A4A2AFBA"
+    },
+    {
+      "class": "text",
+      "id": "7BC10FD6-E44F-4BBD-B61C-0E8DF6A9DE76"
+    }
+  ],
+  "name": "Group 797",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B47AD5E6-4057-4E2C-8BD1-50557E3AA9C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

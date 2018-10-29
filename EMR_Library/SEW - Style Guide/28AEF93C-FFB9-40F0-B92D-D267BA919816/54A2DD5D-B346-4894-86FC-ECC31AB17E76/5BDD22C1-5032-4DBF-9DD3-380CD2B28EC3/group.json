@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BDD22C1-5032-4DBF-9DD3-380CD2B28EC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F20722B1-12A1-4E5D-B870-40B916CFCE97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D9E71D7-680A-48D5-9C94-56092CE55935",
+    "height": 8,
+    "width": 17,
+    "x": 134,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "939854BA-D58D-462C-854B-6C8DECE8C67B"
+    },
+    {
+      "class": "shapePath",
+      "id": "4675C2BD-E80E-4B63-87D3-D0FEFB3E9D1F"
+    }
+  ],
+  "name": "Group 790",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6901726F-C599-41F8-AA82-5ACBAA02338B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

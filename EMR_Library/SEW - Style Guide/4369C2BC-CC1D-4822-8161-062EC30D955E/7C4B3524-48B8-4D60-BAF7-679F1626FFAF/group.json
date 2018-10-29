@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C4B3524-48B8-4D60-BAF7-679F1626FFAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB234DE8-5884-4DA3-827A-BCCA23DAA3F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFABB06F-7ADB-415C-94AD-0555C93F407A",
+    "height": 100,
+    "width": 285,
+    "x": 954,
+    "y": 539
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7F81CD80-FCC3-4679-9F67-D58C30489CD9"
+    },
+    {
+      "class": "shapePath",
+      "id": "606EADA0-D9EF-4BB0-875C-C7DC78118D42"
+    }
+  ],
+  "name": "Group 474",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0E46E10-C2D5-4692-89B1-7AEC691C23C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

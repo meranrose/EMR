@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F22CF944-EA46-4F4C-9436-B4C25AF50BE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8153D4A8-415B-43AE-893A-79F34155FB55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1297393C-1A24-426C-A228-E9629514F9ED",
+    "height": 57,
+    "width": 290,
+    "x": 16,
+    "y": 98
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56C45A40-3F50-4097-85EC-7BFF7014D0F1",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_stringValue",
+      "value": "$68.90 (Current Due)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38B88FA0-8576-42BD-BDB3-22909D679E56",
+      "overrideName": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E0B7087-3C82-4D1C-901B-F1572BDD3A17",
+      "overrideName": "29026114-B7A0-4362-8164-7F2F9BDCB190_stringValue",
+      "value": "Amount"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1576F663-6D53-4AAF-895A-D766704D79CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A024B0F3-858F-43C4-98DD-DE595AAD79CD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8E1CCAE2-2776-4F65-8639-353605A7F242",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 707,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D0CDEBDC-792A-4E01-A7B0-A9222D5F120B"
+    },
+    {
+      "class": "rectangle",
+      "id": "7100E04F-CD84-4219-8F31-8B28B3931A81"
+    },
+    {
+      "class": "group",
+      "id": "DA690957-9BC0-4CAA-9B11-965D8CAE9609"
+    },
+    {
+      "class": "group",
+      "id": "8530C9FA-D0E1-4735-AFD2-AECA29671DEF"
+    },
+    {
+      "class": "group",
+      "id": "912718F7-9A3E-434B-8412-BB7FBCD7EEBE"
+    }
+  ],
+  "name": "sdge-home-mobile level 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
