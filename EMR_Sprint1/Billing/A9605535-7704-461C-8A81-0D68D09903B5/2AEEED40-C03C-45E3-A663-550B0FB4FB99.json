@@ -8,44 +8,38 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.4941176470588236,
-            "green": 0.2705882352941176,
-            "red": 0.1058823529411765
+            "alpha": 0.6,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Interstate-Light",
-              "size": 14.08854166666666
+              "name": "Interstate-ExtraLight",
+              "size": 34.21502976190476
             }
           },
-          "kerning": 1.25,
+          "kerning": 0.25,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 1
+            "allowsDefaultTighteningForTruncation": 0
+          }
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Got it"
+    "string": "Billing"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E750844-C231-400E-9240-0C96EEA27C45",
+  "do_objectID": "2AEEED40-C03C-45E3-A663-550B0FB4FB99",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BD371FFF-80FD-41F3-A807-3BE783883248",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2571AE1B-95DD-432E-8A54-2FEB9A37B782",
-    "height": 16,
-    "width": 43,
-    "x": 273.8125000000001,
-    "y": 167
+    "height": 41,
+    "width": 92,
+    "x": 32,
+    "y": 64
   },
-  "glyphBounds": "{{0, 2}, {41, 12}}",
+  "glyphBounds": "{{3, 8}, {86, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,16 +64,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Got it",
+  "name": "Billing",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "82EC0DE6-FDAB-48E8-9E17-409303421766",
+  "sharedStyleID": "4D4527FD-A657-4A83-B37B-A9E0487930EC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5089390E-CF8D-44E8-993C-7EEAD731E43F",
+    "do_objectID": "1C9DE9EF-0212-4368-9793-2BC540833C07",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -89,29 +82,24 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.4941176470588236,
-          "green": 0.2705882352941176,
-          "red": 0.1058823529411765
+          "alpha": 0.6,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Interstate-Light",
-            "size": 14.08854166666666
+            "name": "Interstate-ExtraLight",
+            "size": 34.21502976190476
           }
         },
-        "kerning": 1.25,
+        "kerning": 0.25,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 1
+          "allowsDefaultTighteningForTruncation": 0
+        }
       },
       "verticalAlignment": 0
     },

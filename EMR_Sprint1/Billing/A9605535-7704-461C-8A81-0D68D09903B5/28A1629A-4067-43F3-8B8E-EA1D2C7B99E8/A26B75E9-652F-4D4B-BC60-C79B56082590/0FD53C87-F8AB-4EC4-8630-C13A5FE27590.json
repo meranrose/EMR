@@ -9,43 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4941176470588236,
-            "green": 0.2705882352941176,
-            "red": 0.1058823529411765
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Interstate-Light",
-              "size": 14.08854166666666
+              "name": "Interstate-ExtraLight",
+              "size": 16
             }
           },
-          "kerning": 1.25,
+          "kerning": 0.2839187,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 1
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
         },
-        "length": 6,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "Got it"
+    "string": "Hey, you don't have auto pay set up."
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "5E750844-C231-400E-9240-0C96EEA27C45",
+  "do_objectID": "0FD53C87-F8AB-4EC4-8630-C13A5FE27590",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BD371FFF-80FD-41F3-A807-3BE783883248",
+    "do_objectID": "EA9EDFE5-AE82-4A49-A9BB-03C519856388",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2571AE1B-95DD-432E-8A54-2FEB9A37B782",
-    "height": 16,
-    "width": 43,
-    "x": 273.8125000000001,
-    "y": 167
+    "do_objectID": "E65B2958-004E-45A7-BF91-D849E4B0EE47",
+    "height": 20,
+    "width": 304,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 2}, {41, 12}}",
+  "glyphBounds": "{{1, 4}, {261, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,51 +68,49 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Got it",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "name": "Subtitle 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "82EC0DE6-FDAB-48E8-9E17-409303421766",
+  "sharedStyleID": "7AB1794B-0A21-4FC2-A221-7554444D6621",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5089390E-CF8D-44E8-993C-7EEAD731E43F",
+    "do_objectID": "4D2C3DEE-0F8D-4CCA-9C2A-5FA58AD0C990",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "5651662C-28CF-4C70-92C8-D7FA7D10A686",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4941176470588236,
-          "green": 0.2705882352941176,
-          "red": 0.1058823529411765
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Interstate-Light",
-            "size": 14.08854166666666
+            "name": "Interstate-ExtraLight",
+            "size": 16
           }
         },
-        "kerning": 1.25,
+        "kerning": 0.2839187,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 1
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

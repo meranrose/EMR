@@ -32,20 +32,20 @@
           "strikethroughStyle": 0,
           "underlineStyle": 1
         },
-        "length": 6,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Got it"
+    "string": "Set up eBilling"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E750844-C231-400E-9240-0C96EEA27C45",
+  "do_objectID": "F8693CD4-F8AA-4A9A-9312-AD3C90DEBB78",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BD371FFF-80FD-41F3-A807-3BE783883248",
+    "do_objectID": "4716F345-3313-44CB-8BA8-1C090330B9F1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +56,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2571AE1B-95DD-432E-8A54-2FEB9A37B782",
+    "do_objectID": "70FD2056-5323-455F-8306-578F31105048",
     "height": 16,
-    "width": 43,
-    "x": 273.8125000000001,
-    "y": 167
+    "width": 113,
+    "x": 0,
+    "y": 20
   },
-  "glyphBounds": "{{0, 2}, {41, 12}}",
+  "glyphBounds": "{{2, 2}, {107, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Got it",
+  "name": "Set up eBilling",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,12 +80,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5089390E-CF8D-44E8-993C-7EEAD731E43F",
+    "do_objectID": "3CC858D7-BFD3-4413-A9C8-38F398546548",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "3F6BB1AC-1B24-474A-B9BB-7189B4FFF568",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -117,5 +118,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

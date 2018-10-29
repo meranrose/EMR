@@ -32,20 +32,20 @@
           "strikethroughStyle": 0,
           "underlineStyle": 1
         },
-        "length": 6,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Got it"
+    "string": "Set up AutoPay"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E750844-C231-400E-9240-0C96EEA27C45",
+  "do_objectID": "F14C4A3C-EFAC-4BA8-AA08-E3CB7B17360D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BD371FFF-80FD-41F3-A807-3BE783883248",
+    "do_objectID": "9DCBE8D9-8F0E-4B06-9E6B-08489C9B9A1A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +56,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2571AE1B-95DD-432E-8A54-2FEB9A37B782",
+    "do_objectID": "2BFC9879-D2A5-43AE-870D-97F9479B13E1",
     "height": 16,
-    "width": 43,
-    "x": 273.8125000000001,
-    "y": 167
+    "width": 119,
+    "x": 0,
+    "y": 20
   },
-  "glyphBounds": "{{0, 2}, {41, 12}}",
+  "glyphBounds": "{{2, 2}, {114, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Got it",
+  "name": "Set up AutoPay",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,12 +80,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5089390E-CF8D-44E8-993C-7EEAD731E43F",
+    "do_objectID": "A92BA23F-BC09-4E4C-9C14-F7097E2191EC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E166F731-1B40-47D9-9D55-9A2CBB19C4EE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -117,5 +118,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

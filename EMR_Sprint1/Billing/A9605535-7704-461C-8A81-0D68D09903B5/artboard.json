@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "7FE006DE-F0E3-4026-BBCA-309726B2D5BF",
+    "do_objectID": "FC237E91-E378-4080-8858-D4EBE337E76C",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6966DBB3-802D-4116-ABD6-C067480B1FCC",
+  "do_objectID": "A9605535-7704-461C-8A81-0D68D09903B5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3C2BB237-C732-4C02-B280-27F8101A9C39",
+    "do_objectID": "58E0C4F7-BF77-4199-A123-1663553F9BB4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DDC30E8A-FEA4-4AF4-AE85-6A0598BFE311",
-    "height": 667,
+    "do_objectID": "A61006CE-F6B6-4DAE-853C-D116E1A02FA0",
+    "height": 785,
     "width": 375,
-    "x": 886,
-    "y": -664
+    "x": 411,
+    "y": -662
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8B1C2A93-07CC-4655-882F-7FCC570E67EA",
+    "do_objectID": "0CF8CA31-B5A0-4AFA-BAC0-580A0D5F2D5D",
     "guides": [
       451
     ]
@@ -52,35 +52,39 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "0E673524-2552-4C8B-8C66-093388C8B561"
+      "class": "group",
+      "id": "28A1629A-4067-43F3-8B8E-EA1D2C7B99E8"
     },
     {
       "class": "symbolInstance",
-      "id": "C13BCE82-306A-49E6-BB76-9D6F1C8A6C99"
+      "id": "AC0E76B8-77DE-441A-AD2B-AD8CBDA4A03A"
+    },
+    {
+      "class": "group",
+      "id": "10EB319E-6DD9-4D0B-B2B0-AC453CC8CA75"
     },
     {
       "class": "symbolInstance",
-      "id": "D88897C2-4E31-4BAF-8525-179B6AA135D3"
+      "id": "233AF213-7B5B-47D2-BB76-927B3A677BE9"
+    },
+    {
+      "class": "text",
+      "id": "3F77A8B0-48AD-4E33-A96F-712161DC5771"
+    },
+    {
+      "class": "text",
+      "id": "D0354255-29D3-4316-833F-2B56F7F8C2DA"
     },
     {
       "class": "symbolInstance",
-      "id": "AA139FBB-37FF-4059-B27F-543CED4E45AD"
+      "id": "B411A49E-BDC0-44F6-9B6A-714BEE56386E"
     },
     {
-      "class": "symbolInstance",
-      "id": "6184DB34-A1CE-4493-BFB1-5733A6C01381"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F22CF944-EA46-4F4C-9436-B4C25AF50BE6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E4418E58-D691-4347-A204-D4E5593E3E92"
+      "class": "text",
+      "id": "2AEEED40-C03C-45E3-A663-550B0FB4FB99"
     }
   ],
-  "name": "Pay - Modify 1",
+  "name": "Pay - Quick",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -96,7 +100,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "5C00A553-DFBC-449B-8FBA-7F0136C78D2E",
+    "do_objectID": "77E51F9D-DC68-423C-9618-3339C77D5FE6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -105,7 +109,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "26E55A45-0809-4A1E-ABD0-0511DE8C5BBB",
+    "do_objectID": "A7B8FE61-8942-4FB6-8996-C74BEC5BA699",
     "guides": [
       402,
       331,

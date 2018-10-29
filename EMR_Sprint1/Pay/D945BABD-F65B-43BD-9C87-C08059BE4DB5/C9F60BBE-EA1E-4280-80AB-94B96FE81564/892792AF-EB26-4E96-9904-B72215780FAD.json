@@ -58,11 +58,11 @@
     "constrainProportions": false,
     "do_objectID": "A6E00242-0B34-4BC2-9F2C-E3347493BE9C",
     "height": 16,
-    "width": 44.79166666666669,
-    "x": 272.9166666666667,
+    "width": 43,
+    "x": 273.8125000000001,
     "y": 159
   },
-  "glyphBounds": "{{2, 2}, {40, 12}}",
+  "glyphBounds": "{{0, 2}, {41, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -118,5 +118,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
