@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 230,
-    "width": 568,
-    "x": -97,
-    "y": 95
+    "height": 146,
+    "width": 375,
+    "x": 0,
+    "y": 199
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,12 +30,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "63751969-407B-4CE7-BACF-B34D2C83F204"
+      "class": "rectangle",
+      "id": "C908861C-FB24-4FC2-A182-B5A021F6D0DE"
     },
     {
-      "class": "group",
-      "id": "13576DE4-A0FB-40AC-974B-F3CACBCC5394"
+      "class": "text",
+      "id": "A848AB86-533A-454A-9DE7-EF547E8B65B8"
+    },
+    {
+      "class": "text",
+      "id": "57E5674A-D1C7-4E26-9025-3153D9E83324"
+    },
+    {
+      "class": "rectangle",
+      "id": "40DFAC07-6A0B-47E4-A2B9-BCA9F4F30D2D"
     },
     {
       "class": "symbolInstance",
@@ -52,6 +60,14 @@
     {
       "class": "symbolInstance",
       "id": "E754A0B2-B521-4701-8801-BCC57FDC8C3D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2D682765-B26D-4437-978C-6AD866601E4A"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E591E8A-5522-49F2-9898-031AC7DF9591"
     }
   ],
   "name": "Content Type 1",

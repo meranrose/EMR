@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 741,
-    "width": 375,
-    "x": -1264,
-    "y": -674
+    "height": 399,
+    "width": 344,
+    "x": 850,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -61,14 +61,6 @@
     {
       "class": "symbolInstance",
       "id": "EA4AB654-6EEF-4D71-BA0D-C62515C64A9C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CA52ACAE-065D-4E5C-826B-D254D37AA063"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B3025D41-CFF3-46BB-B0D1-22231A7E50EB"
     }
   ],
   "name": "Pay - Dialog - Autopay",

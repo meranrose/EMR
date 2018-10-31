@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 205,
+        "length": 204,
         "location": 0
       }
     ],
-    "string": " Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. Proin posuere malesuada ante. Proin auctor orci eros, ac molestie lorem dictum nec. Vestibulum sit amet erat est. Morbi luctus sed elit ac luctus"
+    "string": "Vivamus ut velit aliquet, mollis purus eget, iaculis nisl. Proin posuere malesuada ante. Proin auctor orci eros, ac molestie lorem dictum nec. Vestibulum sit amet erat est. Morbi luctus sed elit ac luctus"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E1A78D15-FF54-4E15-B004-C3AC4826A88B",
-    "height": 140,
-    "width": 229,
+    "height": 120,
+    "width": 274,
     "x": 34,
-    "y": 101
+    "y": 104
   },
-  "glyphBounds": "{{0, 4}, {225, 133}}",
+  "glyphBounds": "{{0, 4}, {267, 113}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

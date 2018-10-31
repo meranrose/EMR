@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "600C2F69-FD0D-415B-B275-0CDB72A0DC2F",
-    "height": 741,
-    "width": 375,
-    "x": -388,
-    "y": -674
+    "height": 193,
+    "width": 344,
+    "x": 1638,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,14 +53,6 @@
     {
       "class": "group",
       "id": "49870562-08A2-48BD-8581-BBEC63C0A0D7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CAD6593F-DC91-48DD-828F-E35016CDA7F2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "ACA376A9-DB0F-441E-91F0-D7B860B9863C"
     }
   ],
   "name": "Pay - Dialog - Pending Payment",

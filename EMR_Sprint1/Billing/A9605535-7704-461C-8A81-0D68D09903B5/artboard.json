@@ -52,10 +52,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "FF27C0A0-1FF8-41AC-AA23-ABCD536F311A"
-    },
-    {
       "class": "symbolInstance",
       "id": "EF2EF0D1-480D-4EB2-99F7-7214F725D75B"
     },
@@ -114,9 +110,13 @@
     {
       "class": "text",
       "id": "A31074D9-312D-4783-9FFE-D17CA236BE7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D289B035-CE52-4C8A-BAAD-1B261132096D"
     }
   ],
-  "name": "Billing - Landing",
+  "name": "Billing - 1 Default",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

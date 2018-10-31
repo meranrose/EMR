@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "74B6F79F-59DF-4BBF-9E7D-719AC02DA7F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCE85820-EA0E-4F24-B5CC-314730F657CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F59D3CA-BA16-4C3A-9532-696AA0C54211",
+    "height": 139,
+    "width": 311,
+    "x": 32,
+    "y": 60
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Landing / Personalization Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "856C92D8-06B5-4092-BBD8-0D712FA8C8F9",
+      "overrideName": "CC3695ED-3302-4DA6-ABB2-7B4B8C82B718_stringValue",
+      "value": "Happy Tuesday. Swipe below to see information about your usage."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC49ED46-B556-400C-ABA8-5EC7FB9C58BE",
+      "overrideName": "FC636E72-75A7-4A01-8487-20F244FCD83D_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E026CA0-F19D-4DEB-AA08-953473794535",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76062D04-476D-44F7-AE21-53325B357091",
+  "verticalSpacing": 0
+}

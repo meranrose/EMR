@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "DA42660F-5E11-40F3-908F-01A669385882",
     "height": 145,
-    "width": 153,
+    "width": 142,
     "x": 0,
     "y": 0
   },
@@ -36,8 +36,12 @@
       "id": "57195D8E-4E70-4E0E-B3A8-50AEFFFE4F9E"
     },
     {
-      "class": "group",
-      "id": "387427F3-A5BD-4AB7-AB86-6AFBDF4B6792"
+      "class": "text",
+      "id": "AB5DB5C2-8253-4C0B-AF17-43102EA750CC"
+    },
+    {
+      "class": "text",
+      "id": "F1563F41-70E7-4693-81FB-98E6EB3285F2"
     },
     {
       "class": "text",

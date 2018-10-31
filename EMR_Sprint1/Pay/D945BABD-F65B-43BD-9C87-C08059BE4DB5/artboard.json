@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5030A019-90D6-48B1-92F5-0D27A896DC82",
-    "height": 741,
-    "width": 375,
-    "x": -826,
-    "y": -674
+    "height": 193,
+    "width": 344,
+    "x": 1244,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,14 +53,6 @@
     {
       "class": "group",
       "id": "C9F60BBE-EA1E-4280-80AB-94B96FE81564"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "821EAC2C-FE2B-4B73-B599-8C4D52652828"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5DF3C182-A807-4B9A-B74D-CE7DA198A712"
     }
   ],
   "name": "Pay - Dialog - Excecution Failure",

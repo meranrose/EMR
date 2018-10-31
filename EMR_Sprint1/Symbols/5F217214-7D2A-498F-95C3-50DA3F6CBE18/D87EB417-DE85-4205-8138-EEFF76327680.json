@@ -24,7 +24,7 @@
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
@@ -59,8 +59,8 @@
     "do_objectID": "097EE025-D564-4E2D-B915-9CA658AE52EA",
     "height": 16,
     "width": 113,
-    "x": 129,
-    "y": 322
+    "x": 29,
+    "y": 281
   },
   "glyphBounds": "{{0, 2}, {111, 13}}",
   "hasClippingMask": false,
@@ -106,7 +106,7 @@
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 16,
           "minimumLineHeight": 16

@@ -1,0 +1,96 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E1148CD4-3C33-4C1C-BAC8-11C53802D249",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1AD5193-7F72-49DD-807F-7E9A5727B120",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42B03EDC-9C40-427A-97E2-55C3A7D0DC87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "011CF808-4667-4F83-A589-05030A86D83F",
+    "height": 958,
+    "width": 375,
+    "x": -188,
+    "y": -479
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FA11F0F8-04AF-45AB-92CD-2AC398FCA91E",
+    "guides": [
+      451
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B4D1227A-D9CF-4EEE-827A-29E3D52895EB"
+    },
+    {
+      "class": "text",
+      "id": "226061FA-EEBD-40F1-88F0-6E69F6439A69"
+    }
+  ],
+  "name": "Usage - Landing",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C95F85D5-06D9-4076-B2D2-9F616EE16A5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DC438BC6-F72F-4995-BE17-4D33A3106122",
+    "guides": [
+      402,
+      331,
+      145,
+      -96
+    ]
+  }
+}

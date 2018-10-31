@@ -37,16 +37,32 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AC58C410-8625-4EAA-B9BE-8E931DC5D44A"
+      "class": "group",
+      "id": "283B49D6-88B6-42FC-9CE6-D37E6AAE345C"
     },
     {
-      "class": "artboard",
-      "id": "D87E2512-C0DC-446B-8557-4A17C0FE19F6"
+      "class": "bitmap",
+      "id": "9F795B16-A643-4998-B4BD-8261B7C05422"
     },
     {
-      "class": "artboard",
-      "id": "AE6BE03D-F328-43AA-8AC2-E56318016B3F"
+      "class": "bitmap",
+      "id": "41F112F9-C852-44F4-93DC-F97A2BFCF001"
+    },
+    {
+      "class": "bitmap",
+      "id": "169D3D84-9343-4915-AF5D-58948433DB45"
+    },
+    {
+      "class": "bitmap",
+      "id": "DD0FA8E6-BE5F-4148-8059-E3BA9CFD597E"
+    },
+    {
+      "class": "bitmap",
+      "id": "9332FD2C-8D02-4634-86D4-76979E8666B6"
+    },
+    {
+      "class": "bitmap",
+      "id": "DBB35157-E0E4-4495-9806-902470BD96B5"
     },
     {
       "class": "artboard",
@@ -57,8 +73,20 @@
       "id": "428FE05D-9D96-4867-BC13-17F866E10242"
     },
     {
+      "class": "artboard",
+      "id": "AE6BE03D-F328-43AA-8AC2-E56318016B3F"
+    },
+    {
+      "class": "artboard",
+      "id": "AC58C410-8625-4EAA-B9BE-8E931DC5D44A"
+    },
+    {
+      "class": "artboard",
+      "id": "D87E2512-C0DC-446B-8557-4A17C0FE19F6"
+    },
+    {
       "class": "group",
-      "id": "283B49D6-88B6-42FC-9CE6-D37E6AAE345C"
+      "id": "53268822-6F57-4258-BAF7-E335CB5F89D3"
     }
   ],
   "name": "Archive",

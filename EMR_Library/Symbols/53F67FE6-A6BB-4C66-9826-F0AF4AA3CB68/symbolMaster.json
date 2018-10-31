@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 37,
+  "changeIdentifier": 47,
   "clippingMaskMode": 0,
   "do_objectID": "53F67FE6-A6BB-4C66-9826-F0AF4AA3CB68",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "x": 8437,
     "y": 124
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -38,7 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,6 +48,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "E1C03ED2-D588-43D2-8871-B3A7A645FD2A"
+    },
     {
       "class": "group",
       "id": "D4340651-425F-4E2E-A73D-9CFA7F31B61D"

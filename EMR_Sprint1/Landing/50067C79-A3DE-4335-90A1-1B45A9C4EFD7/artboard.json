@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DE207370-4932-4463-9BCB-F17870FC78F7",
-    "height": 987,
+    "height": 753,
     "width": 375,
-    "x": 1880,
-    "y": -1523
+    "x": 0,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -64,19 +64,23 @@
       "id": "3E0D434D-6685-4D1F-B29C-C62A903D6099"
     },
     {
-      "class": "text",
-      "id": "DA8E7AB5-F322-45F6-B3BA-C7ECE8ECC03B"
-    },
-    {
-      "class": "text",
-      "id": "6B4B3E9D-51E9-4792-9E75-6FFD408CCEC0"
+      "class": "group",
+      "id": "34CFA215-35DA-40D5-8716-32062AAD7644"
     },
     {
       "class": "group",
-      "id": "34CFA215-35DA-40D5-8716-32062AAD7644"
+      "id": "0480E169-E1F4-47AB-93B0-120413690C60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74B6F79F-59DF-4BBF-9E7D-719AC02DA7F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10B36E2A-8A4F-49CF-9C8F-61A6C9E881A5"
     }
   ],
-  "name": "Landing - Usage",
+  "name": "Landing - 1 Usage (Default)",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3D25C0A6-5B06-4037-81B1-BD3A524CE908",
-    "height": 987,
+    "height": 667,
     "width": 375,
-    "x": 2355,
-    "y": -1523
+    "x": 425,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,6 +53,10 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "2654E3FA-3073-47DA-98E8-D9E7F5CFDFE8"
+    },
+    {
+      "class": "symbolInstance",
       "id": "99093EE7-86A4-42A2-B933-F4111C7A9F02"
     },
     {
@@ -64,19 +68,11 @@
       "id": "5D0129ED-ED02-444C-B92A-E18F045D1208"
     },
     {
-      "class": "text",
-      "id": "499F1E73-D770-4796-861D-F034A76A8B00"
-    },
-    {
-      "class": "text",
-      "id": "057C527E-3186-408C-A67D-CB4DB03C64B1"
-    },
-    {
-      "class": "text",
-      "id": "F45503FC-8348-4C08-B017-EF9448A81753"
+      "class": "shapeGroup",
+      "id": "D0FF5D0A-203A-443D-9189-CC40AE43BA2D"
     }
   ],
-  "name": "Landing - Tiered",
+  "name": "Landing - 2 Tiered",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4BD3FBE9-4EA2-49CD-9FFC-12ADE1B0B36D",
-    "height": 987,
+    "height": 767,
     "width": 375,
-    "x": 982,
-    "y": -1523
+    "x": 1700,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -59,31 +59,23 @@
       "id": "39E4A854-07A0-4C1D-AFC0-915EAC616577"
     },
     {
-      "class": "rectangle",
-      "id": "2D682765-B26D-4437-978C-6AD866601E4A"
-    },
-    {
-      "class": "rectangle",
-      "id": "6E591E8A-5522-49F2-9898-031AC7DF9591"
-    },
-    {
       "class": "symbolInstance",
       "id": "49A838B6-3408-4F23-87D5-E51E92056976"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "29C534B3-E006-4592-888B-08802468C997"
     },
     {
       "class": "symbolInstance",
       "id": "FDD22FB6-280F-40D7-A2ED-3398C1FA3492"
     },
     {
-      "class": "text",
-      "id": "4E4A80EA-2936-4D70-8E63-37E5C3D46C39"
+      "class": "symbolInstance",
+      "id": "6E67598B-D677-40F0-AD34-2BEA859BB327"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9569279-7E1E-4051-8873-42572A375D23"
     }
   ],
-  "name": "Landing - Off Peak",
+  "name": "Landing - 5 Off Peak",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

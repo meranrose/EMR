@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EE391E35-457C-4590-A9D6-7669D5AAA620",
-    "height": 201,
-    "width": 191,
-    "x": 136,
+    "height": 145,
+    "width": 135,
+    "x": 174,
     "y": 0.5
   },
   "hasClickThrough": false,
@@ -40,16 +40,16 @@
       "id": "9095EF97-E0B8-4176-81EB-498E79B9DF00"
     },
     {
-      "class": "group",
-      "id": "16ABC6F5-C1EB-4A19-B439-09715D77B139"
+      "class": "text",
+      "id": "39DD71B0-76E7-4338-B81D-8909475C744B"
+    },
+    {
+      "class": "text",
+      "id": "E33B484E-2F0E-43DB-B240-45B4A0C6437D"
     },
     {
       "class": "text",
       "id": "DA3A04D2-0EF5-4CA9-9A72-9D9571684CE2"
-    },
-    {
-      "class": "group",
-      "id": "0480E169-E1F4-47AB-93B0-120413690C60"
     }
   ],
   "name": "Group 7",

@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "17DA0CF1-3471-49A0-ACEB-D2BBB0A08AE9",
-    "height": 667,
+    "height": 767,
     "width": 375,
-    "x": 1406,
-    "y": -662
+    "x": 3307,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -62,6 +62,10 @@
     {
       "class": "text",
       "id": "62EF2028-6BDE-4C60-991D-2E7AC2BE34E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7722797C-EEA5-4B86-AFDF-E8299BF5D96D"
     }
   ],
   "name": "Pay - Modify - Other Amount",

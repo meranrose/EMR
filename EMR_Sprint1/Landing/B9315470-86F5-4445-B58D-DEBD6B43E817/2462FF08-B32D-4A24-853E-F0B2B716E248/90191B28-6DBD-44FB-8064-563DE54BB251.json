@@ -19,8 +19,8 @@
     "do_objectID": "E2BF8F81-D76C-44E7-B723-FD8DFFEBBE53",
     "height": 41,
     "width": 142,
-    "x": 422,
-    "y": 160
+    "x": 294,
+    "y": 46
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,6 +33,12 @@
   "name": "Time Box Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C122C562-8A75-41F3-B633-2EC50CC0DAC2",
+      "overrideName": "221E8A0B-5054-4203-98D0-DAD12CE46370_stringValue",
+      "value": "Mid"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -24,10 +24,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6D4C5A85-CE1E-44BE-8D01-32B4B971818C",
-    "height": 987,
+    "height": 767,
     "width": 375,
-    "x": 537,
-    "y": -1523
+    "x": 1275,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -60,6 +60,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "C7A5F704-64B5-424B-ACC7-2B6026BE702C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "26CE1E77-644D-438A-B176-D392336205BD"
     },
     {
@@ -67,11 +71,11 @@
       "id": "D8B84067-48A5-480C-860C-4B3A56717B75"
     },
     {
-      "class": "text",
-      "id": "EEB0EA2E-1518-4619-B66E-EF167B170668"
+      "class": "shapeGroup",
+      "id": "DEE2475A-644A-4FBB-98B2-1E2F0172A699"
     }
   ],
-  "name": "Landing - Peak",
+  "name": "Landing - 4 Peak",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

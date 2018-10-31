@@ -81,7 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8956D2C4-9869-4D25-A598-A0AAED5406B1",
+  "sharedStyleID": "C2193D40-CE04-41CD-BC45-5AB1FBFDF7FD",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -122,9 +122,9 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 1,
         "spread": -1
       },
       {
@@ -142,7 +142,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 1,
         "spread": 0
@@ -162,7 +162,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 4,
         "spread": 0

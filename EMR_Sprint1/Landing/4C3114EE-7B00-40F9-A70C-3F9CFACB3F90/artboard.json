@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2D543630-FD19-45EF-B529-017927702776",
-    "height": 560,
-    "width": 295,
-    "x": 154,
-    "y": -1482
+    "height": 506,
+    "width": 344,
+    "x": 2125,
+    "y": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -72,7 +72,7 @@
       "id": "4EF7164C-F203-426A-9396-8B3A71FF3140"
     }
   ],
-  "name": "Learn More",
+  "name": "Modal - Learn More",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
