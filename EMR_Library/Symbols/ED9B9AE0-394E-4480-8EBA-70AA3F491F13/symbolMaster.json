@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 78,
+  "changeIdentifier": 272,
   "clippingMaskMode": 0,
   "do_objectID": "ED9B9AE0-394E-4480-8EBA-70AA3F491F13",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 96,
-    "x": 475,
-    "y": 680
+    "height": 40,
+    "width": 270,
+    "x": 2864,
+    "y": 560
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +59,7 @@
   ],
   "name": "Buttons /  Outlined",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

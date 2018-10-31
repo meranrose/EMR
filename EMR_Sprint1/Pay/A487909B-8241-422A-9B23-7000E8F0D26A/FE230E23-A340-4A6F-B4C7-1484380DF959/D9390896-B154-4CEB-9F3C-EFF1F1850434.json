@@ -10,7 +10,7 @@
             "_class": "color",
             "alpha": 1,
             "blue": 0.4941176470588236,
-            "green": 0.2705882352941176,
+            "green": 0.2705882352941179,
             "red": 0.1058823529411765
           },
           "MSAttributedStringFontAttribute": {
@@ -20,23 +20,20 @@
               "size": 14.08854166666666
             }
           },
-          "kerning": 1.25,
+          "kerning": 0.25,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 1
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
         },
         "length": 14,
         "location": 0
       }
     ],
-    "string": "Modify AutoPay"
+    "string": "Update AutoPay"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 122.9166666666667,
-    "x": 127.0833333333333,
-    "y": 192
+    "height": 20,
+    "width": 107,
+    "x": 41,
+    "y": 344
   },
-  "glyphBounds": "{{4, 2}, {115, 14}}",
+  "glyphBounds": "{{1, 4}, {105, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,12 +66,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Modify AutoPay",
+  "name": "Update AutoPay",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "82EC0DE6-FDAB-48E8-9E17-409303421766",
+  "sharedStyleID": "68A21835-6FE2-4F58-9604-456C944E6E2F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +86,7 @@
           "_class": "color",
           "alpha": 1,
           "blue": 0.4941176470588236,
-          "green": 0.2705882352941176,
+          "green": 0.2705882352941179,
           "red": 0.1058823529411765
         },
         "MSAttributedStringFontAttribute": {
@@ -99,21 +96,18 @@
             "size": 14.08854166666666
           }
         },
-        "kerning": 1.25,
+        "kerning": 0.25,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 1
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

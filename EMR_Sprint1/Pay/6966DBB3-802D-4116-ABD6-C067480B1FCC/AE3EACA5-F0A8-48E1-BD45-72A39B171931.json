@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE3EACA5-F0A8-48E1-BD45-72A39B171931",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F39356E7-0218-4E4C-BA70-661D3F62844A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "311C8F8B-BAD5-4C7D-9482-A29AA518B065",
+    "height": 94,
+    "width": 311,
+    "x": 32,
+    "y": 301
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8583180-3880-469A-A4F4-946C794DB5BE",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_stringValue",
+      "value": "Bank of America ****1234"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EB3E8DE-8D22-45AF-A25A-07BEE498FBB6",
+      "overrideName": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1_stringValue",
+      "value": "Manage Bank Accounts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57A5434F-784A-466B-936E-E5211C4DDAB4",
+      "overrideName": "29026114-B7A0-4362-8164-7F2F9BDCB190_stringValue",
+      "value": "Bank Account"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "901F6CD3-E9FA-4C96-8952-79A2DBBE4475",
+      "overrideName": "FA8CC5C4-683A-4E08-B352-CBA32ED8AA3B_symbolID",
+      "value": "59936ADF-8D4F-40DC-9558-FDCABBBDCC24"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7811D94D-C76E-4589-8B56-409EC66C75FF",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_textStyle",
+      "value": "7AB1794B-0A21-4FC2-A221-7554444D6621"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5CB7BAC-8EC5-43F5-9989-20AFA194B1C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A024B0F3-858F-43C4-98DD-DE595AAD79CD",
+  "verticalSpacing": 0
+}

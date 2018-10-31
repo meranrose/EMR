@@ -27,7 +27,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Tab4",
@@ -77,6 +77,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "do_objectID": "140E8A27-0E33-42FA-964E-9D037549653B",
     "endMarkerType": 0,
     "miterLimit": 10,

@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8C272D5C-770D-413C-9DED-41506C6A4EAD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73266350-F692-44FF-9C76-04696D946D78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "454402FC-3281-4EC3-931B-20FE7C13E03F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D490589-45B8-4FB4-97D8-C5ADB47DDE2A",
+    "height": 560,
+    "width": 295,
+    "x": 478,
+    "y": -662
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8C26E636-3E53-4949-97B8-6AA6FF62B8EA",
+    "guides": [
+      451
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21F0B643-B854-4FAC-A662-96CBE6E2E8E3"
+    },
+    {
+      "class": "text",
+      "id": "EAC0BCA5-002A-4036-A65B-908B8E0B0F09"
+    },
+    {
+      "class": "rectangle",
+      "id": "BC7E4031-FE93-43F0-BCC8-FFE45DCEB673"
+    },
+    {
+      "class": "text",
+      "id": "27C8EE77-8C2D-41DE-8B69-CF172A889452"
+    }
+  ],
+  "name": "Learn More",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "731DB225-4F0B-41F6-8BEB-FC9F5ADD61CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "335642DE-5F0B-4A2B-BFD8-CC9F796EA8BD",
+    "guides": [
+      402,
+      331,
+      145,
+      -96
+    ]
+  }
+}

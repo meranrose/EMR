@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "21C7F60B-791C-416A-9897-44EF1B41048B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2992,
+  "clippingMaskMode": 0,
+  "do_objectID": "B92CE2C1-DB80-4797-B168-72E4353CF3F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "890D983F-82D8-4AF8-B63B-8C1E78BB7E71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F09BAF1-A3BD-4E23-8159-3776141476C1",
+    "height": 24,
+    "width": 24,
+    "x": 4581,
+    "y": 1116
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E472D7A-7AB2-473E-A6FD-D70B3C913EEC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3D9488CF-B10E-4F4D-826D-4A42167ADF98"
+    }
+  ],
+  "name": "Icons / Arrow - Down",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F95FCB2C-1C16-4339-A140-8C6EAF15795C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D81C53FE-0EEF-427F-84CC-47F19C96ACF8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A68A337C-5DB1-4D07-9882-4E0C13F98EB2",
+    "guides": [
+    ]
+  }
+}

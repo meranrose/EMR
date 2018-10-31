@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 530,
+  "changeIdentifier": 2521,
   "clippingMaskMode": 0,
   "do_objectID": "02396471-647C-46D9-B67B-13107456B8A0",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
+    "height": 94,
     "width": 290,
-    "x": 4126,
-    "y": -115
+    "x": 9566,
+    "y": -4
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +63,10 @@
     {
       "class": "text",
       "id": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA8CC5C4-683A-4E08-B352-CBA32ED8AA3B"
     }
   ],
   "name": "Text Field / With Link",

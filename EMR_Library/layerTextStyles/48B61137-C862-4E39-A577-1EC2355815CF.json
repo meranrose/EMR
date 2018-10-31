@@ -35,7 +35,10 @@
             "size": 16
           }
         },
-        "ligature": 0
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        }
       },
       "verticalAlignment": 0
     },

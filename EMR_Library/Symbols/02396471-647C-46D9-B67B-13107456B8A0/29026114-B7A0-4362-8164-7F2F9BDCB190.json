@@ -6,6 +6,13 @@
       {
         "_class": "stringAttribute",
         "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
+          },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
@@ -66,29 +73,18 @@
     "_class": "style",
     "do_objectID": "4F911025-19E2-49E0-AFC2-EBCAEBADB619",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 0.4,
           "green": 0.3882352941176471,
           "red": 0.4
         },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA753DD1-14B1-4F65-AA8E-D07F94C001D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F9EE927-82BA-4FB2-9377-491A2E28B4C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77F4B3C4-49DF-4320-9E73-E8F697E98617",
+    "height": 201,
+    "width": 236.25,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Calendar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1BFD7E7-659B-412B-9865-8461A012B12B",
+      "overrideName": "53EAB6CB-30D6-4F73-8BA1-326AFB63F395_stringValue",
+      "value": "OCTOBER 2018"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C4C8723-6BE4-48F4-82E1-B02887CE2D7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B896707E-4A28-46A4-945D-93C0157ACFD0",
+  "verticalSpacing": 0
+}

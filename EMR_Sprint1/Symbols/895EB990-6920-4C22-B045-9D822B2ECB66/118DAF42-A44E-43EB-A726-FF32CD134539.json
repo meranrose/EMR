@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "118DAF42-A44E-43EB-A726-FF32CD134539",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40A5CF1F-8AC8-4D49-B8C6-5143A41457AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7672BD7F-D49A-4B7F-AEEE-C0A33AE10752",
+    "height": 60,
+    "width": 104,
+    "x": 240,
+    "y": 120
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Selector / Payment Amount Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "322EA220-51AF-4898-8A06-D11CECB6A8DB",
+      "overrideName": "9C6037C3-5CF2-4F05-826A-EA06452D5828_stringValue",
+      "value": "Other"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFD537DE-199B-4BE6-9760-F7C6B133221F",
+      "overrideName": "ECD77EAF-83F1-4F94-B22B-6E20CC1A98A1_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E18B497-702F-48F9-8452-5EB9C1CC3A71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A0A3DB92-1734-4C11-BBBC-67FE5A80D015",
+  "verticalSpacing": 0
+}

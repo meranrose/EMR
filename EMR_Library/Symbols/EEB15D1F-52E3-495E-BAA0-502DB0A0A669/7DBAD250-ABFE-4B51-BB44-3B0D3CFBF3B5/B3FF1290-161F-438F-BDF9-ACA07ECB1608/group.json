@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3FF1290-161F-438F-BDF9-ACA07ECB1608",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6AEBBD4-88CD-48D8-BD30-6D8285755489",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "980415D9-7B99-4781-8826-E8B7D89ECE36",
+    "height": 15,
+    "width": 74,
+    "x": 276,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ADA7DB83-E798-40B0-8362-3602E5626793"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92A773A1-5061-4FFC-AAD5-9DD6191240A2"
+    }
+  ],
+  "name": "Right Detail",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6441E2C1-3F6D-42C8-9D09-43DF947C46AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

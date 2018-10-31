@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C8FBC44-89DB-4DA9-BCAB-2F3E554201EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A32BDA13-B745-4556-94A0-8DD5DA62DAC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0EA4568-5D84-4AE4-A829-5C68CCD5C1FE",
+    "height": 37,
+    "width": 53,
+    "x": 31,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "950C5559-DE61-40F4-9647-A28E7E58AEE6"
+    },
+    {
+      "class": "group",
+      "id": "A9156B0A-6CB9-47A1-9A41-194956ECCDAB"
+    }
+  ],
+  "name": "Icon / Done / Filled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12A4F2C7-E0B8-4D21-B8C2-7A6954DC928D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

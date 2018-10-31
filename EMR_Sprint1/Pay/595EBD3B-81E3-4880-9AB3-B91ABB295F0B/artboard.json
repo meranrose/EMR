@@ -53,54 +53,18 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "1AF07996-A711-4639-B1C5-19206C8277B1"
+    },
+    {
+      "class": "symbolInstance",
       "id": "BE3FA09B-BF02-4FAA-BDAF-3A6D2D3A42DF"
     },
     {
-      "class": "symbolInstance",
-      "id": "0ADBEE90-A337-4148-8787-D063208FF1E8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D9FC5242-554A-46A0-8BD4-2397BC6E9D2F"
-    },
-    {
-      "class": "group",
-      "id": "5C365419-5250-4338-8C33-953A2A5AF00B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FE374445-E4FF-427B-8AFB-D39C88C694DA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2067C6B9-B6AB-4BE4-A3D2-DB032C023026"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA2DFC86-6388-419F-B1F9-F4BD31A1F0FA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "590DEB63-900C-43BD-B351-13E04D652931"
-    },
-    {
-      "class": "rectangle",
-      "id": "4B9AFEA0-10BD-4593-BEA2-230FACB21714"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "118ED7AB-2A80-43CC-B349-D5EDCE42B217"
-    },
-    {
-      "class": "rectangle",
-      "id": "1E12F396-EA5D-48FA-AE10-4842373ED2B8"
-    },
-    {
-      "class": "group",
-      "id": "F69F903D-9BAB-4B95-9E8A-1BEB472A53BF"
+      "class": "text",
+      "id": "62EF2028-6BDE-4C60-991D-2E7AC2BE34E6"
     }
   ],
-  "name": "Pay - Modify - Amount",
+  "name": "Pay - Modify - Other Amount",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

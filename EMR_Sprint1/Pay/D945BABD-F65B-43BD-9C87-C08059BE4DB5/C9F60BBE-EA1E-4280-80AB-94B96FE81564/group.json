@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -37,7 +37,11 @@
     },
     {
       "class": "text",
-      "id": "A92ABDFF-8E61-4F8F-A569-F4D0A04C74D5"
+      "id": "FDBF8799-7E30-4481-8BBB-00491287AE02"
+    },
+    {
+      "class": "text",
+      "id": "E26B660D-874E-4E47-89A7-A5D0A7EBAD2C"
     },
     {
       "class": "text",

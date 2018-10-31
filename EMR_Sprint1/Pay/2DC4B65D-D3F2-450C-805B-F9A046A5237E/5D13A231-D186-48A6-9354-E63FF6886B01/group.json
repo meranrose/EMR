@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D13A231-D186-48A6-9354-E63FF6886B01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CD2A27E-6AC6-4839-AB70-20A368E8E7EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8B02561-CFB5-48D2-A799-110BCD15D653",
+    "height": 64,
+    "width": 187,
+    "x": 0,
+    "y": 721
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E841C503-3DCB-40E5-9C8A-C5D721974A99"
+    },
+    {
+      "class": "group",
+      "id": "FBD32887-A399-48A7-9E73-879ADD96D44E"
+    },
+    {
+      "class": "text",
+      "id": "B00AEE17-F626-4E26-BA0F-FBE952547DD1"
+    }
+  ],
+  "name": "Buttons / Primary Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26CEB5D6-9963-4630-8009-D01171080397",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

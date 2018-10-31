@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A6D777F7-D40F-4860-B156-8D65D86654E9",
-    "height": 740,
+    "height": 1518,
     "width": 360,
-    "x": -614,
-    "y": -865
+    "x": 1009,
+    "y": -1015
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -97,6 +97,14 @@
     {
       "class": "symbolInstance",
       "id": "21C4EA73-28B4-43A5-82D6-5DF0FA9F94AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABBF8491-763F-4562-9092-6E04AAB87E2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97FF164D-8A1C-4F1F-AC4A-BB6973C667B1"
     }
   ],
   "name": "*",

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49A838B6-3408-4F23-87D5-E51E92056976",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FBCB56B-2D52-4141-9BF2-848F5BAB1022",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8520BB62-D026-45BC-82CB-7AA227724E2A",
+    "height": 413,
+    "width": 375,
+    "x": 0,
+    "y": 382
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Landing / Account Details Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "533D1719-7CC5-4DCA-9CA9-168AA5A9E806",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D07A06BD-A3F4-4559-AE9C-A82E36E5F366",
+  "verticalSpacing": 0
+}

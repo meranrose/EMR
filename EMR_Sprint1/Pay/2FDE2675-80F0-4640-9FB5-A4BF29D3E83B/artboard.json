@@ -53,46 +53,22 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "26651A28-05DF-4DA5-AA04-3C8A763E960B"
+      "id": "78490001-B96B-477F-95F0-50776DFD3B4A"
     },
     {
       "class": "symbolInstance",
-      "id": "4DCA417B-1469-4458-987B-2782344D4849"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5C582B60-A9BA-4072-9B1B-F6D66DF12686"
-    },
-    {
-      "class": "group",
-      "id": "7A2CC107-DD73-48F8-807D-73CEA7D1199C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "161245BF-9E2A-4139-8377-149B0F38FF91"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B3FE3EE2-57C8-4F11-A5EB-B124A82B8570"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6DC1E0C7-7E12-449A-9D6C-58DB1D89A6C4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F3EDF6E9-FF8C-4B73-9E00-AB2C443AF352"
+      "id": "257DF4C6-8405-434B-B2BB-D9465B43B0E9"
     },
     {
       "class": "rectangle",
-      "id": "440F2CED-BE3B-44AE-9717-A67881971F69"
+      "id": "1B9E6AA9-2DD8-435A-ADD1-66E6AEC4F214"
     },
     {
       "class": "group",
-      "id": "E6697DA1-8B3E-4CF6-B15C-F09DDA253ADD"
+      "id": "9AB9C8EA-4C38-453D-BA5F-F9D7B2F5488F"
     }
   ],
-  "name": "Pay - Modify - Amount Copy",
+  "name": "Pay - Modify - Bank Account",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

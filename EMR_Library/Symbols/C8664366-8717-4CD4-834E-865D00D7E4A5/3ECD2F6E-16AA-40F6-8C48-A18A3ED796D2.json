@@ -27,7 +27,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Tab 2",
@@ -77,6 +77,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "do_objectID": "A11EDD7E-A72F-4795-B3CE-F1F36A857418",
     "endMarkerType": 0,
     "miterLimit": 10,

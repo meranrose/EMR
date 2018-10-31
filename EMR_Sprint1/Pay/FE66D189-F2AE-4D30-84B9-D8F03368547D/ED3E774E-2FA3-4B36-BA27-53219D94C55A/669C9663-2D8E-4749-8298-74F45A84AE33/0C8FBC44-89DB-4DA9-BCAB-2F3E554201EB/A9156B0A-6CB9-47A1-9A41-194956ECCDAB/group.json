@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9156B0A-6CB9-47A1-9A41-194956ECCDAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF1E09F4-5EEA-42D6-83AF-7FB7CDDFB643",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40A612EC-024B-4020-8337-A0354F6E8E66",
+    "height": 67.00000000000003,
+    "width": 73,
+    "x": -8.313725490196072,
+    "y": -18.00000000000002
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "896992BD-B296-40A0-9F7F-0B0C100FFF97"
+    }
+  ],
+  "name": "↳ Icon Color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F6C694F-6523-475B-8D4A-B7D773C506EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

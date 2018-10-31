@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
-    "width": 334.3750000000001,
-    "x": 20.83333333333334,
-    "y": 103
+    "height": 399,
+    "width": 336,
+    "x": 19.83333333333334,
+    "y": 100
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,8 +34,8 @@
       "id": "6EB02C7C-38D8-428F-B398-394111776151"
     },
     {
-      "class": "text",
-      "id": "8724660B-0926-4497-8803-D6D1532B22A5"
+      "class": "group",
+      "id": "C2E8A00E-4450-42A0-91C2-31D57A4BEAAA"
     },
     {
       "class": "text",
@@ -43,7 +43,7 @@
     },
     {
       "class": "text",
-      "id": "050B3FD4-A528-4910-9574-C586D91374DA"
+      "id": "25D2529B-9E82-4829-ACBC-308C1C184645"
     }
   ],
   "name": "Group",

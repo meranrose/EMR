@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 40,
   "clippingMaskMode": 0,
   "do_objectID": "FAD0F2CC-3FC3-4A30-AADE-8B0E7580D4C1",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 360,
-    "x": 2103,
+    "x": 8437,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "15CCD41C-7D66-41F8-B596-ECFD8DE6C20C"
+      "class": "group",
+      "id": "452304DF-5D68-443D-B711-1276FC5BA041"
     }
   ],
   "name": "System Bar / Android",

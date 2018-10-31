@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "346662CC-62FF-4345-8E1B-243526A43A32",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2534,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A29CD14-B825-4848-A747-44CAEF9B5CE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2F19B3A-BA40-476E-8AC1-42778C4C7BB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B42111EA-9A28-4274-A18E-35BD3E705CCA",
+    "height": 24,
+    "width": 24,
+    "x": 4500,
+    "y": 1116
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BF037879-2FA4-4C25-ADB4-E1C4A381E681",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C762090F-FC1B-4A39-A8C6-03414DAB31BD"
+    }
+  ],
+  "name": "Icons / Radio - Unselected",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7904BEA5-478D-4987-A26E-F27C80F6563E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "13674D3F-C73D-45F8-A6C8-62A53CFB6468",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9E9B0634-C8CA-4348-95D7-BE16A366ADEC",
+    "guides": [
+    ]
+  }
+}

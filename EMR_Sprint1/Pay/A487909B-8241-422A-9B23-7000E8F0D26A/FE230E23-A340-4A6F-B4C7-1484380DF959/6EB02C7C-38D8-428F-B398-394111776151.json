@@ -17,9 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
-    "width": 334.375,
-    "x": 0,
+    "height": 399,
+    "width": 335,
+    "x": 0.1666666666667425,
     "y": 0
   },
   "hasClippingMask": false,
@@ -122,7 +122,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 1,
         "spread": -1
       },
       {
