@@ -8,19 +8,19 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 34.21502976190476
+              "size": 36
             }
           },
-          "kerning": 0.25,
+          "kerning": 0.2630423,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D27EED00-68FC-47BE-B69A-7E042E67491E",
-    "height": 41,
-    "width": 92,
+    "height": 44,
+    "width": 97,
     "x": 32,
     "y": 44
   },
-  "glyphBounds": "{{3, 8}, {86, 32}}",
+  "glyphBounds": "{{3, 8}, {90, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,23 +81,22 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6AEC5376-7D9E-498F-A7A8-94413A537E88",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 34.21502976190476
+            "size": 36
           }
         },
-        "kerning": 0.25,
+        "kerning": 0.2630423,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

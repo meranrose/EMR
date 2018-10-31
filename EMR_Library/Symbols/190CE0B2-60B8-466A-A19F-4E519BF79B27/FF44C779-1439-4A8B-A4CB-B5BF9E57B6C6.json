@@ -28,7 +28,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "CONTAINER",
   "nameIsFixed": true,
@@ -48,5 +48,11 @@
     "windingRule": 1
   },
   "symbolID": "B0AC0C1F-E15F-4772-8208-811639A81727",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

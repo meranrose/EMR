@@ -8,19 +8,19 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.6,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "alpha": 1,
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 34.21502976190476
+              "size": 36
             }
           },
-          "kerning": 0.25,
+          "kerning": 0.2630423,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0EF75CAB-DAB3-4511-A8A4-DFD2FCDCDB9F",
-    "height": 41,
-    "width": 120,
+    "height": 44,
+    "width": 126,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 8}, {116, 32}}",
+  "glyphBounds": "{{3, 9}, {122, 33}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,23 +81,22 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5A97EBE3-6CB6-4FA3-BE3C-E107261C7354",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.6,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 34.21502976190476
+            "size": 36
           }
         },
-        "kerning": 0.25,
+        "kerning": 0.2630423,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

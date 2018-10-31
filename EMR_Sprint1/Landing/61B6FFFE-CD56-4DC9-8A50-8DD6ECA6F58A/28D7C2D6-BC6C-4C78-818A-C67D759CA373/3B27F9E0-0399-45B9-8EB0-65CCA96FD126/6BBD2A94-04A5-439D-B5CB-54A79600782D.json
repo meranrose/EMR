@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.4588235294117647,
+            "green": 0.2784313725490194,
+            "red": 0.1490196078431372
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 16
+              "size": 12
             }
           },
           "ligature": 0,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9AE1E3A0-C4DA-42A7-AF21-9B1EDA18934C",
-    "height": 19,
-    "width": 241,
+    "height": 15,
+    "width": 181,
     "x": 0,
     "y": 15
   },
-  "glyphBounds": "{{0, 3}, {240, 16}}",
+  "glyphBounds": "{{0, 3}, {180, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,20 +98,19 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "25797DFD-D378-4871-8A81-2AC139678A58",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.4588235294117647,
+          "green": 0.2784313725490194,
+          "red": 0.1490196078431372
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 16
+            "size": 12
           }
         },
         "ligature": 0,

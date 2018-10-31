@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1200,
+  "changeIdentifier": 1204,
   "clippingMaskMode": 0,
   "do_objectID": "F75C4D88-1543-4C01-958A-E2801EDED563",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 201,
     "width": 236,
-    "x": 263,
-    "y": 139
+    "x": 1742,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,8 +53,8 @@
       "id": "7AB87904-B49D-4A3B-A267-74FC02A3448B"
     }
   ],
-  "name": "Calendar",
-  "nameIsFixed": false,
+  "name": "Selector / Calendar",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

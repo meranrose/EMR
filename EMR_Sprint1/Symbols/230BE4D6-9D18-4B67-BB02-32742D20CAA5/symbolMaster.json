@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 18,
   "clippingMaskMode": 0,
   "do_objectID": "230BE4D6-9D18-4B67-BB02-32742D20CAA5",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 139,
     "width": 311,
-    "x": 3998,
-    "y": -35
+    "x": 372,
+    "y": 478
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -61,8 +61,8 @@
       "id": "EEB0EA2E-1518-4619-B66E-EF167B170668"
     }
   ],
-  "name": "Landing / Personalization",
-  "nameIsFixed": false,
+  "name": "Page / Landing / Personalization",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 16
+              "size": 12
             }
           },
           "ligature": 0,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2E5CC590-9A7D-404C-890B-4B43E3C530D1",
-    "height": 19,
-    "width": 127,
+    "height": 15,
+    "width": 96,
     "x": 0,
     "y": 15
   },
-  "glyphBounds": "{{0, 3}, {126, 15}}",
+  "glyphBounds": "{{0, 3}, {95, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -98,7 +98,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FE9970D5-0D50-4F9F-8235-31D6413B7C14",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -111,7 +110,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 16
+            "size": 12
           }
         },
         "ligature": 0,

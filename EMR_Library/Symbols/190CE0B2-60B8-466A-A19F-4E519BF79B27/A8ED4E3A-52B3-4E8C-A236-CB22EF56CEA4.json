@@ -27,7 +27,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Tab 2",
@@ -61,13 +61,13 @@
       "_class": "overrideValue",
       "do_objectID": "1BAA3891-25FB-4C87-801E-A3D477B7AFCA",
       "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/83F0E7CD-89C0-4CB9-9CCC-56118CDD9939_layerStyle",
-      "value": "1354FC8F-D151-48D2-9B8C-DCF2437FA187"
+      "value": "69D5FF07-7DCC-4B01-96CC-A3F851937ED3"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "3CAE4719-0619-4405-BAE9-F41365204694",
       "overrideName": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4_textStyle",
-      "value": "7A77AF4C-D27A-4AC8-B4BD-561616C0A354"
+      "value": "D119E3C3-35E8-4406-AE8F-B15E63417052"
     }
   ],
   "resizingConstraint": 21,
@@ -84,5 +84,11 @@
     "windingRule": 1
   },
   "symbolID": "821A13D9-90F3-439A-B5A1-2D433FD50580",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -138,11 +138,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "B92CE2C1-DB80-4797-B168-72E4353CF3F3"
+    },
+    {
+      "class": "symbolMaster",
       "id": "94F52DA2-AD87-4E99-8585-A3924CDBBB66"
     },
     {
       "class": "symbolMaster",
       "id": "1A750AD3-4666-47BB-872C-3A91A0DDDD95"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E513FB53-4C6E-4DE0-B3AD-DF03CF3B3ED2"
     },
     {
       "class": "symbolMaster",
@@ -170,11 +178,7 @@
     },
     {
       "class": "symbolMaster",
-      "id": "1D31CB6B-71E4-47AC-A1F5-B7FF181DAB79"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "D1762877-4441-4063-9551-09A3E3B77DBA"
+      "id": "39C862B3-E348-4ABB-9FEB-DAEEA93B84EB"
     },
     {
       "class": "symbolMaster",
@@ -182,15 +186,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "39C862B3-E348-4ABB-9FEB-DAEEA93B84EB"
+      "id": "1D31CB6B-71E4-47AC-A1F5-B7FF181DAB79"
     },
     {
       "class": "symbolMaster",
-      "id": "B92CE2C1-DB80-4797-B168-72E4353CF3F3"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E513FB53-4C6E-4DE0-B3AD-DF03CF3B3ED2"
+      "id": "D1762877-4441-4063-9551-09A3E3B77DBA"
     },
     {
       "class": "symbolMaster",
@@ -235,6 +235,14 @@
     {
       "class": "symbolMaster",
       "id": "97D374C8-371E-4B2D-859F-C352D199758D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "25210939-1C92-4665-AAEC-98A04A809834"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CE48CF25-775A-4D79-B379-A568690CF52B"
     },
     {
       "class": "symbolMaster",
@@ -286,15 +294,7 @@
     },
     {
       "class": "group",
-      "id": "3BA10DE3-0561-4789-92EC-3BF1F8303917"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "25210939-1C92-4665-AAEC-98A04A809834"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CE48CF25-775A-4D79-B379-A568690CF52B"
+      "id": "08A72CFE-52D9-4520-A5F4-33E9C43372A6"
     }
   ],
   "name": "Symbols",
@@ -309,6 +309,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sonburn.sketchplugins.symbol-organizer": {
+      "globalSettings": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

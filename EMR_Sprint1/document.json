@@ -406,6 +406,80 @@
       "remoteStyleID": "0C3AA349-A307-4580-AD03-E85B71FA4DA7[1354FC8F-D151-48D2-9B8C-DCF2437FA187]",
       "sourceLibraryName": "EMR_Library",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "0eb47310-d707-11e8-8c04-a36e2f861ebb",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]",
+        "name": "Fill / Blue / Primary",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4941176470588236,
+                "green": 0.2705882352941179,
+                "red": 0.1058823529411765
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]",
+      "sourceLibraryName": "EMR_Library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "0eb47310-d707-11e8-8c04-a36e2f861ebb",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "B2D265D8-3C50-4647-A850-062290992E23[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]",
+        "name": "Fill / Blue / Primary",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4941176470588236,
+                "green": 0.2705882352941179,
+                "red": 0.1058823529411765
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "B2D265D8-3C50-4647-A850-062290992E23[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]",
+      "sourceLibraryName": "EMR_Library",
+      "symbolPrivate": true
     }
   ],
   "foreignSymbols": [
@@ -1410,7 +1484,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 167,
+        "changeIdentifier": 195,
         "clippingMaskMode": 0,
         "do_objectID": "A722ACFA-0D9E-473C-993C-F6564E1BDEA1",
         "exportOptions": {
@@ -1427,7 +1501,7 @@
           "constrainProportions": false,
           "height": 56,
           "width": 94,
-          "x": 8912,
+          "x": 9651,
           "y": 0
         },
         "hasBackgroundColor": false,
@@ -1448,13 +1522,51 @@
         "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
-        "layerListExpandedType": 1,
+        "layerListExpandedType": 0,
         "layers": [
           {
-            "_class": "group",
-            "booleanOperation": -1,
+            "_class": "text",
+            "attributedString": {
+              "_class": "attributedString",
+              "attributes": [
+                {
+                  "_class": "stringAttribute",
+                  "attributes": {
+                    "MSAttributedStringColorAttribute": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.4941176470588236,
+                      "green": 0.2705882352941179,
+                      "red": 0.1058823529411765
+                    },
+                    "MSAttributedStringFontAttribute": {
+                      "_class": "fontDescriptor",
+                      "attributes": {
+                        "name": "Interstate-ExtraLight",
+                        "size": 12
+                      }
+                    },
+                    "kerning": 0.3974862,
+                    "ligature": 0,
+                    "paragraphStyle": {
+                      "_class": "paragraphStyle",
+                      "alignment": 2,
+                      "allowsDefaultTighteningForTruncation": 0,
+                      "maximumLineHeight": 16,
+                      "minimumLineHeight": 16
+                    }
+                  },
+                  "length": 7,
+                  "location": 0
+                }
+              ],
+              "string": "Caption"
+            },
+            "automaticallyDrawOnUnderlyingPath": false,
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
-            "do_objectID": "ECE06854-0861-492D-AEDA-30BF68AF74CF",
+            "do_objectID": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4",
+            "dontSynchroniseWithSymbol": false,
             "exportOptions": {
               "_class": "exportOptions",
               "exportFormats": [
@@ -1472,7 +1584,7 @@
               "x": 4,
               "y": 35
             },
-            "hasClickThrough": false,
+            "glyphBounds": "{{22, 3}, {42, 12}}",
             "hasClippingMask": false,
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
@@ -1480,134 +1592,58 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
-            "layers": [
-              {
-                "_class": "text",
-                "attributedString": {
-                  "_class": "attributedString",
-                  "attributes": [
-                    {
-                      "_class": "stringAttribute",
-                      "attributes": {
-                        "MSAttributedStringColorAttribute": {
-                          "_class": "color",
-                          "alpha": 1,
-                          "blue": 1,
-                          "green": 1,
-                          "red": 1
-                        },
-                        "MSAttributedStringFontAttribute": {
-                          "_class": "fontDescriptor",
-                          "attributes": {
-                            "name": "Interstate-ExtraLight",
-                            "size": 12.07589285714286
-                          }
-                        },
-                        "kerning": 0.4000000059604645,
-                        "ligature": 0,
-                        "paragraphStyle": {
-                          "_class": "paragraphStyle",
-                          "alignment": 2,
-                          "allowsDefaultTighteningForTruncation": 0,
-                          "maximumLineHeight": 16,
-                          "minimumLineHeight": 16
-                        }
-                      },
-                      "length": 7,
-                      "location": 0
-                    }
-                  ],
-                  "string": "Caption"
-                },
-                "automaticallyDrawOnUnderlyingPath": false,
-                "booleanOperation": 0,
-                "clippingMaskMode": 0,
-                "do_objectID": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4",
-                "dontSynchroniseWithSymbol": false,
-                "exportOptions": {
-                  "_class": "exportOptions",
-                  "exportFormats": [
-                  ],
-                  "includedLayerIds": [
-                  ],
-                  "layerOptions": 0,
-                  "shouldTrim": false
-                },
-                "frame": {
-                  "_class": "rect",
-                  "constrainProportions": false,
-                  "height": 16,
-                  "width": 86,
-                  "x": 0,
-                  "y": 0
-                },
-                "glyphBounds": "{{21, 3}, {43, 12}}",
-                "hasClippingMask": false,
-                "isFixedToViewport": false,
-                "isFlippedHorizontal": false,
-                "isFlippedVertical": false,
-                "isLocked": false,
-                "isVisible": true,
-                "layerListExpandedType": 0,
-                "lineSpacingBehaviour": 2,
-                "name": "Caption",
-                "nameIsFixed": true,
-                "resizingConstraint": 27,
-                "resizingType": 0,
-                "rotation": 0,
-                "sharedStyleID": "7A77AF4C-D27A-4AC8-B4BD-561616C0A354",
-                "shouldBreakMaskChain": false,
-                "style": {
-                  "_class": "style",
-                  "endMarkerType": 0,
-                  "miterLimit": 10,
-                  "startMarkerType": 0,
-                  "textStyle": {
-                    "_class": "textStyle",
-                    "encodedAttributes": {
-                      "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 1,
-                        "green": 1,
-                        "red": 1
-                      },
-                      "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                          "name": "Interstate-ExtraLight",
-                          "size": 12.07589285714286
-                        }
-                      },
-                      "kerning": 0.4000000059604645,
-                      "ligature": 0,
-                      "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 2,
-                        "allowsDefaultTighteningForTruncation": 0,
-                        "maximumLineHeight": 16,
-                        "minimumLineHeight": 16
-                      }
-                    },
-                    "verticalAlignment": 0
-                  },
-                  "windingRule": 1
-                },
-                "textBehaviour": 1
-              }
-            ],
+            "lineSpacingBehaviour": 2,
             "name": "Caption",
-            "nameIsFixed": false,
-            "resizingConstraint": 63,
+            "nameIsFixed": true,
+            "resizingConstraint": 27,
             "resizingType": 0,
             "rotation": 0,
+            "sharedStyleID": "D119E3C3-35E8-4406-AE8F-B15E63417052",
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
+              "do_objectID": "7BC6C990-05E0-4AED-AD1A-CE1D92FF1A6F",
               "endMarkerType": 0,
               "miterLimit": 10,
               "startMarkerType": 0,
+              "textStyle": {
+                "_class": "textStyle",
+                "encodedAttributes": {
+                  "MSAttributedStringColorAttribute": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.4941176470588236,
+                    "green": 0.2705882352941179,
+                    "red": 0.1058823529411765
+                  },
+                  "MSAttributedStringFontAttribute": {
+                    "_class": "fontDescriptor",
+                    "attributes": {
+                      "name": "Interstate-ExtraLight",
+                      "size": 12
+                    }
+                  },
+                  "kerning": 0.3974862,
+                  "ligature": 0,
+                  "paragraphStyle": {
+                    "_class": "paragraphStyle",
+                    "alignment": 2,
+                    "allowsDefaultTighteningForTruncation": 0,
+                    "maximumLineHeight": 16,
+                    "minimumLineHeight": 16
+                  }
+                },
+                "verticalAlignment": 0
+              },
               "windingRule": 1
+            },
+            "textBehaviour": 1,
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                  "isAutoWidth": 0
+                }
+              }
             }
           },
           {
@@ -1643,6 +1679,12 @@
             "name": "Icon",
             "nameIsFixed": true,
             "overrideValues": [
+              {
+                "_class": "overrideValue",
+                "do_objectID": "CF4EB721-ADD3-437D-871F-DB273BB18050",
+                "overrideName": "4BAB6C4A-32FD-4DFF-9284-4CC400F72B8D_layerStyle",
+                "value": "69D5FF07-7DCC-4B01-96CC-A3F851937ED3"
+              }
             ],
             "resizingConstraint": 63,
             "resizingType": 0,
@@ -1657,6 +1699,12 @@
               "windingRule": 1
             },
             "symbolID": "556D2BB0-6206-4342-A154-8172966927EE",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           }
         ],
@@ -1693,7 +1741,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 168,
+        "changeIdentifier": 197,
         "clippingMaskMode": 0,
         "do_objectID": "A722ACFA-0D9E-473C-993C-F6564E1BDEA1",
         "exportOptions": {
@@ -1710,7 +1758,7 @@
           "constrainProportions": false,
           "height": 56,
           "width": 94,
-          "x": 8912,
+          "x": 9651,
           "y": 0
         },
         "hasBackgroundColor": false,
@@ -1731,13 +1779,51 @@
         "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
-        "layerListExpandedType": 1,
+        "layerListExpandedType": 0,
         "layers": [
           {
-            "_class": "group",
-            "booleanOperation": -1,
+            "_class": "text",
+            "attributedString": {
+              "_class": "attributedString",
+              "attributes": [
+                {
+                  "_class": "stringAttribute",
+                  "attributes": {
+                    "MSAttributedStringColorAttribute": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.4941176470588236,
+                      "green": 0.2705882352941179,
+                      "red": 0.1058823529411765
+                    },
+                    "MSAttributedStringFontAttribute": {
+                      "_class": "fontDescriptor",
+                      "attributes": {
+                        "name": "Interstate-ExtraLight",
+                        "size": 12
+                      }
+                    },
+                    "kerning": 0.3974862,
+                    "ligature": 0,
+                    "paragraphStyle": {
+                      "_class": "paragraphStyle",
+                      "alignment": 2,
+                      "allowsDefaultTighteningForTruncation": 0,
+                      "maximumLineHeight": 16,
+                      "minimumLineHeight": 16
+                    }
+                  },
+                  "length": 7,
+                  "location": 0
+                }
+              ],
+              "string": "Caption"
+            },
+            "automaticallyDrawOnUnderlyingPath": false,
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
-            "do_objectID": "ECE06854-0861-492D-AEDA-30BF68AF74CF",
+            "do_objectID": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4",
+            "dontSynchroniseWithSymbol": false,
             "exportOptions": {
               "_class": "exportOptions",
               "exportFormats": [
@@ -1755,7 +1841,7 @@
               "x": 4,
               "y": 35
             },
-            "hasClickThrough": false,
+            "glyphBounds": "{{22, 3}, {42, 12}}",
             "hasClippingMask": false,
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
@@ -1763,134 +1849,58 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
-            "layers": [
-              {
-                "_class": "text",
-                "attributedString": {
-                  "_class": "attributedString",
-                  "attributes": [
-                    {
-                      "_class": "stringAttribute",
-                      "attributes": {
-                        "MSAttributedStringColorAttribute": {
-                          "_class": "color",
-                          "alpha": 1,
-                          "blue": 1,
-                          "green": 1,
-                          "red": 1
-                        },
-                        "MSAttributedStringFontAttribute": {
-                          "_class": "fontDescriptor",
-                          "attributes": {
-                            "name": "Interstate-ExtraLight",
-                            "size": 12.07589285714286
-                          }
-                        },
-                        "kerning": 0.4000000059604645,
-                        "ligature": 0,
-                        "paragraphStyle": {
-                          "_class": "paragraphStyle",
-                          "alignment": 2,
-                          "allowsDefaultTighteningForTruncation": 0,
-                          "maximumLineHeight": 16,
-                          "minimumLineHeight": 16
-                        }
-                      },
-                      "length": 7,
-                      "location": 0
-                    }
-                  ],
-                  "string": "Caption"
-                },
-                "automaticallyDrawOnUnderlyingPath": false,
-                "booleanOperation": 0,
-                "clippingMaskMode": 0,
-                "do_objectID": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4",
-                "dontSynchroniseWithSymbol": false,
-                "exportOptions": {
-                  "_class": "exportOptions",
-                  "exportFormats": [
-                  ],
-                  "includedLayerIds": [
-                  ],
-                  "layerOptions": 0,
-                  "shouldTrim": false
-                },
-                "frame": {
-                  "_class": "rect",
-                  "constrainProportions": false,
-                  "height": 16,
-                  "width": 86,
-                  "x": 0,
-                  "y": 0
-                },
-                "glyphBounds": "{{21, 3}, {43, 12}}",
-                "hasClippingMask": false,
-                "isFixedToViewport": false,
-                "isFlippedHorizontal": false,
-                "isFlippedVertical": false,
-                "isLocked": false,
-                "isVisible": true,
-                "layerListExpandedType": 0,
-                "lineSpacingBehaviour": 2,
-                "name": "Caption",
-                "nameIsFixed": true,
-                "resizingConstraint": 27,
-                "resizingType": 0,
-                "rotation": 0,
-                "sharedStyleID": "7A77AF4C-D27A-4AC8-B4BD-561616C0A354",
-                "shouldBreakMaskChain": false,
-                "style": {
-                  "_class": "style",
-                  "endMarkerType": 0,
-                  "miterLimit": 10,
-                  "startMarkerType": 0,
-                  "textStyle": {
-                    "_class": "textStyle",
-                    "encodedAttributes": {
-                      "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 1,
-                        "green": 1,
-                        "red": 1
-                      },
-                      "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                          "name": "Interstate-ExtraLight",
-                          "size": 12.07589285714286
-                        }
-                      },
-                      "kerning": 0.4000000059604645,
-                      "ligature": 0,
-                      "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 2,
-                        "allowsDefaultTighteningForTruncation": 0,
-                        "maximumLineHeight": 16,
-                        "minimumLineHeight": 16
-                      }
-                    },
-                    "verticalAlignment": 0
-                  },
-                  "windingRule": 1
-                },
-                "textBehaviour": 1
-              }
-            ],
+            "lineSpacingBehaviour": 2,
             "name": "Caption",
-            "nameIsFixed": false,
-            "resizingConstraint": 63,
+            "nameIsFixed": true,
+            "resizingConstraint": 27,
             "resizingType": 0,
             "rotation": 0,
+            "sharedStyleID": "D119E3C3-35E8-4406-AE8F-B15E63417052",
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
+              "do_objectID": "7BC6C990-05E0-4AED-AD1A-CE1D92FF1A6F",
               "endMarkerType": 0,
               "miterLimit": 10,
               "startMarkerType": 0,
+              "textStyle": {
+                "_class": "textStyle",
+                "encodedAttributes": {
+                  "MSAttributedStringColorAttribute": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.4941176470588236,
+                    "green": 0.2705882352941179,
+                    "red": 0.1058823529411765
+                  },
+                  "MSAttributedStringFontAttribute": {
+                    "_class": "fontDescriptor",
+                    "attributes": {
+                      "name": "Interstate-ExtraLight",
+                      "size": 12
+                    }
+                  },
+                  "kerning": 0.3974862,
+                  "ligature": 0,
+                  "paragraphStyle": {
+                    "_class": "paragraphStyle",
+                    "alignment": 2,
+                    "allowsDefaultTighteningForTruncation": 0,
+                    "maximumLineHeight": 16,
+                    "minimumLineHeight": 16
+                  }
+                },
+                "verticalAlignment": 0
+              },
               "windingRule": 1
+            },
+            "textBehaviour": 1,
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                  "isAutoWidth": 0
+                }
+              }
             }
           },
           {
@@ -1926,6 +1936,12 @@
             "name": "Icon",
             "nameIsFixed": true,
             "overrideValues": [
+              {
+                "_class": "overrideValue",
+                "do_objectID": "CF4EB721-ADD3-437D-871F-DB273BB18050",
+                "overrideName": "4BAB6C4A-32FD-4DFF-9284-4CC400F72B8D_layerStyle",
+                "value": "B2D265D8-3C50-4647-A850-062290992E23[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]"
+              }
             ],
             "resizingConstraint": 63,
             "resizingType": 0,
@@ -1940,6 +1956,12 @@
               "windingRule": 1
             },
             "symbolID": "A58A37EE-116D-4428-8128-FB24E442BA50",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           }
         ],
@@ -17854,7 +17876,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 2522,
+        "changeIdentifier": 2524,
         "clippingMaskMode": 0,
         "do_objectID": "02396471-647C-46D9-B67B-13107456B8A0",
         "exportOptions": {
@@ -43779,7 +43801,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 8596,
+        "changeIdentifier": 8638,
         "clippingMaskMode": 0,
         "do_objectID": "190CE0B2-60B8-466A-A19F-4E519BF79B27",
         "exportOptions": {
@@ -43798,8 +43820,8 @@
           "do_objectID": "DED3F0EA-02A9-4085-B306-2474B15285DC",
           "height": 64,
           "width": 375,
-          "x": 468,
-          "y": -447
+          "x": 475,
+          "y": 164
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -43852,7 +43874,7 @@
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
-            "isVisible": true,
+            "isVisible": false,
             "layerListExpandedType": 0,
             "name": "CONTAINER",
             "nameIsFixed": true,
@@ -43872,6 +43894,12 @@
               "windingRule": 1
             },
             "symbolID": "B0AC0C1F-E15F-4772-8208-811639A81727",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -43903,7 +43931,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab 1",
@@ -43937,13 +43965,13 @@
                 "_class": "overrideValue",
                 "do_objectID": "52F611CC-5006-4E40-B0D4-1C238F223B8E",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/B05FAC16-8B88-49B5-BD88-EB868361588D_layerStyle",
-                "value": "1354FC8F-D151-48D2-9B8C-DCF2437FA187"
+                "value": "69D5FF07-7DCC-4B01-96CC-A3F851937ED3"
               },
               {
                 "_class": "overrideValue",
                 "do_objectID": "7CC9A87B-EA4B-49F5-A46D-E60829D22C76",
                 "overrideName": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4_textStyle",
-                "value": "7A77AF4C-D27A-4AC8-B4BD-561616C0A354"
+                "value": "FE3B79F8-1ADB-44C8-8CAF-F011521E2C46"
               }
             ],
             "resizingConstraint": 21,
@@ -43953,12 +43981,6 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "do_objectID": "C2028B61-B070-471E-B457-DAA0DF0D5BC2",
-                "opacity": 0.5
-              },
               "do_objectID": "E3BA14C2-A1D6-40B2-AD19-D5CE993FCCFB",
               "endMarkerType": 0,
               "miterLimit": 10,
@@ -43966,6 +43988,12 @@
               "windingRule": 1
             },
             "symbolID": "821A13D9-90F3-439A-B5A1-2D433FD50580",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -43997,7 +44025,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab 2",
@@ -44031,7 +44059,7 @@
                 "_class": "overrideValue",
                 "do_objectID": "1BAA3891-25FB-4C87-801E-A3D477B7AFCA",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/83F0E7CD-89C0-4CB9-9CCC-56118CDD9939_layerStyle",
-                "value": "1354FC8F-D151-48D2-9B8C-DCF2437FA187"
+                "value": "69D5FF07-7DCC-4B01-96CC-A3F851937ED3"
               },
               {
                 "_class": "overrideValue",
@@ -44054,6 +44082,12 @@
               "windingRule": 1
             },
             "symbolID": "821A13D9-90F3-439A-B5A1-2D433FD50580",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -44085,7 +44119,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab 3",
@@ -44113,7 +44147,7 @@
                 "_class": "overrideValue",
                 "do_objectID": "035A3B9C-3C6F-4E6B-A9CB-67B7E3995BA7",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/7E331672-C477-4C16-A9C9-C43A3646F4E3_layerStyle",
-                "value": "1354FC8F-D151-48D2-9B8C-DCF2437FA187"
+                "value": "69D5FF07-7DCC-4B01-96CC-A3F851937ED3"
               },
               {
                 "_class": "overrideValue",
@@ -44135,12 +44169,6 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "do_objectID": "6F8115DC-295B-40D3-BBB5-C16F4A4DA3DD",
-                "opacity": 0.5
-              },
               "do_objectID": "A2546454-939D-4153-869F-E0AE9DFB53F7",
               "endMarkerType": 0,
               "miterLimit": 10,
@@ -44148,6 +44176,12 @@
               "windingRule": 1
             },
             "symbolID": "821A13D9-90F3-439A-B5A1-2D433FD50580",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -44179,7 +44213,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab4",
@@ -44219,7 +44253,7 @@
                 "_class": "overrideValue",
                 "do_objectID": "C30E57AF-A04A-4796-9A8D-3865160EBD2A",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/385D7F84-AE6D-433F-A9E2-4AA4375651EC_layerStyle",
-                "value": "1354FC8F-D151-48D2-9B8C-DCF2437FA187"
+                "value": "69D5FF07-7DCC-4B01-96CC-A3F851937ED3"
               }
             ],
             "resizingConstraint": 21,
@@ -44229,12 +44263,6 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "do_objectID": "72516E12-00C6-4F46-BA64-9CF15ACB4D4F",
-                "opacity": 0.5
-              },
               "do_objectID": "482469EA-CB5D-41F8-ADB4-0644BC174C1F",
               "endMarkerType": 0,
               "miterLimit": 10,
@@ -44242,6 +44270,12 @@
               "windingRule": 1
             },
             "symbolID": "821A13D9-90F3-439A-B5A1-2D433FD50580",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           }
         ],
@@ -44281,7 +44315,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 8613,
+        "changeIdentifier": 8655,
         "clippingMaskMode": 0,
         "do_objectID": "190CE0B2-60B8-466A-A19F-4E519BF79B27",
         "exportOptions": {
@@ -44300,8 +44334,8 @@
           "do_objectID": "DED3F0EA-02A9-4085-B306-2474B15285DC",
           "height": 64,
           "width": 375,
-          "x": 468,
-          "y": -447
+          "x": 475,
+          "y": 164
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -44354,7 +44388,7 @@
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
-            "isVisible": true,
+            "isVisible": false,
             "layerListExpandedType": 0,
             "name": "CONTAINER",
             "nameIsFixed": true,
@@ -44374,6 +44408,12 @@
               "windingRule": 1
             },
             "symbolID": "3765D048-4572-40CB-9490-BC1DCC7DDA35",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -44405,7 +44445,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab 1",
@@ -44439,13 +44479,13 @@
                 "_class": "overrideValue",
                 "do_objectID": "52F611CC-5006-4E40-B0D4-1C238F223B8E",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/B05FAC16-8B88-49B5-BD88-EB868361588D_layerStyle",
-                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[1354FC8F-D151-48D2-9B8C-DCF2437FA187]"
+                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]"
               },
               {
                 "_class": "overrideValue",
                 "do_objectID": "7CC9A87B-EA4B-49F5-A46D-E60829D22C76",
                 "overrideName": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4_textStyle",
-                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[7A77AF4C-D27A-4AC8-B4BD-561616C0A354]"
+                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[FE3B79F8-1ADB-44C8-8CAF-F011521E2C46]"
               }
             ],
             "resizingConstraint": 21,
@@ -44455,12 +44495,6 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "do_objectID": "C2028B61-B070-471E-B457-DAA0DF0D5BC2",
-                "opacity": 0.5
-              },
               "do_objectID": "E3BA14C2-A1D6-40B2-AD19-D5CE993FCCFB",
               "endMarkerType": 0,
               "miterLimit": 10,
@@ -44468,6 +44502,12 @@
               "windingRule": 1
             },
             "symbolID": "B2D265D8-3C50-4647-A850-062290992E23",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -44499,7 +44539,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab 2",
@@ -44533,7 +44573,7 @@
                 "_class": "overrideValue",
                 "do_objectID": "1BAA3891-25FB-4C87-801E-A3D477B7AFCA",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/83F0E7CD-89C0-4CB9-9CCC-56118CDD9939_layerStyle",
-                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[1354FC8F-D151-48D2-9B8C-DCF2437FA187]"
+                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]"
               },
               {
                 "_class": "overrideValue",
@@ -44556,6 +44596,12 @@
               "windingRule": 1
             },
             "symbolID": "B2D265D8-3C50-4647-A850-062290992E23",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -44587,7 +44633,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab 3",
@@ -44615,7 +44661,7 @@
                 "_class": "overrideValue",
                 "do_objectID": "035A3B9C-3C6F-4E6B-A9CB-67B7E3995BA7",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/7E331672-C477-4C16-A9C9-C43A3646F4E3_layerStyle",
-                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[1354FC8F-D151-48D2-9B8C-DCF2437FA187]"
+                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]"
               },
               {
                 "_class": "overrideValue",
@@ -44637,12 +44683,6 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "do_objectID": "6F8115DC-295B-40D3-BBB5-C16F4A4DA3DD",
-                "opacity": 0.5
-              },
               "do_objectID": "A2546454-939D-4153-869F-E0AE9DFB53F7",
               "endMarkerType": 0,
               "miterLimit": 10,
@@ -44650,6 +44690,12 @@
               "windingRule": 1
             },
             "symbolID": "B2D265D8-3C50-4647-A850-062290992E23",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           },
           {
@@ -44681,7 +44727,7 @@
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
-            "isLocked": true,
+            "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
             "name": "Tab4",
@@ -44721,7 +44767,7 @@
                 "_class": "overrideValue",
                 "do_objectID": "C30E57AF-A04A-4796-9A8D-3865160EBD2A",
                 "overrideName": "206C1551-38FF-4BB0-8D5D-6245DD5ACBCC/385D7F84-AE6D-433F-A9E2-4AA4375651EC_layerStyle",
-                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[1354FC8F-D151-48D2-9B8C-DCF2437FA187]"
+                "value": "7E14B915-0A66-4D4C-9CE5-6AC871690275[69D5FF07-7DCC-4B01-96CC-A3F851937ED3]"
               }
             ],
             "resizingConstraint": 21,
@@ -44731,12 +44777,6 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "do_objectID": "72516E12-00C6-4F46-BA64-9CF15ACB4D4F",
-                "opacity": 0.5
-              },
               "do_objectID": "482469EA-CB5D-41F8-ADB4-0644BC174C1F",
               "endMarkerType": 0,
               "miterLimit": 10,
@@ -44744,6 +44784,12 @@
               "windingRule": 1
             },
             "symbolID": "B2D265D8-3C50-4647-A850-062290992E23",
+            "userInfo": {
+              "com.animaapp.stc-sketch-plugin": {
+                "kModelPropertiesKey": {
+                }
+              }
+            },
             "verticalSpacing": 0
           }
         ],
@@ -48645,7 +48691,7 @@
       "localSharedStyle": {
         "_class": "sharedStyle",
         "do_objectID": "7AB1794B-0A21-4FC2-A221-7554444D6621",
-        "name": "Body / Left",
+        "name": "Body / Regular / Left / *",
         "value": {
           "_class": "style",
           "endMarkerType": 0,
@@ -48742,7 +48788,7 @@
       "localSharedStyle": {
         "_class": "sharedStyle",
         "do_objectID": "4D4527FD-A657-4A83-B37B-A9E0487930EC",
-        "name": "Header / Left",
+        "name": "H1",
         "value": {
           "_class": "style",
           "endMarkerType": 0,
@@ -48753,19 +48799,19 @@
             "encodedAttributes": {
               "MSAttributedStringColorAttribute": {
                 "_class": "color",
-                "alpha": 0.6,
-                "blue": 0,
-                "green": 0,
-                "red": 0
+                "alpha": 1,
+                "blue": 0.4,
+                "green": 0.3882352941176471,
+                "red": 0.4
               },
               "MSAttributedStringFontAttribute": {
                 "_class": "fontDescriptor",
                 "attributes": {
                   "name": "Interstate-ExtraLight",
-                  "size": 34.21502976190476
+                  "size": 36
                 }
               },
-              "kerning": 0.25,
+              "kerning": 0.2630423,
               "ligature": 0,
               "paragraphStyle": {
                 "_class": "paragraphStyle",
@@ -48787,7 +48833,7 @@
       "localSharedStyle": {
         "_class": "sharedStyle",
         "do_objectID": "73261D87-DC03-4114-A272-27D976304003",
-        "name": "Subheader / Left",
+        "name": "Subheader / Left / Default",
         "value": {
           "_class": "style",
           "endMarkerType": 0,
@@ -48935,7 +48981,7 @@
       "localSharedStyle": {
         "_class": "sharedStyle",
         "do_objectID": "84B6BF04-8D6B-487A-817B-90CEFD3BB9EE",
-        "name": "Small Body / Link",
+        "name": "Body / Small / Primary",
         "value": {
           "_class": "style",
           "endMarkerType": 0,
@@ -48997,7 +49043,7 @@
       "localSharedStyle": {
         "_class": "sharedStyle",
         "do_objectID": "68A21835-6FE2-4F58-9604-456C944E6E2F",
-        "name": "Body / Link",
+        "name": "Body / Center / Primary",
         "value": {
           "_class": "style",
           "endMarkerType": 0,
@@ -49185,54 +49231,6 @@
       "libraryID": "0eb47310-d707-11e8-8c04-a36e2f861ebb",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[7A77AF4C-D27A-4AC8-B4BD-561616C0A354]",
-        "name": "Caption / Center - White",
-        "value": {
-          "_class": "style",
-          "endMarkerType": 0,
-          "miterLimit": 10,
-          "startMarkerType": 0,
-          "textStyle": {
-            "_class": "textStyle",
-            "encodedAttributes": {
-              "MSAttributedStringColorAttribute": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "MSAttributedStringFontAttribute": {
-                "_class": "fontDescriptor",
-                "attributes": {
-                  "name": "Interstate-ExtraLight",
-                  "size": 12.07589285714286
-                }
-              },
-              "kerning": 0.4000000059604645,
-              "ligature": 0,
-              "paragraphStyle": {
-                "_class": "paragraphStyle",
-                "alignment": 2,
-                "allowsDefaultTighteningForTruncation": 0,
-                "maximumLineHeight": 16,
-                "minimumLineHeight": 16
-              }
-            },
-            "verticalAlignment": 0
-          },
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[7A77AF4C-D27A-4AC8-B4BD-561616C0A354]",
-      "sourceLibraryName": "EMR_Library",
-      "symbolPrivate": true
-    },
-    {
-      "_class": "MSImmutableForeignTextStyle",
-      "libraryID": "0eb47310-d707-11e8-8c04-a36e2f861ebb",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
         "do_objectID": "0C3AA349-A307-4580-AD03-E85B71FA4DA7[7A77AF4C-D27A-4AC8-B4BD-561616C0A354]",
         "name": "Caption / Center - White",
         "value": {
@@ -49275,6 +49273,102 @@
       "remoteStyleID": "0C3AA349-A307-4580-AD03-E85B71FA4DA7[7A77AF4C-D27A-4AC8-B4BD-561616C0A354]",
       "sourceLibraryName": "EMR_Library",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "0eb47310-d707-11e8-8c04-a36e2f861ebb",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[FE3B79F8-1ADB-44C8-8CAF-F011521E2C46]",
+        "name": "Caption / Center",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4,
+                "green": 0.3882352941176471,
+                "red": 0.4
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Interstate-ExtraLight",
+                  "size": 12
+                }
+              },
+              "kerning": 0.3974862,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 16,
+                "minimumLineHeight": 16
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[FE3B79F8-1ADB-44C8-8CAF-F011521E2C46]",
+      "sourceLibraryName": "EMR_Library",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "0eb47310-d707-11e8-8c04-a36e2f861ebb",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[7A77AF4C-D27A-4AC8-B4BD-561616C0A354]",
+        "name": "Caption / Center - White",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "Interstate-ExtraLight",
+                  "size": 12.07589285714286
+                }
+              },
+              "kerning": 0.4000000059604645,
+              "ligature": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 16,
+                "minimumLineHeight": 16
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "7E14B915-0A66-4D4C-9CE5-6AC871690275[7A77AF4C-D27A-4AC8-B4BD-561616C0A354]",
+      "sourceLibraryName": "EMR_Library",
+      "symbolPrivate": true
     }
   ],
   "layerSymbols": {
@@ -49293,7 +49387,6 @@
     "Usage",
     "Pay",
     "Overlays + WebExperience",
-    "Archive",
     "Symbols"
   ],
   "userInfo": {
