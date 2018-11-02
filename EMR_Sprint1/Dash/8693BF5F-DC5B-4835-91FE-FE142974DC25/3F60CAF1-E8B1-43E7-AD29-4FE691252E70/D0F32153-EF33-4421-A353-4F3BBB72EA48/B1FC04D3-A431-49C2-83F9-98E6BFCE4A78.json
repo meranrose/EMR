@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1FC04D3-A431-49C2-83F9-98E6BFCE4A78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5BAA6271-6F99-43F6-803A-D3369CC0C833",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0174355-6E45-4F1C-86E4-71266A48C32F",
+    "height": 41,
+    "width": 142,
+    "x": 329,
+    "y": 46
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page / Landing / Data Visual",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7735B725-7C86-47A1-97ED-C3E5E231EBDA",
+      "overrideName": "2BE30AFE-AA37-4E65-BC5A-D2A89870E1D5_layerStyle",
+      "value": "3C62A94B-C5BB-423C-9D4B-DD5FCAEF7859"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13C2131A-83DA-462B-B398-7D7EA9A03C96",
+      "overrideName": "221E8A0B-5054-4203-98D0-DAD12CE46370_stringValue",
+      "value": "$0.39"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D783A933-0198-41D0-8B1B-319876578805",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D73F7F2-BB6A-4603-B43A-1E8838491B69",
+  "verticalSpacing": 0
+}

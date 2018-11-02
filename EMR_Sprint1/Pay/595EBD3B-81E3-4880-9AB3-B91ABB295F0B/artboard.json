@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "17DA0CF1-3471-49A0-ACEB-D2BBB0A08AE9",
-    "height": 767,
+    "height": 731,
     "width": 375,
     "x": 3307,
-    "y": 0
+    "y": 2
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -53,22 +53,22 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "1AF07996-A711-4639-B1C5-19206C8277B1"
-    },
-    {
-      "class": "symbolInstance",
       "id": "BE3FA09B-BF02-4FAA-BDAF-3A6D2D3A42DF"
     },
     {
-      "class": "text",
-      "id": "62EF2028-6BDE-4C60-991D-2E7AC2BE34E6"
+      "class": "group",
+      "id": "CBF8F805-AE42-41DF-A0D0-EEB7C2D1FA1C"
     },
     {
-      "class": "shapeGroup",
-      "id": "7722797C-EEA5-4B86-AFDF-E8299BF5D96D"
+      "class": "group",
+      "id": "90F71431-CB54-4A40-9066-70DE85DAFA66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C56440F9-5F1E-4AF5-B85A-536AB9FCDC0A"
     }
   ],
-  "name": "Pay - Modify - Other Amount",
+  "name": "Modify - Amount - Single",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -89,6 +89,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

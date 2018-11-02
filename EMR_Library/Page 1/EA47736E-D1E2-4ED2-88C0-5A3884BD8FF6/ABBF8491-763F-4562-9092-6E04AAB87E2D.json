@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 46,
     "width": 303,
     "x": 29,
-    "y": 590
+    "y": 568
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -45,5 +45,11 @@
     "windingRule": 1
   },
   "symbolID": "84CFBE8C-947E-44AD-871D-5D562AAC4B14",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

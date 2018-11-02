@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD67CFF2-6FAF-4BC8-90FA-A75EEA332E8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1747B0A1-EFA7-42DE-BF42-A43904949FC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D8A30D6-0CA1-461C-ABF2-29953DF82182",
+    "height": 48,
+    "width": 313,
+    "x": 0,
+    "y": 21
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Selection / Radio Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7DA8EE3F-D954-40DB-A36C-10A792A8CE5B_stringValue",
+      "value": "Current Due"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CEEFC542-C070-4F32-A6FB-C8AAB2811A4B_stringValue",
+      "value": "$68.90"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "439233BD-248D-4D58-A1FB-C3ED080621A9",
+      "overrideName": "C5DE510E-BBBC-43B8-B7B3-D81DBC386B71_symbolID",
+      "value": "6DA5F258-5C98-4031-A6B5-2E9E1A5FA92F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "136399C1-F7DA-49D2-8DA5-4B75F960FBF2",
+      "overrideName": "C5DE510E-BBBC-43B8-B7B3-D81DBC386B71/E8F6E60A-AB28-47C6-A79B-EE01B0068BB6_layerStyle",
+      "value": "1AE066AD-21E7-49A3-B75E-E8B9A390627C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12709B0A-A952-421F-9FA5-62E4C80E6F8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7E40EA3-9930-4891-A8A6-69A3D19BE594",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

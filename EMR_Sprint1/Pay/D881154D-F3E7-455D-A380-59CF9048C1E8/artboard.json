@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6C7EBAC5-6CAA-4720-8E71-1BE4F12133D5",
-    "height": 667,
+    "height": 785,
     "width": 375,
     "x": 3732,
     "y": 0
@@ -56,11 +56,15 @@
       "id": "3C44E9D5-63F5-4968-A006-E793EA967A8A"
     },
     {
-      "class": "symbolInstance",
-      "id": "A0846A8A-D229-43BF-91A3-DE8A592230CB"
+      "class": "group",
+      "id": "6D1A52F3-042C-4995-B6DB-FA9138483AC6"
+    },
+    {
+      "class": "group",
+      "id": "1496F8DE-6A4A-4DB7-A569-0DE59C4AC9E7"
     }
   ],
-  "name": "Pay - Modify A",
+  "name": "Modify - Default",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -81,6 +85,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

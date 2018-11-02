@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C15D9061-B940-492C-9969-93AB92B38696",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23D70DCD-8978-42BD-BA9B-38E7551D92BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25898518-C7B1-42E2-936A-EC7CB30178A0",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Dialog",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B498D42-D29C-407D-8E22-F1C3B6F863F5",
+      "overrideName": "CB758768-7088-47A3-8964-68FDFBCDCA86_stringValue",
+      "value": "myaccount.sdge.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "382FE006-B2FA-49AB-BBE7-AFE029345E1C",
+      "overrideName": "3D5C5141-BB19-47F9-834C-139791E684FC_layerStyle",
+      "value": "3C62A94B-C5BB-423C-9D4B-DD5FCAEF7859"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3CF1136-9C3D-47BE-87AD-FBA7EA68AEB6",
+      "overrideName": "CB758768-7088-47A3-8964-68FDFBCDCA86_textStyle",
+      "value": "92F1888C-B921-4653-AFB3-DDCA3A793A1F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5E12A81-BE2F-4BBF-B88A-D0AA8E25037A",
+      "overrideName": "75AA9339-8878-415D-A8F6-5BF080A68ADB/B36A6485-0245-4050-85B6-1F094AC717A6_layerStyle",
+      "value": "EACB6A81-9C49-42A0-A915-33BC308496A2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B81442A7-E5BE-4C03-AFB6-8FF793A170DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB835332-C300-4A0E-BFFA-56C024284D5E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

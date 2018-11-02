@@ -20,7 +20,7 @@
               "size": 16
             }
           },
-          "kerning": 1.419593,
+          "kerning": 1,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -58,11 +58,11 @@
     "constrainProportions": false,
     "do_objectID": "58FF9324-9936-4091-A0C1-97C0C1CED200",
     "height": 16,
-    "width": 150,
-    "x": 113,
+    "width": 143,
+    "x": 116.5,
     "y": 645
   },
-  "glyphBounds": "{{0, 2}, {148, 15}}",
+  "glyphBounds": "{{0, 2}, {141, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -101,7 +101,7 @@
             "size": 16
           }
         },
-        "kerning": 1.419593,
+        "kerning": 1,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
@@ -117,5 +117,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

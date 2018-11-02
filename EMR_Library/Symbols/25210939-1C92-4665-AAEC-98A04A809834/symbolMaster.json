@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 490,
+  "changeIdentifier": 716,
   "clippingMaskMode": 0,
   "do_objectID": "25210939-1C92-4665-AAEC-98A04A809834",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 48,
     "width": 303,
-    "x": 8437,
-    "y": 0
+    "x": 7942,
+    "y": 400
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,20 +49,16 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "7DA8EE3F-D954-40DB-A36C-10A792A8CE5B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C5DE510E-BBBC-43B8-B7B3-D81DBC386B71"
+      "class": "group",
+      "id": "56068B99-9AB7-4D4B-A5BF-3C49A870D874"
     },
     {
       "class": "text",
       "id": "CEEFC542-C070-4F32-A6FB-C8AAB2811A4B"
     }
   ],
-  "name": "Selection / Radio Button",
-  "nameIsFixed": false,
+  "name": "Selector / Radio Button",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -31,6 +31,12 @@
   "name": "Icons / Exit",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A176DF45-AD4D-4A7F-9F30-69E8FEE2A69E",
+      "overrideName": "B36A6485-0245-4050-85B6-1F094AC717A6_layerStyle",
+      "value": "38CEA9C5-009B-48C4-AADF-C744F9EB7DB0"
+    }
   ],
   "resizingConstraint": 45,
   "resizingType": 0,
@@ -45,5 +51,26 @@
     "windingRule": 1
   },
   "symbolID": "F302EA3E-5B45-40AD-895F-6D126B1BF48C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_99ffd9fa-c7a9-4ce0-917a-218bc13f8147",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_55f4aa05-a406-413d-bbb4-35490fc257fa",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
   "verticalSpacing": 0
 }

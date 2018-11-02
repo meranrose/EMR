@@ -27,8 +27,8 @@
     "do_objectID": "50D7A083-DCD3-48DF-AF92-58903AB1D29E",
     "height": 785,
     "width": 375,
-    "x": 4582,
-    "y": 0
+    "x": -435,
+    "y": 55
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -49,27 +49,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "1FFC092E-96BB-4155-B119-9775B3C66E88"
+      "id": "290AB797-7D76-4066-8BFD-9C40FA09A56C"
     },
     {
-      "class": "group",
-      "id": "831B2126-A36F-4B1E-94CC-888D24081C4B"
+      "class": "symbolInstance",
+      "id": "2BBA3515-483E-45F7-8F73-F3A075EDBE68"
     },
     {
-      "class": "group",
-      "id": "A6279B4B-17B0-4101-98E0-72639B0AB70A"
+      "class": "symbolInstance",
+      "id": "0EE39B41-7AFE-4349-8674-48F96D636D3A"
     },
     {
-      "class": "group",
-      "id": "78970000-5332-44BC-99D1-2452F4C7420E"
-    },
-    {
-      "class": "group",
-      "id": "70FA455A-45D1-4380-9279-2DCFDFEBDB1F"
+      "class": "symbolInstance",
+      "id": "F3F9BBCF-375C-42EB-9172-A1A5055B9655"
     },
     {
       "class": "symbolInstance",
@@ -84,23 +80,23 @@
       "id": "0FFF7A6C-3E3B-4E4A-8022-7349D483109D"
     },
     {
-      "class": "group",
-      "id": "FF860D62-FFCC-4471-8DB2-228740B9F0AD"
+      "class": "text",
+      "id": "FD99CD08-349D-4EBF-82BE-A97EDE50E079"
     },
     {
       "class": "text",
       "id": "8465DB20-AA1C-4DF6-813B-82CF7F06B9AE"
     },
     {
-      "class": "group",
-      "id": "2976DD7C-5FE9-43C3-8E35-1EDDC9C3F4CC"
+      "class": "text",
+      "id": "67E74AF4-6D9D-4370-B60D-E6E8F0432714"
     },
     {
       "class": "text",
       "id": "7BB0C48B-1ED6-44DE-B278-4CA274E66E47"
     }
   ],
-  "name": "Pay - Quick - Past Due",
+  "name": "Pay - Past Due",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -121,6 +117,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

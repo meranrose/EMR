@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3178,
+  "changeIdentifier": 4107,
   "clippingMaskMode": 0,
   "do_objectID": "5F217214-7D2A-498F-95C3-50DA3F6CBE18",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 337,
+    "height": 300,
     "width": 375,
     "x": 372,
     "y": 0
@@ -58,19 +58,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "09B0FFE5-6F19-4532-B7DA-0B1FEBC7355F"
-    },
-    {
-      "class": "symbolInstance",
       "id": "BEB5E622-B770-40EE-B7BF-660E574ED628"
     },
     {
       "class": "text",
       "id": "D87EB417-DE85-4205-8138-EEFF76327680"
-    },
-    {
-      "class": "shapePath",
-      "id": "3F02B63F-40D0-4F06-8970-36EF6C6675B4"
     }
   ],
   "name": "Page / Landing / Account Details",

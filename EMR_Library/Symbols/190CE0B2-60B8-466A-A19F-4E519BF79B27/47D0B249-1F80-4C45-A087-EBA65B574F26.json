@@ -62,12 +62,6 @@
       "do_objectID": "57C2A57C-8FB5-436C-8666-B2DE8765F44F",
       "overrideName": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4_stringValue",
       "value": "Usage"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CF124C27-BFC4-4AF8-AB18-72D49DFB080D",
-      "overrideName": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4_textStyle",
-      "value": "7A77AF4C-D27A-4AC8-B4BD-561616C0A354"
     }
   ],
   "resizingConstraint": 21,
@@ -77,6 +71,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "do_objectID": "A2546454-939D-4153-869F-E0AE9DFB53F7",
     "endMarkerType": 0,
     "miterLimit": 10,

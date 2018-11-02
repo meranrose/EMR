@@ -1,0 +1,102 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9315470-86F5-4445-B58D-DEBD6B43E817",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFE3E64A-AB4F-4207-9A25-20C6FD88C846",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D4C5A85-CE1E-44BE-8D01-32B4B971818C",
+    "height": 716,
+    "width": 375,
+    "x": 1275,
+    "y": 8877
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0C62FD9D-A2A8-4B3A-B70D-E44EE8E39E96",
+    "guides": [
+      451
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DEE2475A-644A-4FBB-98B2-1E2F0172A699"
+    },
+    {
+      "class": "group",
+      "id": "4C5A6A4E-F6FC-46C3-B3E1-75186B8AACEF"
+    }
+  ],
+  "name": "5 - Peak",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37F1FCD7-3456-4FD9-8B4C-EB36066EC617",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "2ivn8zth49YZ1RiXN2WPwPs8J9APfU+WLbKyvXNopEo="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6289F10D-3C1F-4D94-B558-C997B492D5CE",
+    "guides": [
+      402,
+      331,
+      145,
+      -96
+    ]
+  }
+}

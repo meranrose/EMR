@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -38,10 +38,6 @@
     {
       "class": "symbolInstance",
       "id": "22E3DBA8-E812-46EB-BD17-73819DDB41C5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2DBD016A-B66C-4CBB-B5BE-3C8E4108E4FC"
     }
   ],
   "name": "Group 2",
@@ -57,5 +53,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

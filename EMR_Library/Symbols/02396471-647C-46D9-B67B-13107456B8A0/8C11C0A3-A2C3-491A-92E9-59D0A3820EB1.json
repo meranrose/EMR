@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4588235294117647,
-            "green": 0.2784313725490194,
-            "red": 0.1490196078431372
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -52,7 +52,7 @@
     "height": 15,
     "width": 46,
     "x": 0,
-    "y": 79
+    "y": 89
   },
   "glyphBounds": "{{1, 3}, {45, 12}}",
   "hasClippingMask": false,
@@ -85,7 +85,7 @@
           "red": 0.1058823529411765
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -100,9 +100,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.2784313725490194,
-          "red": 0.1490196078431372
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -121,5 +121,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

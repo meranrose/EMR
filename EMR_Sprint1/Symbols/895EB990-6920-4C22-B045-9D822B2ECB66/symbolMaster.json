@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 851,
+  "changeIdentifier": 1016,
   "clippingMaskMode": 0,
   "do_objectID": "895EB990-6920-4C22-B045-9D822B2ECB66",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 643,
+    "height": 667,
     "width": 375,
     "x": 847,
     "y": 0
@@ -54,27 +54,11 @@
     },
     {
       "class": "group",
-      "id": "415B20E3-824E-4CFB-99C2-5A340DB0D2C7"
+      "id": "F5C65079-AC07-4D8E-BB2E-19F3D56A5747"
     },
     {
       "class": "symbolInstance",
-      "id": "6A4E26EF-729B-472A-85B1-2FD7735909DE"
-    },
-    {
-      "class": "text",
-      "id": "08282CB4-8799-491B-B80A-EB094CE2FC53"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "118DAF42-A44E-43EB-A726-FF32CD134539"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5E1220AA-F86F-44EC-80CA-15BAC6C3087B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5861EBEA-CD11-4F51-A33E-354FA2F590F9"
+      "id": "048643B5-509D-4004-9DD2-0795EE083EE3"
     }
   ],
   "name": "Page / Pay / Modify",

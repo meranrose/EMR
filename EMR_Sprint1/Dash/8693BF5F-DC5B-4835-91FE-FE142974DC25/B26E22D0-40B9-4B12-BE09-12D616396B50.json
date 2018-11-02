@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B26E22D0-40B9-4B12-BE09-12D616396B50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A88BDB78-F79E-4D3F-9ABF-94523854825C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46E42509-1BFC-4354-9F74-5E21F0623A47",
+    "height": 50,
+    "width": 200,
+    "x": 88,
+    "y": 354
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / 1 Round",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8734DEC-51AB-4A4F-A602-2560475A3C1A",
+      "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
+      "value": "Make Payment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E06D5FE3-BB0B-4F2D-8CF5-670591CC25CD",
+      "overrideName": "13C2744C-A8D5-4124-A803-CAEA61A2423D_layerStyle",
+      "value": "7D5D6CDA-17FE-4DFA-A4AC-B75F678810D7"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C70C8DB-7A0D-4109-B7AA-8872D62B10F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "442A0812-2D06-42B3-BA5C-86299B9483E9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

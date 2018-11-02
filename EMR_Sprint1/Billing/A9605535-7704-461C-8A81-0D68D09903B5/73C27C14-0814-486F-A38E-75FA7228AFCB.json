@@ -17,14 +17,14 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-Light",
-              "size": 14
+              "size": 16
             }
           },
-          "kerning": 1.242144,
+          "kerning": 1,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
@@ -58,11 +58,11 @@
     "constrainProportions": false,
     "do_objectID": "66C5187F-96EF-4611-88A9-A0036218BCDE",
     "height": 16,
-    "width": 115,
-    "x": 35,
+    "width": 125,
+    "x": 32,
     "y": 830
   },
-  "glyphBounds": "{{0, 2}, {113, 14}}",
+  "glyphBounds": "{{0, 2}, {124, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -86,7 +86,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "81468F69-630B-4198-BE64-A770681C1567",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -99,14 +98,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-Light",
-            "size": 14
+            "size": 16
           }
         },
-        "kerning": 1.242144,
+        "kerning": 1,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 16,
           "minimumLineHeight": 16
@@ -118,5 +117,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

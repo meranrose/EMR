@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Interstate-Black",
+              "name": "Interstate-Bold",
               "size": 16
             }
           },
-          "kerning": 1.419593,
+          "kerning": 1,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "1463D7DA-C297-4164-A277-04A5C5837393",
     "height": 16,
-    "width": 62,
-    "x": 104,
+    "width": 59,
+    "x": 105.5,
     "y": 10
   },
-  "glyphBounds": "{{1, 2}, {59, 13}}",
+  "glyphBounds": "{{1, 2}, {56, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,11 +95,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Interstate-Black",
+            "name": "Interstate-Bold",
             "size": 16
           }
         },
-        "kerning": 1.419593,
+        "kerning": 1,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
@@ -113,5 +113,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

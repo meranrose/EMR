@@ -57,7 +57,7 @@
     "height": 20,
     "width": 79,
     "x": 224,
-    "y": 2
+    "y": 14
   },
   "glyphBounds": "{{0, 3}, {78, 15}}",
   "hasClippingMask": false,
@@ -111,5 +111,27 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_7560f656-2036-45e1-b521-4b26ae927cab",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_cf3a09ae-3330-48ed-8f1e-e5a7abcf6704",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": -9.380102e-17
+          },
+          "scaleFactor": 1
+        },
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

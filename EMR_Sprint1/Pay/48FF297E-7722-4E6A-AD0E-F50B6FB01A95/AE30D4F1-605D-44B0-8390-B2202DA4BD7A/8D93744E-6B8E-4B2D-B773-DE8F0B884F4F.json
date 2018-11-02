@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D93744E-6B8E-4B2D-B773-DE8F0B884F4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54C9D2CA-81B4-4844-B619-ABB28E6C4FA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4BD96BF-2EE8-438E-BD93-3EA57C0D2968",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Dialog",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B498D42-D29C-407D-8E22-F1C3B6F863F5",
+      "overrideName": "CB758768-7088-47A3-8964-68FDFBCDCA86_stringValue",
+      "value": "Modify Payment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "382FE006-B2FA-49AB-BBE7-AFE029345E1C",
+      "overrideName": "3D5C5141-BB19-47F9-834C-139791E684FC_layerStyle",
+      "value": "1AE066AD-21E7-49A3-B75E-E8B9A390627C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3CF1136-9C3D-47BE-87AD-FBA7EA68AEB6",
+      "overrideName": "CB758768-7088-47A3-8964-68FDFBCDCA86_textStyle",
+      "value": "92F1888C-B921-4653-AFB3-DDCA3A793A1F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30AA9F45-0370-406C-B47F-DA213423DAA4",
+      "overrideName": "75AA9339-8878-415D-A8F6-5BF080A68ADB_symbolID",
+      "value": "F36203B9-95B8-4580-9736-D0539341518C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB2041F9-93D9-4273-9A43-0AF208A37B6B",
+      "overrideName": "75AA9339-8878-415D-A8F6-5BF080A68ADB/B544376C-AC5C-4FDF-BD07-817A9090E838_layerStyle",
+      "value": "EACB6A81-9C49-42A0-A915-33BC308496A2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF090BDB-CF11-4DD6-87ED-1D93872B0B50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB835332-C300-4A0E-BFFA-56C024284D5E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

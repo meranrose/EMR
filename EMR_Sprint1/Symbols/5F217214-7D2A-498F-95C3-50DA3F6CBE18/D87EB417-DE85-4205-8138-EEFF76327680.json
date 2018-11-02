@@ -20,11 +20,11 @@
               "size": 16
             }
           },
-          "kerning": 1.419593,
+          "kerning": 1,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
@@ -58,11 +58,11 @@
     "constrainProportions": false,
     "do_objectID": "097EE025-D564-4E2D-B915-9CA658AE52EA",
     "height": 16,
-    "width": 113,
-    "x": 29,
-    "y": 281
+    "width": 107,
+    "x": 31,
+    "y": 237
   },
-  "glyphBounds": "{{0, 2}, {111, 13}}",
+  "glyphBounds": "{{0, 2}, {106, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -86,7 +86,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "65AE5B8A-5EE3-40CA-804D-EC5E534352CD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -102,11 +101,11 @@
             "size": 16
           }
         },
-        "kerning": 1.419593,
+        "kerning": 1,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 16,
           "minimumLineHeight": 16
@@ -118,5 +117,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

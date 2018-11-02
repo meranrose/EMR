@@ -9,18 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.4,
+            "green": 0.3882352941176471,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 20.12648809523809
+              "size": 21
             }
           },
-          "kerning": 0.25,
+          "kerning": 0.2608503,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4D959C0D-EBAE-41FA-8C6A-F75B9D1BD069",
-    "height": 24,
+    "height": 25,
     "width": 303,
     "x": 56,
-    "y": 16
+    "y": 15
   },
-  "glyphBounds": "{{0, 4}, {143, 19}}",
+  "glyphBounds": "{{0, 4}, {149, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "498A9070-AF88-4382-90F3-50F120118F1B",
+  "sharedStyleID": "B5E56B9D-9EBF-4E73-9D20-0CDF4B89CCBA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -86,18 +86,18 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 20.12648809523809
+            "size": 21
           }
         },
-        "kerning": 0.25,
+        "kerning": 0.2608503,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
@@ -109,5 +109,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

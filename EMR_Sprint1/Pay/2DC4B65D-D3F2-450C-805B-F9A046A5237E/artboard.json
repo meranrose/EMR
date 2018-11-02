@@ -49,27 +49,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "DD2EB9CA-15EE-44CC-A3D6-7FACCAA0C360"
-    },
-    {
-      "class": "group",
-      "id": "9B3A83A7-96FB-4FD5-AA26-D41E341E2151"
-    },
-    {
-      "class": "group",
-      "id": "5D13A231-D186-48A6-9354-E63FF6886B01"
-    },
-    {
-      "class": "group",
-      "id": "A4CFC923-2CB4-4650-A508-AE213A06CA63"
-    },
-    {
-      "class": "group",
-      "id": "97C82291-30A6-4DF2-9F38-FB86856B9A96"
     },
     {
       "class": "symbolInstance",
@@ -92,12 +76,40 @@
       "id": "D513A3E9-74CF-4944-8F4A-F17B92BBB7E7"
     },
     {
-      "class": "group",
-      "id": "AF77FB65-1A12-484B-BBBD-DA3B4DB38F0A"
+      "class": "text",
+      "id": "C945CCE4-572C-4349-8773-E8674A52E74B"
     },
     {
       "class": "text",
       "id": "09985EE4-0821-453F-AAAC-0AD7D399EBE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39B4921C-03FB-4A50-BA79-DE8DE3348CDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "827A6F89-222B-48CE-B873-C51272B4420B"
+    },
+    {
+      "class": "rectangle",
+      "id": "EFCE9D0B-C71A-4F89-B3DB-19D1E5144D2F"
+    },
+    {
+      "class": "group",
+      "id": "22F8A73E-7933-4A8E-93D7-B269D96AB13A"
+    },
+    {
+      "class": "text",
+      "id": "88E96047-885E-40FB-8166-E7F6D54F3322"
+    },
+    {
+      "class": "text",
+      "id": "0AEA1B14-14D4-4B99-ACD6-AC454E36071D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B226244B-218C-4362-AD35-944E09D52319"
     }
   ],
   "name": "Pay",
@@ -121,6 +133,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

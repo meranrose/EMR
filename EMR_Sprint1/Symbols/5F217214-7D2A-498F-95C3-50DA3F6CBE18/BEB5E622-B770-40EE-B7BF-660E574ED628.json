@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "49CAEE1E-64DF-4B1F-BAC7-5D3F27A4519C",
-    "height": 40,
-    "width": 320,
-    "x": 28,
-    "y": 113
+    "height": 50,
+    "width": 200,
+    "x": 88,
+    "y": 39
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "C8734DEC-51AB-4A4F-A602-2560475A3C1A",
       "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
-      "value": "Make A Payment"
+      "value": "Make Payment"
     }
   ],
   "resizingConstraint": 63,
@@ -54,5 +54,11 @@
     "windingRule": 1
   },
   "symbolID": "442A0812-2D06-42B3-BA5C-86299B9483E9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -64,23 +64,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "3265A074-8110-441D-95C3-C30E809661CB"
     },
     {
-      "class": "symbolInstance",
-      "id": "B265FB48-EBD6-44AC-8B75-EBD9C48BB92B"
-    },
-    {
       "class": "group",
       "id": "ED3E774E-2FA3-4B36-BA27-53219D94C55A"
     },
     {
-      "class": "group",
-      "id": "ABD4E968-2D48-4131-905E-98B93AC5C7F3"
+      "class": "symbolInstance",
+      "id": "296A1BD1-31BD-4B3C-8519-6D2F43A02FE8"
     }
   ],
   "layout": {
@@ -99,7 +95,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 375
   },
-  "name": "Pay - Confirmation",
+  "name": "Confirmation",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -120,6 +116,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

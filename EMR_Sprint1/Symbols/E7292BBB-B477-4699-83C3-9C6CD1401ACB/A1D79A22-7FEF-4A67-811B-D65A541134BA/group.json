@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 280,
-    "x": 15,
-    "y": 22
+    "height": 38,
+    "width": 287,
+    "x": 17,
+    "y": 18
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,8 +34,8 @@
       "id": "ECD77EAF-83F1-4F94-B22B-6E20CC1A98A1"
     },
     {
-      "class": "text",
-      "id": "9C6037C3-5CF2-4F05-826A-EA06452D5828"
+      "class": "group",
+      "id": "9B212BAB-3372-4B13-8C54-F9B389B66CCD"
     }
   ],
   "name": "Group",
@@ -50,5 +50,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

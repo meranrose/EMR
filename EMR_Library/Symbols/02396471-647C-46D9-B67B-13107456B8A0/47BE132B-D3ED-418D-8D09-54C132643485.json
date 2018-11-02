@@ -20,7 +20,7 @@
     "height": 48,
     "width": 290,
     "x": 0,
-    "y": 23
+    "y": 33
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -122,5 +122,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

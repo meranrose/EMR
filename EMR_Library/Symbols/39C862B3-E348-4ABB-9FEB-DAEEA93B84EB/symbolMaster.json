@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2974,
+  "changeIdentifier": 2987,
   "clippingMaskMode": 0,
   "do_objectID": "39C862B3-E348-4ABB-9FEB-DAEEA93B84EB",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "3A93713F-1881-45CB-92B7-0226753E9A93"
+      "class": "shapeGroup",
+      "id": "6E2A08E6-8AF7-472A-8B4D-285303FA6EF5"
+    },
+    {
+      "class": "rectangle",
+      "id": "E8F6E60A-AB28-47C6-A79B-EE01B0068BB6"
     }
   ],
   "name": "Icons / Radio - Selected",

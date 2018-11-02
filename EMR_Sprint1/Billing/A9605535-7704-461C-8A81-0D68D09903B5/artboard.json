@@ -53,10 +53,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "EF2EF0D1-480D-4EB2-99F7-7214F725D75B"
-    },
-    {
-      "class": "symbolInstance",
       "id": "AC0E76B8-77DE-441A-AD2B-AD8CBDA4A03A"
     },
     {
@@ -66,18 +62,6 @@
     {
       "class": "text",
       "id": "77ADA228-F336-46B4-84AE-7AA28667E3AF"
-    },
-    {
-      "class": "text",
-      "id": "D03004EB-39A5-4277-8834-C8A2B00E20F2"
-    },
-    {
-      "class": "text",
-      "id": "E40A1A35-ED2E-4EBC-B979-D0CD37EC6401"
-    },
-    {
-      "class": "text",
-      "id": "E0CA9DA7-6B3A-4F15-9E90-6A68C3E9A765"
     },
     {
       "class": "text",
@@ -96,16 +80,16 @@
       "id": "B411A49E-BDC0-44F6-9B6A-714BEE56386E"
     },
     {
-      "class": "group",
-      "id": "79821EAF-5B6B-4EC5-8D68-E053E85C5190"
+      "class": "text",
+      "id": "A0F6B767-ED6B-4E63-9FFE-C707EAB58229"
     },
     {
       "class": "text",
       "id": "73C27C14-0814-486F-A38E-75FA7228AFCB"
     },
     {
-      "class": "group",
-      "id": "F9FCEB46-7EE2-4D26-97FD-187821960008"
+      "class": "text",
+      "id": "B109D334-E25D-4292-8306-7B6BA07D72F6"
     },
     {
       "class": "text",
@@ -114,9 +98,13 @@
     {
       "class": "shapeGroup",
       "id": "D289B035-CE52-4C8A-BAAD-1B261132096D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85669644-D0B7-4756-BE8E-D33EBCF95B6F"
     }
   ],
-  "name": "Billing - 1 Default",
+  "name": "Bill Increase",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
