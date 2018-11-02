@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 880,
+    "height": 746,
     "width": 375,
     "x": 0,
     "y": 0
@@ -31,10 +31,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "816B8496-A1E2-4894-9AC5-B90FCA901ABB"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F93E6686-6B14-4ACC-B71D-093867CD028B"
     },
     {
@@ -44,10 +40,6 @@
     {
       "class": "group",
       "id": "675FCED2-BEF8-4221-BE8D-767AD775ECCE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "589CE6EC-1524-4A0D-B86A-6CAB13EA667B"
     }
   ],
   "name": "Stacked Group",
