@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 716,
+  "changeIdentifier": 723,
   "clippingMaskMode": 0,
   "do_objectID": "25210939-1C92-4665-AAEC-98A04A809834",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 303,
-    "x": 7942,
-    "y": 400
+    "x": 3334,
+    "y": 733
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,7 +57,7 @@
       "id": "CEEFC542-C070-4F32-A6FB-C8AAB2811A4B"
     }
   ],
-  "name": "Selector / Radio Button",
+  "name": "Selectors / Radio Button",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

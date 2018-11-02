@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4303556D-5072-4FA3-BC06-B0F465F40BC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62538242-DCB3-4974-AA83-3469BBA2E1AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40B7E0BB-B532-4764-9507-A20A88E8945D",
+    "height": 33,
+    "width": 43,
+    "x": 299,
+    "y": 292
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Selector / Calendar / Selected Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D478412-D385-4CBA-A89C-C1636044116A",
+      "overrideName": "937791AF-29E3-4F6A-A20B-5F1BD9C668C1_layerStyle",
+      "value": "EACB6A81-9C49-42A0-A915-33BC308496A2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1788BDBA-EAA5-44F6-82C7-0E9060379CD3",
+      "overrideName": "1D86FADE-1E84-4368-9C92-89D7D180ADB3_textStyle",
+      "value": "695E3561-468C-412B-BB87-32316C9800E6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8C7E61A-70A2-4BAF-BC05-B3E3A2E8BF0A",
+      "overrideName": "1D86FADE-1E84-4368-9C92-89D7D180ADB3_stringValue",
+      "value": "10"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1706755-4099-40B9-8670-5B53AE90F5AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D9A53867-D7C5-4D62-81DA-C82C68862DD3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

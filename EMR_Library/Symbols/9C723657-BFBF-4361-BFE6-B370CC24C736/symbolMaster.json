@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5186,
+  "changeIdentifier": 5193,
   "clippingMaskMode": 0,
   "do_objectID": "9C723657-BFBF-4361-BFE6-B370CC24C736",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "79EC8CAC-EF51-4076-8461-E4EEB352FC0C",
     "height": 93,
     "width": 300,
-    "x": 3430,
-    "y": 161
+    "x": 3334,
+    "y": 0
   },
   "grid": {
     "_class": "simpleGrid",
@@ -112,8 +112,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 300
   },
-  "name": "Custom / Account Switch",
-  "nameIsFixed": false,
+  "name": "Selectors / Account Switch",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

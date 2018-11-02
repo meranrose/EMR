@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F584FF2A-51C8-480D-9CEC-7D405457948C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "017CC7E9-BB91-4AC6-9997-0201FE18319A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A031D81A-91E9-4155-AA37-3FEBF7305662",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE330952-BD90-49C3-B794-51E6942803C4",
+    "height": 667,
+    "width": 375,
+    "x": 3431,
+    "y": 3870
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BF788154-D1CC-40E4-A833-7D3919B6D7DE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8F0EAD15-25B1-4F70-A7A5-73A9C68B7E9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "382537C3-B6D7-43E6-A0A5-956F5E627D02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B48B2732-EB17-463C-98EC-97033828C576"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21A2E8A1-BB8A-4C7A-9DDD-9A4871860760"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35AF01BD-A004-489E-B0AD-F0292BC04750"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D466947F-3932-4F0C-917A-6B0818BF0937"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14E05671-6076-4AFE-B65E-E1C64C8EDD82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "739D4E51-CCA4-428D-B054-E1CA950830D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DD55A96-BD2A-4237-A297-36FB5A96045D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD5CA944-AC3F-4C1B-9632-D0801EA98859"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4303556D-5072-4FA3-BC06-B0F465F40BC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37DA847C-CEB1-4541-8431-341200FE0F02"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1D1E04C-DCAF-439A-8DA3-1080B5485419"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D40FCE3-925E-437E-85B2-2EF2221E2763"
+    }
+  ],
+  "name": "Pay - Modify - Select - Date - Past Due Date",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3749F14-B3F6-425A-A6F7-12219666CB88",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26F0BF49-E22F-422A-A568-395AC65416D1",
+    "guides": [
+    ]
+  }
+}

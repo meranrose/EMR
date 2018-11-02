@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6307,
+  "changeIdentifier": 6360,
   "clippingMaskMode": 0,
   "do_objectID": "CE48CF25-775A-4D79-B379-A568690CF52B",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 300,
     "width": 344,
-    "x": 7942,
-    "y": 0
+    "x": 3334,
+    "y": 193
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,14 +46,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "36922AD8-4D42-4BEA-872B-0973008C3DE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9EB201CE-0F7A-42FA-8C17-4E1EBCAF4528"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB643B4D-6F5D-4B30-BD6D-CEDD7809C070"
     }
   ],
-  "name": "Selector / Calendar",
+  "name": "Selectors / Calendar",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

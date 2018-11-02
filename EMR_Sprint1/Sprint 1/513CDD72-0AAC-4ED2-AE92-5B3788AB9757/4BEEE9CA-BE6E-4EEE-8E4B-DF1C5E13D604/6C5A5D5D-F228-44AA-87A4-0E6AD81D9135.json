@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C5A5D5D-F228-44AA-87A4-0E6AD81D9135",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EC8CE4D-E359-4B42-BBA2-15778C5F2AA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E32C62F2-8ADE-4BBA-86DB-B31C022C1D90",
+    "height": 300,
+    "width": 375,
+    "x": 0,
+    "y": 366
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page / Landing / Account Details",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F66CAA3-AC4B-42F0-9AA2-A2FE574195A2",
+      "overrideName": "B98049F4-9A6D-4942-B205-E1058C982179_stringValue",
+      "value": "[Account Number]\n[Account Number]\n[Amount Due]\n[Due Date]"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC0BA4BE-434E-4B84-B97E-73E5DA2965F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D07A06BD-A3F4-4559-AE9C-A82E36E5F366",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

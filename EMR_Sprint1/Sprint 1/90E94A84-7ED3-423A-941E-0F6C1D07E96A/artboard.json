@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1AAC02C6-E4BE-46C5-BD90-0FBD97AFFEBA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90E94A84-7ED3-423A-941E-0F6C1D07E96A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "360E9559-B2C4-4CE8-9567-7D737C4E1730",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50D7A083-DCD3-48DF-AF92-58903AB1D29E",
+    "height": 785,
+    "width": 375,
+    "x": 581,
+    "y": 2985
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D18D05E-C4EF-455A-8601-49301DD72EDE",
+    "guides": [
+      451
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "290AB797-7D76-4066-8BFD-9C40FA09A56C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BBA3515-483E-45F7-8F73-F3A075EDBE68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EE39B41-7AFE-4349-8674-48F96D636D3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3F9BBCF-375C-42EB-9172-A1A5055B9655"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BC51C70-3393-4AE4-B667-324E94A7D423"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF251EA7-8995-42BA-B8B1-A008A91468EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FFF7A6C-3E3B-4E4A-8022-7349D483109D"
+    },
+    {
+      "class": "text",
+      "id": "FD99CD08-349D-4EBF-82BE-A97EDE50E079"
+    },
+    {
+      "class": "text",
+      "id": "8465DB20-AA1C-4DF6-813B-82CF7F06B9AE"
+    },
+    {
+      "class": "text",
+      "id": "67E74AF4-6D9D-4370-B60D-E6E8F0432714"
+    },
+    {
+      "class": "text",
+      "id": "7BB0C48B-1ED6-44DE-B278-4CA274E66E47"
+    }
+  ],
+  "name": "Pay - Past Due",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0BC847D-EA55-4D34-8D74-3354951CB340",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B083FB51-5F6C-4978-84E6-44FA427A77F6",
+    "guides": [
+      402,
+      331,
+      145,
+      -96
+    ]
+  }
+}

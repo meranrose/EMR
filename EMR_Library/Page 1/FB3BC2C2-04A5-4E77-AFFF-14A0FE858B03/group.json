@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EE6E2601-EC0A-431D-A594-BA14EB43E201",
-    "height": 1125,
-    "width": 375,
-    "x": 2343,
-    "y": -1849
+    "height": 2193,
+    "width": 858,
+    "x": 1860,
+    "y": -2917
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -58,6 +58,10 @@
     {
       "class": "group",
       "id": "9DEDAA56-A217-41B0-8A64-AD60948FED6C"
+    },
+    {
+      "class": "group",
+      "id": "E045113E-C677-44B3-9B25-C8768F23229F"
     }
   ],
   "name": "sdge-home-mobile default copy",

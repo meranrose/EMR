@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EB2B704D-9BA3-4875-A030-2234FB545F1B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D136EFE-1D69-468C-BC41-F1395098FDDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E9A43B9-0D59-48CC-8B68-3A85B355ECC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC4914F1-B87A-4E7A-9C27-416C8EA00F90",
+    "height": 667,
+    "width": 375,
+    "x": 1056,
+    "y": 2218
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5F8DF07D-F386-4FEA-81E0-A7F929D5D8EF",
+    "guides": [
+      451
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B3B875F7-8AD3-42AF-9C5F-3EBE687D1B4E"
+    },
+    {
+      "class": "text",
+      "id": "F8F2F42C-1097-4276-AD88-BCFED6BEB68F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A9703A4-CEEA-4624-8FF6-A2EF7E7AEA58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA321AA3-A58D-4E21-BBD7-D507C7719B21"
+    }
+  ],
+  "name": "Dialog - Learn More",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4A543C3-0DE3-42B7-A3DF-C483471E9D48",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "95AD7857-14D0-4EBD-A6DA-C7D921BA349A",
+    "guides": [
+      402,
+      331,
+      145,
+      -96
+    ]
+  }
+}
