@@ -26,11 +26,11 @@
     "do_objectID": "4BD3FBE9-4EA2-49CD-9FFC-12ADE1B0B36D",
     "height": 1000,
     "width": 375,
-    "x": 8439,
-    "y": 1085
+    "x": 9871,
+    "y": 1130
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,9 +57,13 @@
     {
       "class": "symbolInstance",
       "id": "4F4F87A4-CC89-475E-AC73-ED5011060499"
+    },
+    {
+      "class": "rectangle",
+      "id": "DBAB3721-E580-4B11-B9AA-9A10A57D33CC"
     }
   ],
-  "name": "Dash -  Off Peak",
+  "name": "Dash - Off Peak",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

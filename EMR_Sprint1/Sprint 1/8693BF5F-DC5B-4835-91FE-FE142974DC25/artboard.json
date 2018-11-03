@@ -26,11 +26,11 @@
     "do_objectID": "A43CA443-056A-486E-B070-8E2A9D4AD6B9",
     "height": 1000,
     "width": 375,
-    "x": 9389,
-    "y": 1085
+    "x": 10821,
+    "y": 1130
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,9 +61,17 @@
     {
       "class": "symbolInstance",
       "id": "5CDAD76E-C078-4078-B2F5-63E2A65D2408"
+    },
+    {
+      "class": "rectangle",
+      "id": "A49683D8-AA7B-4D31-A432-3CCE84914C53"
+    },
+    {
+      "class": "rectangle",
+      "id": "907E4CB1-0BAE-4AD7-8DE2-0E1F79F1AB8C"
     }
   ],
-  "name": "Payment Disabled",
+  "name": "Dash - Payment Disabled",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

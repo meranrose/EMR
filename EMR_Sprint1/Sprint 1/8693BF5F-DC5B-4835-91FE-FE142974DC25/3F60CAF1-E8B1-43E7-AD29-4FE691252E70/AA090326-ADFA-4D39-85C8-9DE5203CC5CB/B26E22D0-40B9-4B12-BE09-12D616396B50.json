@@ -35,13 +35,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C8734DEC-51AB-4A4F-A602-2560475A3C1A",
+      "do_objectID": "C0D14AB8-209E-4F90-95ED-A5DB5B2D7192",
       "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
       "value": "Make Payment"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E06D5FE3-BB0B-4F2D-8CF5-670591CC25CD",
+      "do_objectID": "AF2891E3-0FF9-4A81-A561-1DBF23106060",
       "overrideName": "13C2744C-A8D5-4124-A803-CAEA61A2423D_layerStyle",
       "value": "7D5D6CDA-17FE-4DFA-A4AC-B75F678810D7"
     }
@@ -53,6 +53,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "do_objectID": "2C70C8DB-7A0D-4109-B7AA-8872D62B10F5",
     "endMarkerType": 0,
     "miterLimit": 10,

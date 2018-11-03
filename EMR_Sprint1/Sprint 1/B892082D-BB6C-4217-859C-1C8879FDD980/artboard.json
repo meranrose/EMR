@@ -26,11 +26,11 @@
     "do_objectID": "5A10EA57-4AB3-4CE4-8EC4-AE8D14D66DA3",
     "height": 1000,
     "width": 375,
-    "x": 9864,
-    "y": 1085
+    "x": 11296,
+    "y": 1130
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,6 +55,10 @@
       "id": "F00BC547-FD7A-40BB-B0E3-35A70F55FA84"
     },
     {
+      "class": "rectangle",
+      "id": "F818B3B3-DCF4-4573-9E93-3303B4501862"
+    },
+    {
       "class": "symbolInstance",
       "id": "589CE6EC-1524-4A0D-B86A-6CAB13EA667B"
     },
@@ -67,7 +71,7 @@
       "id": "2DB66BAA-1734-4D89-80F9-D3560202D5D8"
     }
   ],
-  "name": "Multi Account",
+  "name": "Dash - Multi Account",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

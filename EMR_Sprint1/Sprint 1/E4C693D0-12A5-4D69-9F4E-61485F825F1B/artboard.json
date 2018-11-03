@@ -26,8 +26,8 @@
     "do_objectID": "3D25C0A6-5B06-4037-81B1-BD3A524CE908",
     "height": 1000,
     "width": 375,
-    "x": 7964,
-    "y": 1085
+    "x": 9396,
+    "y": 1130
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -63,9 +63,13 @@
     {
       "class": "symbolInstance",
       "id": "5D0129ED-ED02-444C-B92A-E18F045D1208"
+    },
+    {
+      "class": "rectangle",
+      "id": "94DCC587-1D95-468F-9161-D3F95DB002CC"
     }
   ],
-  "name": "Dash -  Tiered",
+  "name": "Dash - Tiered",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

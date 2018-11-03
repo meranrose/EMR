@@ -26,8 +26,8 @@
     "do_objectID": "DE207370-4932-4463-9BCB-F17870FC78F7",
     "height": 1000,
     "width": 375,
-    "x": 7489,
-    "y": 1085
+    "x": 12246,
+    "y": 1130
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -59,7 +59,7 @@
       "id": "3E0D434D-6685-4D1F-B29C-C62A903D6099"
     }
   ],
-  "name": "Dash -  Usage",
+  "name": "Dash -  Default - kWh",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
