@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 456,
+  "changeIdentifier": 469,
   "clippingMaskMode": 0,
   "do_objectID": "265BDD8A-B3D4-4CEA-8EA4-8C27C5004988",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "94F1AA18-DBE6-4E13-99CB-675FD2D18965"
-    },
-    {
-      "class": "rectangle",
-      "id": "B544376C-AC5C-4FDF-BD07-817A9090E838"
     }
   ],
   "name": "Icons / Chevron - Left",

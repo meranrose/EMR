@@ -8,7 +8,7 @@
     "red": 0.290221631526947
   },
   "booleanOperation": -1,
-  "changeIdentifier": 121,
+  "changeIdentifier": 129,
   "clippingMaskMode": 0,
   "do_objectID": "401A8EEC-A720-4E62-BF74-2801F986F1DB",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "3C9AC36D-18CA-4AFA-A4A3-5EB68BD5042F"
-    },
-    {
-      "class": "rectangle",
-      "id": "B36A6485-0245-4050-85B6-1F094AC717A6"
     }
   ],
   "name": "Icons / Exit",

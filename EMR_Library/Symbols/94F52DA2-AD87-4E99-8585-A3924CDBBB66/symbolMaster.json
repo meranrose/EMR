@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 128,
+  "changeIdentifier": 168,
   "clippingMaskMode": 0,
   "do_objectID": "94F52DA2-AD87-4E99-8585-A3924CDBBB66",
   "exportOptions": {
@@ -50,15 +50,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "C736A60D-939C-408F-B40A-0336A1E507DE"
-    },
-    {
-      "class": "rectangle",
-      "id": "C095BBDD-51E1-44A7-8EFA-BF9705066871"
     }
   ],
   "name": "Icons / Arrow - Right",

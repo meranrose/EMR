@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 77,
+  "changeIdentifier": 88,
   "clippingMaskMode": 0,
   "do_objectID": "182B5E2C-C9CB-42D7-A177-757277E50ECF",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "C532ECBC-12F0-4087-82C8-B60E730FFFC7"
-    },
-    {
-      "class": "rectangle",
-      "id": "51918A18-CB68-4C68-A387-670239956086"
     }
   ],
   "name": "Icons / Check",

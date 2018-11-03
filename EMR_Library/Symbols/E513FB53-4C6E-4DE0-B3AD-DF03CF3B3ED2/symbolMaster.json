@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3192,
+  "changeIdentifier": 3205,
   "clippingMaskMode": 0,
   "do_objectID": "E513FB53-4C6E-4DE0-B3AD-DF03CF3B3ED2",
   "exportOptions": {
@@ -50,15 +50,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "AB5EE178-8732-4C67-8464-22A930C85B84"
-    },
-    {
-      "class": "rectangle",
-      "id": "F3EA1BB4-AA1D-4E4B-BEB9-D0688E1C2F49"
     }
   ],
   "name": "Icons / Calendar",

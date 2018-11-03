@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3045,
+  "changeIdentifier": 3053,
   "clippingMaskMode": 0,
   "do_objectID": "6751E9AE-1F92-4CE9-86CB-57BA3C37566F",
   "exportOptions": {
@@ -55,10 +55,6 @@
     {
       "class": "shapePath",
       "id": "FB160D98-4F23-451C-BE5A-61977ED20E81"
-    },
-    {
-      "class": "rectangle",
-      "id": "69D85A21-E75D-4AA7-BDE2-C9ED02F60F44"
     }
   ],
   "name": "Icons / Arrow - Left",
