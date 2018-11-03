@@ -26,8 +26,8 @@
     "do_objectID": "AC4914F1-B87A-4E7A-9C27-416C8EA00F90",
     "height": 667,
     "width": 375,
-    "x": 11099,
-    "y": 191
+    "x": 11679,
+    "y": -2730
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -67,7 +67,7 @@
       "id": "76CF8207-17B0-401B-A72D-72827B675151"
     }
   ],
-  "name": "Dialog - Learn More",
+  "name": "Dash Dialogs",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

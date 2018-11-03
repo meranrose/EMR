@@ -29,11 +29,11 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 36,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "Hey, you don't have auto pay set up."
+    "string": "Pay on time, every time."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {261, 16}}",
+  "glyphBounds": "{{1, 4}, {174, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

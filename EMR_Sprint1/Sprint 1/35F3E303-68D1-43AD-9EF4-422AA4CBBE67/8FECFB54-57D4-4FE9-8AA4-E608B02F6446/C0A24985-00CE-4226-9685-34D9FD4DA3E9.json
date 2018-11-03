@@ -29,11 +29,11 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 42,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Want to save a few trees? Switch to eBill."
+    "string": "Want to save a few trees?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {295, 13}}",
+  "glyphBounds": "{{1, 4}, {185, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

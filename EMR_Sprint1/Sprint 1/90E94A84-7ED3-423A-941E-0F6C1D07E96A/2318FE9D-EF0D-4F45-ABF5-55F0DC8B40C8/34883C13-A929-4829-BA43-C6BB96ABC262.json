@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "34883C13-A929-4829-BA43-C6BB96ABC262",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73B1C430-C57D-4688-BF88-B35B2692EF4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5E23B2D-C685-410A-AE74-88C5AA53855D",
+    "height": 56,
+    "width": 311,
+    "x": 0,
+    "y": 57
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "405815FF-6BC7-4A56-A6C5-9F015E5AE0DD",
+      "overrideName": "69240B24-3623-4D51-801C-D76DE77DD64E_stringValue",
+      "value": "Bank of America ****1234"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF36D241-48C2-4E53-8860-C42DA9ADF244",
+      "overrideName": "B249CDEC-5A52-40E7-8366-670C89913DBF_stringValue",
+      "value": "Method"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1D356B6-A9B9-4128-B6B0-4746E44199F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1947C41D-4DA3-4159-874F-75BEC9251B53",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

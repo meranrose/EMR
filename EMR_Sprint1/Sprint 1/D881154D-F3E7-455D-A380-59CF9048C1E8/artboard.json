@@ -14,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "6E433D17-1104-4CBE-9F74-6B6EC7B8330A",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,11 +35,11 @@
     "do_objectID": "6C7EBAC5-6CAA-4720-8E71-1BE4F12133D5",
     "height": 1000,
     "width": 375,
-    "x": 9396,
-    "y": 3882
+    "x": 11679,
+    "y": 4422
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -67,7 +76,7 @@
       "id": "8CF866C2-42E6-4E6F-8743-D03849C2611A"
     }
   ],
-  "name": "Pay - Modify - Default- Current",
+  "name": "[2 Pay] 2.0 Default",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

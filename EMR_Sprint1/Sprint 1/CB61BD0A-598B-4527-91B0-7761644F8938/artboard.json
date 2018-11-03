@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "1B5D0887-3510-4B50-9DA1-ABF384F5CBA4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,11 +36,11 @@
     "do_objectID": "5BF730E0-C328-4C5B-A016-429193F3FE91",
     "height": 667,
     "width": 375,
-    "x": 12246,
-    "y": 3882
+    "x": 12629,
+    "y": 7056
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -59,7 +68,7 @@
       "id": "04EC03DD-EE44-4F58-9306-26F726E7F7EF"
     }
   ],
-  "name": "Dialog - Excecution Failure",
+  "name": "[2 Pay] Dialog - Excecution Failure",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 199,
+        "length": 142,
         "location": 0
       }
     ],
-    "string": "A payment is currently scheduled for the amount of <amount> on <date> with payment method <method>.\n\n\n\n\n\n\n\n\n\nTo see a full view of scheduled payments, visit your Payments History on My Account Online"
+    "string": "A payment is currently scheduled for this account. To see a full view of scheduled payments, visit your Payments History in My Account online."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
+    "height": 80,
     "width": 300,
-    "x": 30,
+    "x": 32,
     "y": 254
   },
-  "glyphBounds": "{{0, 4}, {298, 295}}",
+  "glyphBounds": "{{0, 4}, {288, 75}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

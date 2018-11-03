@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 906,
+  "changeIdentifier": 998,
   "clippingMaskMode": 0,
   "do_objectID": "9EE2B5C6-825C-4209-88D1-94CC4CDD9E30",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 72,
     "width": 375,
-    "x": 9871,
-    "y": 958
+    "x": 15282,
+    "y": -2730
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,16 +49,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E78441F3-7145-4688-8A07-19C28E735771"
-    },
-    {
-      "class": "rectangle",
-      "id": "75E17A6A-AB6C-47AF-847D-5F22DCD2B5C3"
-    },
-    {
       "class": "group",
-      "id": "7B25691A-B671-4DB7-B992-4EAF79F4EE84"
+      "id": "339AE7D3-667E-4CDD-89CE-13E4617B501C"
     }
   ],
   "name": "App Bar / Bottom Home",

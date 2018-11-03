@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C9159796-CBA0-4A23-BD0D-4B6253524523",
-    "height": 196,
+    "height": 220,
     "width": 375,
     "x": 0,
-    "y": 24
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,20 +32,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "539F0EF7-0C3A-4404-BC0E-58E09696F752"
-    },
-    {
-      "class": "group",
-      "id": "3FFF2DAB-4AFA-444D-B60D-11930548163C"
-    },
-    {
-      "class": "group",
-      "id": "5F8FC2AC-8780-4D3A-A377-C459279C5AB1"
-    },
-    {
       "class": "symbolInstance",
-      "id": "70988996-C896-4784-AFA7-BD7AF115BCAB"
+      "id": "5A9C476C-D0AE-453E-9840-C2A9880DB06E"
     }
   ],
   "name": "Group",

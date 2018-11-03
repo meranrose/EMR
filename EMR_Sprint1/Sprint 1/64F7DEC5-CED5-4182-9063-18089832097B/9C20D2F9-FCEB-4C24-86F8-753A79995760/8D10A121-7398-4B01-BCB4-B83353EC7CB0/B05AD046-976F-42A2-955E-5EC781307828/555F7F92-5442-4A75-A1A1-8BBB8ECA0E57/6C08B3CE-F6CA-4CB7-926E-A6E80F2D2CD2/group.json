@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 102,
-    "width": 91,
+    "height": 118,
+    "width": 161,
     "x": 0,
     "y": 0
   },
@@ -36,6 +36,10 @@
     {
       "class": "text",
       "id": "BB32D0FE-D37B-4CC0-BCD0-37A6693E6209"
+    },
+    {
+      "class": "text",
+      "id": "00A432F1-FF12-4B03-AB57-39098591387D"
     }
   ],
   "name": "Stacked Group",

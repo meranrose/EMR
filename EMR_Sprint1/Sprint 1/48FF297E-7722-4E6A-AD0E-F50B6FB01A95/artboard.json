@@ -14,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "010C7A61-151D-49C2-A8FF-34623C7814F2",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,11 +35,11 @@
     "do_objectID": "E5785498-6A7C-4A6A-908E-A5FE6929FCDD",
     "height": 1000,
     "width": 375,
-    "x": 10821,
-    "y": 3882
+    "x": 13104,
+    "y": 4422
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -63,11 +72,11 @@
       "id": "FAF33EB6-11F6-4B95-9FDA-DADD8C04B8FE"
     },
     {
-      "class": "group",
-      "id": "AE30D4F1-605D-44B0-8390-B2202DA4BD7A"
+      "class": "symbolInstance",
+      "id": "783D8E04-5802-408A-8A72-D95A22D14A9E"
     }
   ],
-  "name": "Pay - Modify - Amount - Past Due",
+  "name": "[2 Pay] 2.3 Past Due",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

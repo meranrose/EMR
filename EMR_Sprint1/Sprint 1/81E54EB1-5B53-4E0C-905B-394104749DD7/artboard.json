@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "3699CE23-FBFB-46BF-A861-4F632AC22609",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,11 +36,11 @@
     "do_objectID": "08645CB4-5A6A-495A-8CAB-6747749CD300",
     "height": 667,
     "width": 376,
-    "x": 12721,
-    "y": 3882
+    "x": 13104,
+    "y": 7056
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -59,7 +68,7 @@
       "id": "70F17DCB-FB33-4543-921D-7C1EE983085D"
     }
   ],
-  "name": "Dialog - Pending Payment",
+  "name": "[2 Pay] Dialog - Payment Pending",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -14,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "8EE9E3E4-19B6-4339-B9DA-1B52587F4A4A",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,11 +35,11 @@
     "do_objectID": "66A1DBF1-E500-4064-B9B0-F34BA904628F",
     "height": 785,
     "width": 375,
-    "x": 9871,
-    "y": 2997
+    "x": 11679,
+    "y": 3537
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,23 +57,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "67AA8E18-7F92-4D28-BB6A-354D5AC847C9"
     },
     {
-      "class": "symbolInstance",
-      "id": "796B845E-BDD7-4AF0-803F-3E4863E84611"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C40DF05B-E5AC-4851-9CF5-D450439C7C7F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2EF76245-A7F1-4B67-8F96-10A5CA98C268"
+      "class": "group",
+      "id": "04985FEA-0323-4410-96C1-A38A99519F7C"
     },
     {
       "class": "symbolInstance",
@@ -79,27 +80,11 @@
       "id": "FF33DD20-6920-4EE9-B192-5E9B5E126F42"
     },
     {
-      "class": "rectangle",
-      "id": "F5657EB2-BEA9-443C-B40B-A2D9C8D57E81"
-    },
-    {
-      "class": "group",
-      "id": "23B59ABE-31F9-4671-96E5-FFF6A140989E"
-    },
-    {
-      "class": "text",
-      "id": "537F21BA-3535-43CB-8D9E-6B2AA8E03940"
-    },
-    {
-      "class": "text",
-      "id": "F7310310-5F5F-4F43-B8A6-D3DB1ABF437C"
-    },
-    {
       "class": "symbolInstance",
-      "id": "58B544AE-B421-4F8A-BCCC-50F49C92A3AE"
+      "id": "597F000D-EAD7-49FD-A6CF-AD348F30458A"
     }
   ],
-  "name": "Pay- Generic",
+  "name": "[2 Pay] 1.0 Default",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

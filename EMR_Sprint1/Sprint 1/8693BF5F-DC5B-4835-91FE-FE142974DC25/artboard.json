@@ -14,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "D595B6AD-679D-44F5-879C-5EAF0B71CBA7",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,8 +35,8 @@
     "do_objectID": "A43CA443-056A-486E-B070-8E2A9D4AD6B9",
     "height": 1000,
     "width": 375,
-    "x": 10821,
-    "y": 1130
+    "x": 12629,
+    "y": -1963
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -48,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -64,14 +73,10 @@
     },
     {
       "class": "rectangle",
-      "id": "A49683D8-AA7B-4D31-A432-3CCE84914C53"
-    },
-    {
-      "class": "rectangle",
       "id": "907E4CB1-0BAE-4AD7-8DE2-0E1F79F1AB8C"
     }
   ],
-  "name": "Dash - Payment Disabled",
+  "name": "[1 Dash] 1.2 Pay Disabled",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

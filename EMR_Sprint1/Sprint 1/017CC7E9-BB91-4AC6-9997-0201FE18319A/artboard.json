@@ -27,8 +27,8 @@
     "do_objectID": "AE330952-BD90-49C3-B794-51E6942803C4",
     "height": 667,
     "width": 375,
-    "x": 10346,
-    "y": 4982
+    "x": 12629,
+    "y": 5522
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -107,7 +107,7 @@
       "id": "1D40FCE3-925E-437E-85B2-2EF2221E2763"
     }
   ],
-  "name": "Pay - Modify - Select - Date - Past Due Date",
+  "name": "[2 Pay] 2.6 Select Next",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

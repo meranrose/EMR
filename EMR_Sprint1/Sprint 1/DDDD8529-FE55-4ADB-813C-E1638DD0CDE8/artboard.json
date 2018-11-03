@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "E0B5899C-5C48-4826-B223-0D1A5FA5BD85",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,11 +36,11 @@
     "do_objectID": "33AF0173-EBDB-4F9A-9792-A337673560F9",
     "height": 667,
     "width": 375,
-    "x": 9396,
-    "y": 2230
+    "x": 12154,
+    "y": 2437
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -67,7 +76,7 @@
       "id": "0D57A0DF-7BBF-438D-A4A3-18BAE97B5F55"
     }
   ],
-  "name": "Dash - Select  - Account",
+  "name": "[1 Dash] 5.1 Select Account",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

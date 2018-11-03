@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47373292-7082-41FB-8833-BDA5C7340457",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB03B10D-EAA2-4C6C-9E62-19D59A51AB6C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0531E29-C141-47F8-B11C-274D31EBC021",
+    "height": 797,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F4BD0B73-0508-439C-9915-585C07EB991A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "495D7E61-74B6-4BC4-827B-E3EA12D9B46B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA5925D2-B2A3-431F-8A3E-C2A690A06020"
+    },
+    {
+      "class": "group",
+      "id": "697C9A82-EB18-43CF-9034-852704EFFCFA"
+    },
+    {
+      "class": "group",
+      "id": "0C0CD2EA-3016-4C5A-A059-EED7200172F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "589CE6EC-1524-4A0D-B86A-6CAB13EA667B"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3564EBB5-C350-46B5-BA9D-5FB509061D79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

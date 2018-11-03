@@ -14,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "D8377A9E-7555-48FD-87E7-761E727B9EB0",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,11 +35,11 @@
     "do_objectID": "14B6AAA5-4BC0-45DF-A7F4-CA57C07C611C",
     "height": 741,
     "width": 375,
-    "x": 11296,
-    "y": 3882
+    "x": 11679,
+    "y": 7056
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -70,9 +79,9 @@
       "id": "5F9DF6C3-2F18-4D3A-85A5-D593C9BD33A4"
     }
   ],
-  "name": "Dialogs",
+  "name": "[2 Pay] Dialogs",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

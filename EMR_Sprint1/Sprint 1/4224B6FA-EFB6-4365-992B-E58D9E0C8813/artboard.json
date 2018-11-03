@@ -14,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "6D81E861-6B15-4648-96F8-39DD4CA9CAA2",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,8 +35,8 @@
     "do_objectID": "4BD3FBE9-4EA2-49CD-9FFC-12ADE1B0B36D",
     "height": 1000,
     "width": 375,
-    "x": 9871,
-    "y": 1130
+    "x": 11679,
+    "y": -863
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -48,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -63,7 +72,7 @@
       "id": "DBAB3721-E580-4B11-B9AA-9A10A57D33CC"
     }
   ],
-  "name": "Dash - Off Peak",
+  "name": "[1 Dash] 2.0 TOU",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
