@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 350,
+  "changeIdentifier": 390,
   "clippingMaskMode": 0,
   "do_objectID": "1A750AD3-4666-47BB-872C-3A91A0DDDD95",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -54,7 +54,7 @@
     },
     {
       "class": "rectangle",
-      "id": "83F0E7CD-89C0-4CB9-9CCC-56118CDD9939"
+      "id": "597CCC55-3765-4618-9BA0-C8E82BC450B5"
     }
   ],
   "name": "Icons / Bill",
@@ -72,6 +72,12 @@
     "windingRule": 1
   },
   "symbolID": "525C5487-C022-4C27-9CE1-4E19E3805E69",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

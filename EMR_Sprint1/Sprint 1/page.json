@@ -114,6 +114,10 @@
     },
     {
       "class": "artboard",
+      "id": "DB1D21F6-B7DC-410D-9771-F60A966ECCFF"
+    },
+    {
+      "class": "artboard",
       "id": "05D433BA-1E2F-4A3B-91C0-ADAD37C8C468"
     },
     {
@@ -157,12 +161,20 @@
       "id": "9EE2B5C6-825C-4209-88D1-94CC4CDD9E30"
     },
     {
+      "class": "symbolMaster",
+      "id": "600AC2AD-05F9-43D7-A7C8-2B8B5642579C"
+    },
+    {
       "class": "artboard",
       "id": "76A413AB-8597-497D-B635-0BF20AC138FD"
     },
     {
       "class": "artboard",
       "id": "385C1C97-E680-4E26-ACDB-7A9FB189CD11"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "35F3E303-68D1-43AD-9EF4-422AA4CBBE67"
     }
   ],
   "name": "Sprint 1",

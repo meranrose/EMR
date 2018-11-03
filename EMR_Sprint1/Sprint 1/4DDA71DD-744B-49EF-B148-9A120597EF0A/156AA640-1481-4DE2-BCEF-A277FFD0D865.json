@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "By the way, our mobile app can only accept payments via saved bank accounts. You can manage account payment methods or pay with a credit card on our website."
+    "string": "Right now, our mobile app can only accept payments via saved bank accounts.\n\nYou can manage account payment methods or pay with a credit card on our website."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F70CA7DB-7A5B-4FEF-94E3-7BF5A0C0DA43",
-    "height": 80,
+    "height": 100,
     "width": 325,
     "x": 26,
-    "y": 81
+    "y": 105
   },
-  "glyphBounds": "{{0, 4}, {318, 73}}",
+  "glyphBounds": "{{0, 4}, {320, 96}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,11 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "By the way, our mobi",
+  "name": "Right now, our mobil",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7AB1794B-0A21-4FC2-A221-7554444D6621",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5B49152E-61EB-4A87-A68F-D1874701E47A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

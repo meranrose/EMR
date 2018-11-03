@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17D8368F-DA62-4A59-8E5B-C5358BF102DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0848856-76C8-4788-A7B0-E5E785FCCC2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B846DCEE-DCB7-4889-B278-926540EC4C46",
+    "height": 50,
+    "width": 190,
+    "x": 81,
+    "y": 284
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Flat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35073B7C-CE52-4F47-9047-B28BD1B017F8",
+      "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
+      "value": "Go To MyAccount"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34CE0EF6-A39D-492B-8BC7-62BF3DCB72E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "442A0812-2D06-42B3-BA5C-86299B9483E9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "externalURL": "https://myaccount.sdge.com/sdge/ebppaction.do?bi=Y&_afrWindowMode=0&env_type=prod&uid=1088032",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 3,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 1,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2109,
+  "changeIdentifier": 2155,
   "clippingMaskMode": 0,
   "do_objectID": "1D31CB6B-71E4-47AC-A1F5-B7FF181DAB79",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -54,7 +54,7 @@
     },
     {
       "class": "rectangle",
-      "id": "7E331672-C477-4C16-A9C9-C43A3646F4E3"
+      "id": "C7799417-A7E4-419F-A4CE-F485738E6A06"
     }
   ],
   "name": "Icons / Usage",
@@ -72,6 +72,12 @@
     "windingRule": 1
   },
   "symbolID": "B5B767E2-9AC0-4FB4-80FC-B408BCDBBBA7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

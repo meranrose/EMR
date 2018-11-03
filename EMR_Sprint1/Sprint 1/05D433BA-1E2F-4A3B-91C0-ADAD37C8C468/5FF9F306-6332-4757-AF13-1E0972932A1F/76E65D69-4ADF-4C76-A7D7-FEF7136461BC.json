@@ -123,6 +123,26 @@
       "kModelPropertiesKey": {
         "isAutoWidth": 0
       }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "externalURL": "https://myaccount.sdge.com/sdge/ebppaction.do?bi=Y&_afrWindowMode=0&env_type=prod&uid=1088032",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 3,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 1,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "transition": 0
     }
   }
 }

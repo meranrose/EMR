@@ -27,8 +27,8 @@
     "do_objectID": "1EC2A55E-ADE3-46D5-9529-187B130DC728",
     "height": 439,
     "width": 375,
-    "x": 6592,
-    "y": 4937
+    "x": 8376,
+    "y": 213
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -69,6 +69,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

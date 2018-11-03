@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
+    "height": 72,
     "width": 375,
     "x": 0,
-    "y": 936
+    "y": 928
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

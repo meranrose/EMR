@@ -17,14 +17,14 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6BB9D153-CA65-4A5C-B07A-EA1A58BEFF22",
-    "height": 64,
+    "height": 72,
     "width": 375,
     "x": 0,
-    "y": 936
+    "y": 928
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

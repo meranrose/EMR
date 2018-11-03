@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 504,
+    "height": 623,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 50
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,19 +27,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "2654E3FA-3073-47DA-98E8-D9E7F5CFDFE8"
+      "class": "text",
+      "id": "158B3C85-1664-462F-A0E8-B95C456914B5"
     },
     {
       "class": "symbolInstance",
       "id": "648A5F5E-C2F9-439A-A28C-BF37A11683B5"
     },
     {
-      "class": "symbolInstance",
-      "id": "99093EE7-86A4-42A2-B933-F4111C7A9F02"
+      "class": "bitmap",
+      "id": "62F49FD0-6EC1-4432-B4FD-DE04304393C5"
     }
   ],
   "name": "Stacked Group",

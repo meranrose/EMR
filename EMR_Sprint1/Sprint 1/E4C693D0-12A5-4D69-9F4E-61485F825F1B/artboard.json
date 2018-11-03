@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "EE6EFBE6-346E-4B89-B4F4-BE3F8D7BB836",
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -38,7 +37,9 @@
     "base": 0,
     "do_objectID": "336CAD50-EA97-4DDC-8242-24BE04D986E2",
     "guides": [
-      451
+      451,
+      0,
+      32
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -49,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "E82BFA6A-BF01-4175-8C10-321FD92C69D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99093EE7-86A4-42A2-B933-F4111C7A9F02"
     },
     {
       "class": "symbolInstance",
@@ -94,10 +99,6 @@
     "base": 0,
     "do_objectID": "B0B4AA7B-D33D-4D1E-8F7C-A5E37E7FE7B9",
     "guides": [
-      402,
-      331,
-      145,
-      -96
     ]
   }
 }

@@ -27,11 +27,11 @@
     "do_objectID": "6E4C3E80-2F4D-4F57-A05C-65D32EED0767",
     "height": 667,
     "width": 375,
-    "x": 11289,
-    "y": 1085
+    "x": 12240,
+    "y": 3837
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,12 +60,12 @@
       "id": "156AA640-1481-4DE2-BCEF-A277FFD0D865"
     },
     {
-      "class": "rectangle",
-      "id": "21D09E00-28E9-4B1B-8D23-2ADCC48DCE87"
+      "class": "symbolInstance",
+      "id": "17D8368F-DA62-4A59-8E5B-C5358BF102DC"
     },
     {
       "class": "symbolInstance",
-      "id": "A6865BAD-E63A-435B-99B8-60B218086721"
+      "id": "23589F7C-8CCC-4C82-A95F-E7948A37DBE8"
     }
   ],
   "name": "Dialog - Learn About Payment Methods",

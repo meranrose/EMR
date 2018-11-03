@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2556,
+  "changeIdentifier": 2601,
   "clippingMaskMode": 0,
   "do_objectID": "4A29CD14-B825-4848-A747-44CAEF9B5CE5",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -58,7 +58,7 @@
     },
     {
       "class": "rectangle",
-      "id": "D935B125-2C4B-47CC-8382-0D1986C67966"
+      "id": "3FD0D79B-A484-4D4B-92CA-4D45BD034FCA"
     }
   ],
   "name": "Icons / Radio - Unselected",
@@ -77,6 +77,12 @@
     "windingRule": 1
   },
   "symbolID": "13674D3F-C73D-45F8-A6C8-62A53CFB6468",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

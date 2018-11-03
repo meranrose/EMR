@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "1AAC02C6-E4BE-46C5-BD90-0FBD97AFFEBA",
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -80,20 +79,8 @@
       "id": "0FFF7A6C-3E3B-4E4A-8022-7349D483109D"
     },
     {
-      "class": "text",
-      "id": "FD99CD08-349D-4EBF-82BE-A97EDE50E079"
-    },
-    {
-      "class": "text",
-      "id": "8465DB20-AA1C-4DF6-813B-82CF7F06B9AE"
-    },
-    {
-      "class": "text",
-      "id": "67E74AF4-6D9D-4370-B60D-E6E8F0432714"
-    },
-    {
-      "class": "text",
-      "id": "7BB0C48B-1ED6-44DE-B278-4CA274E66E47"
+      "class": "symbolInstance",
+      "id": "C64B148E-39E0-427E-9E61-73635256C80D"
     }
   ],
   "name": "Pay - Past Due",

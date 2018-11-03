@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "2F558B72-F2B8-4868-970D-98430B28DE4C",
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -27,8 +26,8 @@
     "do_objectID": "15F8A4EA-2E6B-48C9-82E0-29E1AD70485C",
     "height": 958,
     "width": 375,
-    "x": 7014,
-    "y": 5767
+    "x": 6539,
+    "y": 1085
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -109,7 +108,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7A8ABD56-0658-4893-833E-3FF1BF44CD82"
+      "id": "9467C8EE-234F-4D91-B05B-916C69811700"
     }
   ],
   "name": "Billing - 1 Default",
@@ -133,6 +132,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

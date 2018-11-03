@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "D912C28F-E78D-4EC0-AB61-6A09805E33B6",
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -94,10 +93,6 @@
     "base": 0,
     "do_objectID": "7C5F9562-9912-4764-81C3-3922B2C65A5E",
     "guides": [
-      402,
-      331,
-      145,
-      -96
     ]
   }
 }
