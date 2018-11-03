@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "060374E0-F9F9-4F85-A414-CE144A3A4698",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B06EC5EA-575A-46F0-8C4A-D98AA30E4876",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0645CE95-3AC3-407D-9A21-D37E175D8E77",
+    "height": 30,
+    "width": 86,
+    "x": 274,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0FCDCD16-E57A-4837-9A16-1953FB015737"
+    },
+    {
+      "class": "group",
+      "id": "E506F0E0-D90F-4357-AE42-9E3E12D60AF1"
+    }
+  ],
+  "name": "Tab4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8C1379D-1AE4-4E82-A604-9584A06D98D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

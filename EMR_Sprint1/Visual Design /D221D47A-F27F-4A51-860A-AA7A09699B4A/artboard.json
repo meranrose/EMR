@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6122B9D6-B989-4A45-AA6F-8C27092EDD52",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D221D47A-F27F-4A51-860A-AA7A09699B4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0296CD23-1A44-4C3C-ABC3-AFF6610EBDCC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAB21F5E-8ED5-4701-B4A7-C23FC8E99908",
+    "height": 667,
+    "width": 375,
+    "x": -179,
+    "y": -74
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "74048867-F907-414D-B413-4106CD844E44",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "30996950-3531-4B13-9F50-5B7232596716",
+    "guides": [
+      414,
+      407
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B513216-0855-41FD-BDFA-780DDB24A9AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55245E48-1C4D-44B7-B881-80A54BE00D05"
+    },
+    {
+      "class": "rectangle",
+      "id": "D97011F6-DEC8-4531-872F-4FFA4B1B6C17"
+    },
+    {
+      "class": "rectangle",
+      "id": "2DD0E51B-99DF-4341-B17E-ED37D167F321"
+    },
+    {
+      "class": "group",
+      "id": "75A8BF72-7D74-4E1B-822E-DD5DF3604D5E"
+    },
+    {
+      "class": "text",
+      "id": "7607B949-5A2F-4228-A1D9-2DB1C41F25F7"
+    },
+    {
+      "class": "group",
+      "id": "B0B68361-353E-4E28-A720-E3913AE15DF2"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA992BF6-2D94-4DBB-A6E7-E5BD9AEAFB64"
+    },
+    {
+      "class": "group",
+      "id": "FF54E766-000D-4FFF-9660-9C854836728C"
+    },
+    {
+      "class": "group",
+      "id": "1F59F893-B3E8-4416-A047-7C816382F9DB"
+    },
+    {
+      "class": "group",
+      "id": "ACCCC70A-98A9-410E-A35D-F40B13FB7AC8"
+    },
+    {
+      "class": "bitmap",
+      "id": "E1C955E9-F865-484B-8420-C1092579DCD6"
+    },
+    {
+      "class": "group",
+      "id": "83801244-37EA-49BA-8DB2-63421CDCF113"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 32.875,
+    "do_objectID": "621B41F9-67E8-4E5C-A9C0-38A087BFB664",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 309.25,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Splash_1 Copy 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BEC23FA6-6311-4AAD-85CC-BE24638F2052",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E4E4D86-A190-45E0-874B-EAB4C660BB20",
+    "guides": [
+      85,
+      636,
+      651,
+      75
+    ]
+  }
+}

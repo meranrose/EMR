@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFCE69AC-DDE9-4669-98BE-1BC2137415D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E17C6883-621C-408F-B668-6BEAAC29BF85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB31096F-BE3D-460D-8D08-0F1CFF774AF5",
+    "height": 19.8,
+    "width": 11,
+    "x": 0,
+    "y": 1.1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4800C166-0ECE-4E94-AF7A-902930B5B1E4"
+    }
+  ],
+  "name": "Gas",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68487BAE-166B-4D8B-A1A5-A02143062008",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A9837AB-62A2-48DA-9632-959452ACC673",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 375,
+    "x": 0,
+    "y": 592
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AED34B90-7CCF-4D47-A2AC-33983CEBCC4C"
+    },
+    {
+      "class": "group",
+      "id": "6C4969C5-D244-4716-AC66-E673EC585E3F"
+    },
+    {
+      "class": "group",
+      "id": "1D6AA8B9-0C05-4448-9066-1183EC0FBE96"
+    },
+    {
+      "class": "group",
+      "id": "43304778-7C8A-45AB-A5AF-AE75C47B91F0"
+    },
+    {
+      "class": "group",
+      "id": "15795925-B507-4CE8-BAA1-D9C726EC933A"
+    }
+  ],
+  "name": "Bottom Navigation Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
