@@ -119,15 +119,36 @@
   "rotation": 0,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
 =======
   "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
+=======
+  "sharedStyleID": "A5E003B4-256C-40CA-B635-9D6485FAE89D",
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
     "do_objectID": "3F1160FC-0490-4FB8-BBE4-B97C316D7859",
+<<<<<<< HEAD
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
 =======
   "sharedStyleID": "A5E003B4-256C-40CA-B635-9D6485FAE89D",
@@ -152,6 +173,8 @@
     ],
     "do_objectID": "3F1160FC-0490-4FB8-BBE4-B97C316D7859",
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "endMarkerType": 0,
     "fills": [
       {
@@ -164,7 +187,7 @@
           "red": 0.4
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

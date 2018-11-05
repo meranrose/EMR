@@ -3,9 +3,10 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9882352941176471,
-    "green": 0.9764705882352941,
-    "red": 0.9686274509803922
+    "blue": 1,
+    "do_objectID": "5D1F038B-3897-4AC6-98CC-520E985B46AF",
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -17,10 +18,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
+        "fileFormat": "jpg",
+        "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -35,8 +36,8 @@
     "do_objectID": "F9F08111-FA6D-40F7-BB3F-2AF21839E01D",
     "height": 667,
     "width": 375,
-    "x": 11679,
-    "y": 6289
+    "x": 8439,
+    "y": 2952
   },
   "grid": {
     "_class": "simpleGrid",
@@ -46,7 +47,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,7 +64,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -78,12 +79,8 @@
       "id": "296A1BD1-31BD-4B3C-8519-6D2F43A02FE8"
     },
     {
-      "class": "rectangle",
-      "id": "E7631F62-6793-48DE-82EB-10A963CED334"
-    },
-    {
-      "class": "group",
-      "id": "98D42D1F-7C59-48AF-95B5-BD9657B96CD8"
+      "class": "symbolInstance",
+      "id": "9C095F28-FA94-4EA7-9AB4-C35783C4A8F8"
     }
   ],
   "layout": {
@@ -102,7 +99,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 375
   },
-  "name": "[2 Pay] 3.0 Confirm",
+  "name": "Pay - Confirmation",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

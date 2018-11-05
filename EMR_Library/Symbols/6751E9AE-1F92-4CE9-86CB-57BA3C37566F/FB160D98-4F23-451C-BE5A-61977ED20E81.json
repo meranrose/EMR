@@ -29,10 +29,14 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "isLocked": false,
 =======
   "isLocked": true,
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "isLocked": true,
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Icon",
@@ -174,9 +178,12 @@
   "resizingType": 0,
   "rotation": -90,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
 =======
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -189,6 +196,7 @@
           "_class": "color",
           "alpha": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "blue": 0.4,
           "green": 0.3882352941176471,
           "red": 0.4
@@ -197,6 +205,11 @@
           "green": 0.09803921568627451,
           "red": 0.09803921568627451
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
         },
         "fillType": 0,
         "isEnabled": true,
@@ -209,7 +222,10 @@
     "miterLimit": 10,
     "startMarkerType": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "6B119363-18D0-43C8-865F-53C9C306C144",
@@ -235,7 +251,10 @@
       },
       "verticalAlignment": 1
     },
+<<<<<<< HEAD
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "windingRule": 1
   },
   "userInfo": {

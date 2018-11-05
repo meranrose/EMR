@@ -29,10 +29,14 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "isLocked": false,
 =======
   "isLocked": true,
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "isLocked": true,
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Icon",
@@ -174,9 +178,12 @@
   "resizingType": 0,
   "rotation": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
 =======
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -189,6 +196,7 @@
           "_class": "color",
           "alpha": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "blue": 0.4,
           "green": 0.3882352941176471,
           "red": 0.4
@@ -197,6 +205,11 @@
           "green": 0.09803921568627451,
           "red": 0.09803921568627451
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
         },
         "fillType": 0,
         "isEnabled": true,
@@ -209,7 +222,10 @@
     "miterLimit": 10,
     "startMarkerType": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "0615D69C-772A-43A2-A030-D363BBDCDE5F",
@@ -235,7 +251,10 @@
       },
       "verticalAlignment": 1
     },
+<<<<<<< HEAD
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "windingRule": 1
   },
   "userInfo": {
@@ -246,20 +265,28 @@
             "constant": 7.568657,
             "enabled": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
             "modelID": "constraint_7d884c40-e943-4121-8043-74ce65d5175e",
 =======
             "modelID": "constraint_5dd5227c-9624-4331-b6e2-2a2986b44abf",
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+            "modelID": "constraint_5dd5227c-9624-4331-b6e2-2a2986b44abf",
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 13.125
           },
           "automatic": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "modelID": "viewConstraints_d574ea83-5f8a-48e2-83c6-670aa250e54c",
 =======
           "modelID": "viewConstraints_09e83d3a-e20e-43a9-9865-ca7c368bd45d",
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+          "modelID": "viewConstraints_09e83d3a-e20e-43a9-9865-ca7c368bd45d",
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

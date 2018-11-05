@@ -26,10 +26,14 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "isLocked": false,
 =======
   "isLocked": true,
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "isLocked": true,
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
@@ -56,6 +60,7 @@
   "resizingType": 0,
   "rotation": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
   "shouldBreakMaskChain": false,
   "style": {
@@ -66,6 +71,11 @@
   "style": {
     "_class": "style",
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "endMarkerType": 0,
     "fills": [
       {
@@ -73,6 +83,7 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "blue": 0.4,
           "green": 0.3882352941176471,
@@ -82,6 +93,11 @@
           "green": 0.09803921568627451,
           "red": 0.09803921568627451
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
         },
         "fillType": 0,
         "isEnabled": true,
@@ -90,7 +106,10 @@
         "patternFillType": 1,
         "patternTileScale": 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
       },
       {
         "_class": "fill",
@@ -107,13 +126,19 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
+<<<<<<< HEAD
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
       }
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -138,7 +163,10 @@
       },
       "verticalAlignment": 1
     },
+<<<<<<< HEAD
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     "windingRule": 1
   },
   "userInfo": {
@@ -149,20 +177,28 @@
             "constant": 15,
             "enabled": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
             "modelID": "constraint_162c32d0-4fb2-40d2-a3ba-e3c33d9e7952",
 =======
             "modelID": "constraint_e66df25a-a9d5-43f8-b870-f4be8aacf14b",
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+            "modelID": "constraint_e66df25a-a9d5-43f8-b870-f4be8aacf14b",
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 16.25
           },
           "automatic": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "modelID": "viewConstraints_cd44dc87-51a5-4068-831e-b7b9029cf47d",
 =======
           "modelID": "viewConstraints_892dcf5c-8004-4ef4-ba72-a1b26385c3ff",
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+          "modelID": "viewConstraints_892dcf5c-8004-4ef4-ba72-a1b26385c3ff",
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

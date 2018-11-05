@@ -101,6 +101,7 @@
     {
       "class": "text",
       "id": "ABCA8433-C847-4C09-AD6E-69F303FE205B"
+<<<<<<< HEAD
     },
     {
       "class": "symbolInstance",
@@ -125,6 +126,20 @@
 =======
       "id": "6F047CCF-5DB8-4EA2-AD39-1166A7EDB679"
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABBF8491-763F-4562-9092-6E04AAB87E2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97FF164D-8A1C-4F1F-AC4A-BB6973C667B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F047CCF-5DB8-4EA2-AD39-1166A7EDB679"
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     }
   ],
   "name": "*",

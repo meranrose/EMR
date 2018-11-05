@@ -10,6 +10,7 @@
   "booleanOperation": -1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "changeIdentifier": 31,
 =======
   "changeIdentifier": 88,
@@ -17,6 +18,9 @@
 =======
   "changeIdentifier": 56,
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "changeIdentifier": 56,
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "clippingMaskMode": 0,
   "do_objectID": "182B5E2C-C9CB-42D7-A177-757277E50ECF",
   "exportOptions": {
@@ -54,14 +58,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
       "id": "C532ECBC-12F0-4087-82C8-B60E730FFFC7"
-<<<<<<< HEAD
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "class": "symbolInstance",
       "id": "3A251F25-BDC2-4984-8E36-A9F059417414"
@@ -71,6 +75,10 @@
       "class": "rectangle",
       "id": "51918A18-CB68-4C68-A387-670239956086"
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+      "class": "rectangle",
+      "id": "51918A18-CB68-4C68-A387-670239956086"
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     }
   ],
   "name": "Icons / Check",
@@ -88,12 +96,6 @@
     "windingRule": 1
   },
   "symbolID": "9979EA92-40D6-4A4F-8876-BBBCA7879A6C",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

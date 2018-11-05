@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 548,
+    "height": 570,
     "width": 375,
     "x": 0,
-    "y": 24
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -40,6 +40,10 @@
     {
       "class": "symbolInstance",
       "id": "5B458464-D2C6-402B-AB2E-935C2A6F7FB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23ACDF77-7CF0-4776-858B-072B10EBD376"
     }
   ],
   "name": "Stacked Group",

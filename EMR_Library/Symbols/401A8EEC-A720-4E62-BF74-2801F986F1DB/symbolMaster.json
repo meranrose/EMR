@@ -10,6 +10,7 @@
   "booleanOperation": -1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "changeIdentifier": 31,
 =======
   "changeIdentifier": 129,
@@ -17,6 +18,9 @@
 =======
   "changeIdentifier": 101,
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "changeIdentifier": 101,
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "clippingMaskMode": 0,
   "do_objectID": "401A8EEC-A720-4E62-BF74-2801F986F1DB",
   "exportOptions": {
@@ -54,14 +58,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
       "id": "3C9AC36D-18CA-4AFA-A4A3-5EB68BD5042F"
-<<<<<<< HEAD
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "class": "symbolInstance",
       "id": "6A6731F6-A1F9-4CAD-9AFA-896B4B25C4D2"
@@ -71,6 +75,10 @@
       "class": "rectangle",
       "id": "B36A6485-0245-4050-85B6-1F094AC717A6"
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+      "class": "rectangle",
+      "id": "B36A6485-0245-4050-85B6-1F094AC717A6"
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     }
   ],
   "name": "Icons / Exit",
@@ -88,12 +96,6 @@
     "windingRule": 1
   },
   "symbolID": "F302EA3E-5B45-40AD-895F-6D126B1BF48C",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

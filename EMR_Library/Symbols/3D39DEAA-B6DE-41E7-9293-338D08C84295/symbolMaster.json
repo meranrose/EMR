@@ -10,6 +10,7 @@
   "booleanOperation": -1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "changeIdentifier": 137,
 =======
   "changeIdentifier": 216,
@@ -17,6 +18,9 @@
 =======
   "changeIdentifier": 187,
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "changeIdentifier": 187,
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "clippingMaskMode": 0,
   "do_objectID": "3D39DEAA-B6DE-41E7-9293-338D08C84295",
   "exportOptions": {
@@ -56,6 +60,7 @@
   "isVisible": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "layerListExpandedType": 1,
 =======
   "layerListExpandedType": 2,
@@ -63,13 +68,16 @@
 =======
   "layerListExpandedType": 0,
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+  "layerListExpandedType": 0,
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
   "layers": [
     {
       "class": "shapePath",
       "id": "F5E251FC-E4C1-410F-B6DA-741B3CFF237B"
-<<<<<<< HEAD
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "class": "symbolInstance",
       "id": "28C32993-0A71-4565-AD70-057866D18CC0"
@@ -79,6 +87,10 @@
       "class": "rectangle",
       "id": "4BAB6C4A-32FD-4DFF-9284-4CC400F72B8D"
 >>>>>>> parent of 53996f2... 11/5 - 01
+=======
+      "class": "rectangle",
+      "id": "4BAB6C4A-32FD-4DFF-9284-4CC400F72B8D"
+>>>>>>> 7cf11686c0a7f6e651e0d026feaf52e4178c9152
     }
   ],
   "name": "Icons / Like",
@@ -96,12 +108,6 @@
     "windingRule": 1
   },
   "symbolID": "556D2BB0-6206-4342-A154-8172966927EE",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

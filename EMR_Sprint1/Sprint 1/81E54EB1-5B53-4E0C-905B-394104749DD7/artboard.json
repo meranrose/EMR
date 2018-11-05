@@ -15,15 +15,6 @@
     "_class": "exportOptions",
     "do_objectID": "3699CE23-FBFB-46BF-A861-4F632AC22609",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -34,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "08645CB4-5A6A-495A-8CAB-6747749CD300",
-    "height": 667,
-    "width": 376,
-    "x": 13104,
-    "y": 7056
+    "height": 425,
+    "width": 344,
+    "x": 11702,
+    "y": 3837
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,18 +48,38 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "689D2325-FCE9-469C-B2A6-229C4FB7B7D1"
+      "id": "5D3D349F-4A38-4FC4-A486-6457A647A8FB"
     },
     {
-      "class": "group",
-      "id": "70F17DCB-FB33-4543-921D-7C1EE983085D"
+      "class": "text",
+      "id": "B96D6BC6-0875-48AD-A00C-085F8CA516D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AF7BE76-86BD-44B6-8956-82FCCC3B2417"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B470EAC7-3C41-439B-9BC2-12A24BB452C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37DCD1C4-81A9-482B-A71A-55BB7A625F97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D53DE0E-DB7D-4D52-8CBC-385C03C48F6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A6C5DDB-05D6-4D9C-AC5B-AC125AC925A7"
     }
   ],
-  "name": "[2 Pay] Dialog - Payment Pending",
+  "name": "Dialog - Pending Payment",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
