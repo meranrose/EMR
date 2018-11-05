@@ -19,8 +19,8 @@
     "do_objectID": "E840DE82-DE68-4DB5-869C-4FC17B00015E",
     "height": 50,
     "width": 190,
-    "x": 94,
-    "y": 466
+    "x": 61,
+    "y": 322
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -58,25 +58,6 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
-    },
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 5,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "transition": 0
     }
   },
   "verticalSpacing": 0

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3040,
+  "changeIdentifier": 3010,
   "clippingMaskMode": 0,
   "do_objectID": "B92CE2C1-DB80-4797-B168-72E4353CF3F3",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
       "id": "A22E93E3-58B0-4F4B-96B4-54EC41163DF5"
+    },
+    {
+      "class": "rectangle",
+      "id": "859CC99D-8555-4CAA-A4AD-1B68C71A26F6"
     }
   ],
   "name": "Icons / Arrow - Down",
@@ -73,12 +77,6 @@
     "windingRule": 1
   },
   "symbolID": "D81C53FE-0EEF-427F-84CC-47F19C96ACF8",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

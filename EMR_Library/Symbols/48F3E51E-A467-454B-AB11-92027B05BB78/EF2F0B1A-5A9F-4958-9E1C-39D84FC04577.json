@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-Light",
-              "size": 14.08854166666666
+              "size": 16
             }
           },
-          "kerning": 1.25,
+          "kerning": 1,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -32,8 +32,40 @@
           "strikethroughStyle": 0,
           "underlineStyle": 1
         },
-        "length": 6,
+        "length": 5,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4941176470588236,
+            "green": 0.2705882352941176,
+            "red": 0.1058823529411765
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Interstate-Light",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
+        },
+        "length": 1,
+        "location": 5
       }
     ],
     "string": "Button"
@@ -58,11 +90,11 @@
     "constrainProportions": false,
     "do_objectID": "DE37BAF7-1491-4328-91AC-678F85B28C43",
     "height": 16,
-    "width": 64,
-    "x": 16,
+    "width": 54,
+    "x": 108.5,
     "y": 10
   },
-  "glyphBounds": "{{8, 2}, {47, 12}}",
+  "glyphBounds": "{{1, 2}, {52, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,10 +105,10 @@
   "lineSpacingBehaviour": 2,
   "name": "Button",
   "nameIsFixed": true,
-  "resizingConstraint": 26,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F7AD41D6-4854-430A-B51A-4A74925470B3",
+  "sharedStyleID": "05DB4750-1060-4967-97C7-8796DFA5F86C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -98,10 +130,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-Light",
-            "size": 14.08854166666666
+            "size": 16
           }
         },
-        "kerning": 1.25,
+        "kerning": 1,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
@@ -117,5 +149,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

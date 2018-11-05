@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBB6C27C-133D-4AA4-BEF3-F2EE07A1A757",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4F58F5E-6B3C-4F69-BAAB-928B265594F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2EAB505-DDCE-46DC-8058-BCD35C023356",
+    "height": 58,
+    "width": 98,
+    "x": 345,
+    "y": 3414
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F88A2EE6-FB19-4690-9787-BE0189BD87DB"
+    },
+    {
+      "class": "text",
+      "id": "0F0B2F40-979C-4F1C-A8DE-DA14412ACA35"
+    }
+  ],
+  "name": "Group 926",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9128A291-EFBE-44D7-BDA1-84CD6EA9B79B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

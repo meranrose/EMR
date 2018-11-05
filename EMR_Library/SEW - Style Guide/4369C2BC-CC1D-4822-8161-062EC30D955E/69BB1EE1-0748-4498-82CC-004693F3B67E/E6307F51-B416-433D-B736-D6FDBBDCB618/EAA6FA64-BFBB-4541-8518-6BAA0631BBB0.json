@@ -1,0 +1,141 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAA6FA64-BFBB-4541-8518-6BAA0631BBB0",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76E831E3-263D-433B-A62F-40C138BE7ADF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2F4095F-FD53-4120-A411-80BAB6446291",
+    "height": 10.28569999999996,
+    "width": 21.42856999999999,
+    "x": 2.571430000000007,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.017879867858657739, 1}",
+      "curveMode": 4,
+      "curveTo": "{0.039999869333324688, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.039999869333324688, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.87066509814597248}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.96275411493627483}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.91667071759821828}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.039999869333324688, 0.83333171296071373}",
+      "curveMode": 4,
+      "curveTo": "{0.017879867858657739, 0.83333171296071373}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.039999869333324688, 0.83333171296071373}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.82747798849853249, 0.83333171296071373}",
+      "curveMode": 4,
+      "curveTo": "{0.71332198088813248, 0.83333171296071373}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.71332198088813248, 0.83333171296071373}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.91999932799995543, 0.31591432765878763}",
+      "curveMode": 2,
+      "curveTo": "{0.91999932799995543, 0.68408567234121243}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.91999932799995543, 0.50000486111786424}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.75999798399986562, 0.16666828703928624}",
+      "curveMode": 4,
+      "curveTo": "{0.87287999152533258, 0.2109141818252529}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.75999798399986562, 0.16666828703928624}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.89252199283479949, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.75999798399986562, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.75999798399986562, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.77608718900998663}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.22391281099001337}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.50000486111786424}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.75999798399986562, 1}",
+      "curveMode": 4,
+      "curveTo": "{0.89252199283479949, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.75999798399986562, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77B2E087-B6A6-433A-8400-55D18AF9AEF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

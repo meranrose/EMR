@@ -44,12 +44,8 @@
       "id": "EA6C0B3D-2A10-42B4-9F99-83BE95263C05"
     },
     {
-      "class": "symbolInstance",
-      "id": "4B550345-B28F-4957-BC6F-2BABE5436F3A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "530AF020-E830-40AC-965C-C3FF7B63FC96"
+      "class": "text",
+      "id": "780F58BF-A2A1-4AD6-8C53-60B899ADAC63"
     }
   ],
   "name": "Item 1",
@@ -65,5 +61,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

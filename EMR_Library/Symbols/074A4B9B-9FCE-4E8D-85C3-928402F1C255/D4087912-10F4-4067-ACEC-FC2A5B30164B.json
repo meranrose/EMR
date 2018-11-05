@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": true,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Icon",
@@ -169,7 +169,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -181,9 +180,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.3882352941176471,
-          "red": 0.4
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
         },
         "fillType": 0,
         "isEnabled": true,
@@ -195,6 +194,31 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "0615D69C-772A-43A2-A030-D363BBDCDE5F",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Ionicons",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        }
+      },
+      "verticalAlignment": 1
+    },
     "windingRule": 1
   },
   "userInfo": {
@@ -204,13 +228,13 @@
           "aspectRatio": {
             "constant": 7.568657,
             "enabled": 1,
-            "modelID": "constraint_7d884c40-e943-4121-8043-74ce65d5175e",
+            "modelID": "constraint_5dd5227c-9624-4331-b6e2-2a2986b44abf",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 13.125
           },
           "automatic": 1,
-          "modelID": "viewConstraints_d574ea83-5f8a-48e2-83c6-670aa250e54c",
+          "modelID": "viewConstraints_09e83d3a-e20e-43a9-9865-ca7c368bd45d",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

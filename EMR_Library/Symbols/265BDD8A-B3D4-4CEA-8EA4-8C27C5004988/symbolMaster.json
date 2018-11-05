@@ -8,11 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-<<<<<<< HEAD
-  "changeIdentifier": 406,
-=======
-  "changeIdentifier": 469,
->>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+  "changeIdentifier": 436,
   "clippingMaskMode": 0,
   "do_objectID": "265BDD8A-B3D4-4CEA-8EA4-8C27C5004988",
   "exportOptions": {
@@ -29,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 1647,
-    "y": 620
+    "x": 2296,
+    "y": 1116
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -50,18 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
       "id": "94F1AA18-DBE6-4E13-99CB-675FD2D18965"
-<<<<<<< HEAD
     },
     {
-      "class": "symbolInstance",
-      "id": "CF2866C9-EA61-482D-AA85-3A474F850AB6"
-=======
->>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+      "class": "rectangle",
+      "id": "B544376C-AC5C-4FDF-BD07-817A9090E838"
     }
   ],
   "name": "Icons / Chevron - Left",
@@ -79,12 +72,6 @@
     "windingRule": 1
   },
   "symbolID": "E6C424E7-F4AF-4802-8374-C2F25EF8541B",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

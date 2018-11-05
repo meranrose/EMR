@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1087,
+  "changeIdentifier": 1924,
   "clippingMaskMode": 0,
   "do_objectID": "C9C9A3FA-8050-4EBF-8D29-A12D2B7C430C",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 56,
     "width": 375,
-    "x": 0,
-    "y": 320
+    "x": 475,
+    "y": 648
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -55,15 +55,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "03B8756F-DE97-4325-A809-7712E5EDBCB0"
-    },
-    {
-      "class": "symbolInstance",
       "id": "426B7B41-BD71-4543-8EA3-19EFD75B3EEB"
     },
     {
-      "class": "symbolInstance",
-      "id": "A861B9DD-EE2B-4703-B02A-772C557F58D1"
+      "class": "text",
+      "id": "B2D9BB1B-55F1-499C-8AD4-28977A00E143"
     }
   ],
   "name": "App Bar / Top - Left",

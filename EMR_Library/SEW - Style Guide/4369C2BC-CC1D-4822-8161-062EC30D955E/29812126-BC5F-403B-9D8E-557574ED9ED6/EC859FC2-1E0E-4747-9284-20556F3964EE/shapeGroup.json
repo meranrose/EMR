@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC859FC2-1E0E-4747-9284-20556F3964EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E4AE1AE-B8B0-4018-88EB-07ECF68E7706",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB889893-1B63-4D55-B478-146392EE795F",
+    "height": 24,
+    "width": 6,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4021EA15-4C31-47D5-8668-42CC6BE4085A"
+    },
+    {
+      "class": "shapePath",
+      "id": "7294F955-BA40-4F5E-A5EE-4F35C2F5DFE2"
+    }
+  ],
+  "name": "Clip 236",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "436BEC08-CFD9-4E1D-B098-73DCB1940FE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

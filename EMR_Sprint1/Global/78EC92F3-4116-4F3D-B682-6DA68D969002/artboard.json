@@ -31,7 +31,7 @@
     "y": -898
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -58,6 +58,10 @@
     {
       "class": "symbolInstance",
       "id": "8D55F08C-57B2-4220-B953-8583C44A641E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8797A0D6-C649-4535-80B5-1BCD74581C91"
     }
   ],
   "name": "Android - Web - MyAccount",

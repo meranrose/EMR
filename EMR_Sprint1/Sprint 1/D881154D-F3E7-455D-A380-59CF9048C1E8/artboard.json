@@ -3,9 +3,10 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9882352941176471,
-    "green": 0.9764705882352941,
-    "red": 0.9686274509803922
+    "blue": 1,
+    "do_objectID": "89D52033-00F6-4AC8-B601-E1C9794E2C05",
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -14,15 +15,6 @@
     "_class": "exportOptions",
     "do_objectID": "6E433D17-1104-4CBE-9F74-6B6EC7B8330A",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -35,11 +27,11 @@
     "do_objectID": "6C7EBAC5-6CAA-4720-8E71-1BE4F12133D5",
     "height": 1000,
     "width": 375,
-    "x": 11679,
-    "y": 4422
+    "x": 7014,
+    "y": 3837
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,11 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-<<<<<<< HEAD
-  "layerListExpandedType": 0,
-=======
-  "layerListExpandedType": 1,
->>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -80,7 +68,7 @@
       "id": "8CF866C2-42E6-4E6F-8743-D03849C2611A"
     }
   ],
-  "name": "[2 Pay] 2.0 Default",
+  "name": "Pay - Modify - Default- Current",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

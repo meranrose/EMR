@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 156,
+  "changeIdentifier": 129,
   "clippingMaskMode": 0,
   "do_objectID": "F08FA260-F35F-41B2-96FA-36A724DEC939",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
       "id": "CD9885E9-5030-4360-AFA0-880A13D7C310"
+    },
+    {
+      "class": "rectangle",
+      "id": "D904F20B-09D0-4F42-8C2C-C6107262AC76"
     }
   ],
   "name": "Icons / Arrow - Left",
@@ -73,12 +77,6 @@
     "windingRule": 1
   },
   "symbolID": "75DB8A00-5B44-4EC0-AA1B-4F0971569AEF",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

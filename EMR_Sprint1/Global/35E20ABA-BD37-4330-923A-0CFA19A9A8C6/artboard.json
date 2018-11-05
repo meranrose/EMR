@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -58,6 +58,10 @@
     {
       "class": "symbolInstance",
       "id": "5A9785EB-B268-4673-AB95-06C5407BDA14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C15D9061-B940-492C-9969-93AB92B38696"
     },
     {
       "class": "shapeGroup",

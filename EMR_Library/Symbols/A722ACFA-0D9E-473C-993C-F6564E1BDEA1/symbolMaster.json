@@ -8,11 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-<<<<<<< HEAD
-  "changeIdentifier": 157,
-=======
-  "changeIdentifier": 225,
->>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+  "changeIdentifier": 201,
   "clippingMaskMode": 0,
   "do_objectID": "A722ACFA-0D9E-473C-993C-F6564E1BDEA1",
   "exportOptions": {
@@ -29,7 +25,7 @@
     "constrainProportions": false,
     "height": 56,
     "width": 94,
-    "x": 2578,
+    "x": 4253,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -50,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "7CC93E90-BFC2-42E4-8ACF-CA969CA700FB"
+      "class": "text",
+      "id": "3ADBE51A-2D8C-418C-BCE8-A8E0DD2B5BC4"
     },
     {
       "class": "symbolInstance",

@@ -15,15 +15,6 @@
     "_class": "exportOptions",
     "do_objectID": "467C08AE-4B77-4724-AB27-CE70EFCDE751",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -36,11 +27,11 @@
     "do_objectID": "CAA6376A-C71E-441B-B91B-CA41B0752660",
     "height": 667,
     "width": 375,
-    "x": 12154,
-    "y": 5522
+    "x": 9389,
+    "y": 3837
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -68,7 +59,7 @@
       "id": "F2007930-8B92-444A-9A80-616DD1D079F1"
     }
   ],
-  "name": "[2 Pay] 2.5 Select Date",
+  "name": "Pay - Modify - Select - Date",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

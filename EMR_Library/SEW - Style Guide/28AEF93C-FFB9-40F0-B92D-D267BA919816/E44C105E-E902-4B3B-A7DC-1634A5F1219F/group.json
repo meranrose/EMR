@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E44C105E-E902-4B3B-A7DC-1634A5F1219F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C528B8B8-8743-49E8-A76F-E6071320777C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE82F74C-D82A-4A62-8887-EEDB68A162D8",
+    "height": 120,
+    "width": 285,
+    "x": 345,
+    "y": 3282
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E802A88B-A7CA-4A92-8CB6-35E7838583F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "94A2CBB9-CDFF-4DAC-B82A-E15D6DFC3B9F"
+    }
+  ],
+  "name": "Group 940",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45D7FB6C-8642-404F-B63B-0D694298410D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

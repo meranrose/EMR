@@ -1,0 +1,74 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEB1130D-9D7C-4B0D-9B75-9FE7B5AEE850",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D0CC719-4C7A-4B28-92E2-3BB45D94BF7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80513346-58AE-44C5-8480-3A6A9FE09CD9",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5138E8F6-5A93-4695-9EF5-E2DAF80496DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "A777F17E-A48C-4488-8534-705AE52A6C65"
+    },
+    {
+      "class": "shapePath",
+      "id": "9550D09D-176C-4AEA-BDEC-37AB1F55D60A"
+    },
+    {
+      "class": "shapePath",
+      "id": "34FB3156-26B2-4AE6-8CFF-731736C15F56"
+    },
+    {
+      "class": "shapePath",
+      "id": "A07CF840-DB99-42AC-80F5-A4E92CF770A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "02F9BBA2-3477-4FFD-B873-3E936FDC1E5F"
+    }
+  ],
+  "name": "Clip 80",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2EE44D8B-30B4-40FC-AAAE-B32C2C8C389C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

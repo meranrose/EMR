@@ -1,0 +1,62 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3CA1798-B7C0-432D-A942-256B417E6A55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58ECB980-47AD-4CF9-904B-12329258F660",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24B6B04C-5FF6-4BCB-AAC2-65ECB961CB87",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C9A323E0-90A2-4890-B63F-4DEEF4975DBA"
+    },
+    {
+      "class": "shapePath",
+      "id": "A95E39E7-D302-40B1-8F8A-95B841161B97"
+    },
+    {
+      "class": "shapePath",
+      "id": "C82FB437-D42E-428C-8F9B-EFF110520673"
+    }
+  ],
+  "name": "Clip 371",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A96A6D0F-326E-4259-A2AD-15BAE322ADC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

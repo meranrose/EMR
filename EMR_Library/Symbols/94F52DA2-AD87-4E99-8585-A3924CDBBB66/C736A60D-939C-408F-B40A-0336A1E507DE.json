@@ -20,15 +20,15 @@
     "do_objectID": "56DC9E68-9A27-4570-AB13-EC38DAA8530C",
     "height": 9.999999999999993,
     "width": 5,
-    "x": 10,
+    "x": 9.999999999999996,
     "y": 7.000000000000004
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Mask",
@@ -69,7 +69,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,12 +80,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4,
-          "green": 0.3882352941176471,
-          "red": 0.4
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -95,16 +94,12 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-<<<<<<< HEAD
     "windingRule": 0
-=======
-    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
->>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
   }
 }

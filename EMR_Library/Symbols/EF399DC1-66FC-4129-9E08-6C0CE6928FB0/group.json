@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF399DC1-66FC-4129-9E08-6C0CE6928FB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 5312,
+    "x": 0,
+    "y": -124
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "95EAEC18-D264-4488-B9AB-85FEF79C946B"
+    },
+    {
+      "class": "text",
+      "id": "6088BA13-05F9-40EE-A4D8-A0B6C4E20FB1"
+    },
+    {
+      "class": "text",
+      "id": "6365E0FE-5777-446A-A518-1AF18DB9FF5A"
+    },
+    {
+      "class": "text",
+      "id": "FABD9890-F7D7-4AE3-B731-CE0D4AD8C3C7"
+    },
+    {
+      "class": "text",
+      "id": "724B2FAD-61D3-487D-8BA0-6E8DF61AE205"
+    },
+    {
+      "class": "text",
+      "id": "6F0C9F69-8C7F-4E54-9884-8182FBB753DD"
+    },
+    {
+      "class": "text",
+      "id": "9BCDD8C7-E92D-49F3-937D-82EAD1BEB1C0"
+    },
+    {
+      "class": "text",
+      "id": "F2E61D5E-4932-44E5-B545-F39B1D91AD04"
+    },
+    {
+      "class": "text",
+      "id": "B652CF95-2B79-4DCB-A8BD-011829EF2C3F"
+    },
+    {
+      "class": "text",
+      "id": "941B7D7D-719A-48B4-A98D-33261BC104C0"
+    },
+    {
+      "class": "text",
+      "id": "CDF37AA1-6EDF-40A3-B871-83564C867489"
+    },
+    {
+      "class": "text",
+      "id": "2E7D3B0C-4158-4416-ACE6-5CBE30EFA660"
+    },
+    {
+      "class": "text",
+      "id": "3E26DC21-E6A5-44B0-B66A-0D93F57E7EC0"
+    },
+    {
+      "class": "text",
+      "id": "2608B770-4DB4-47E8-8624-BAB638A7032C"
+    },
+    {
+      "class": "text",
+      "id": "3F6AA032-FA71-45DB-9DCB-C9F03626256F"
+    },
+    {
+      "class": "text",
+      "id": "C0F9CDC1-7A3B-4457-AF73-714696E13CBC"
+    }
+  ],
+  "name": "Titles",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

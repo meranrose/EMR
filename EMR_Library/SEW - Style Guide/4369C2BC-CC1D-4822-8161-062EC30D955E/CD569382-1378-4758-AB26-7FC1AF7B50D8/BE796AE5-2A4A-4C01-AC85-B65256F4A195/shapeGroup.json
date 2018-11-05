@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE796AE5-2A4A-4C01-AC85-B65256F4A195",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BF90F35-7055-4B41-9086-BA9E93EFD5D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "451B9A66-8DC3-4F2F-997C-44F905DADBA1",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8624184E-F66A-4489-A78C-6DF3248ADC79"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A27F4C2-A600-421D-A2AA-1FADC070897A"
+    }
+  ],
+  "name": "Clip 329",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1704C07E-50E4-4830-92E4-6B0231214CEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9882352941176471,
-    "green": 0.9764705882352941,
-    "red": 0.9686274509803922
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -14,15 +14,6 @@
     "_class": "exportOptions",
     "do_objectID": "34902F67-4320-40AE-9C22-D9227CD89A07",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -35,11 +26,11 @@
     "do_objectID": "9D92C4EF-B7D1-42C9-B286-6B534573FF54",
     "height": 1000,
     "width": 375,
-    "x": 11679,
-    "y": 1337
+    "x": 10339,
+    "y": 1085
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -65,14 +56,10 @@
     },
     {
       "class": "symbolInstance",
-      "id": "23ACDF77-7CF0-4776-858B-072B10EBD376"
-    },
-    {
-      "class": "symbolInstance",
       "id": "FA2EE3DC-9D65-44A8-9F97-B4D0EB5F820A"
     }
   ],
-  "name": "[1 Dash] 4.0 Past Due",
+  "name": "Dash -  Past Due",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

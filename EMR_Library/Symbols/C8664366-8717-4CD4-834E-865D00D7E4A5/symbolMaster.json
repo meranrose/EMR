@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 8442,
+  "changeIdentifier": 8596,
   "clippingMaskMode": 0,
   "do_objectID": "C8664366-8717-4CD4-834E-865D00D7E4A5",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 375,
-    "x": 0,
+    "x": 475,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,32 +46,32 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4BC1B937-CF01-48B7-B2F0-CBFEC92299D7"
+      "id": "81000314-DBD0-44FF-99C4-7A48241CDB0D"
     },
     {
       "class": "symbolInstance",
-      "id": "94488275-0588-44BC-8D90-EF69DA2251D0"
+      "id": "881E3AD9-1B55-464B-A404-78F8EF6D47F5"
     },
     {
       "class": "symbolInstance",
-      "id": "3ECD2F6E-16AA-40F6-8C48-A18A3ED796D2"
+      "id": "510F902C-8D63-481F-9F57-39EDCD81E5CA"
     },
     {
       "class": "symbolInstance",
-      "id": "D24653BE-864B-48C6-BB5F-8A8B371DD011"
+      "id": "3E321F35-03A6-4B82-857E-321E6849B855"
     },
     {
       "class": "symbolInstance",
-      "id": "95BFBCED-711E-467C-A1D9-FC69A158A847"
+      "id": "F85A8311-8958-4026-AE72-AEDFC3770DF1"
     }
   ],
   "name": "App Bar / Bottom",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

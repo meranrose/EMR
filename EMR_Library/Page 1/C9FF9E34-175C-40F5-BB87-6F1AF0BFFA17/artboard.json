@@ -27,8 +27,8 @@
     "do_objectID": "0CB4BE2C-3917-4B2E-9B19-E3051A654494",
     "height": 667,
     "width": 375,
-    "x": -614,
-    "y": 87
+    "x": -167,
+    "y": -13
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -65,6 +65,10 @@
     {
       "class": "symbolInstance",
       "id": "FD3F3A40-0CE1-4B90-AF10-57CD3151A55D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5DDB9BC-CA61-4108-BAE2-66A5CCE1B63D"
     }
   ],
   "name": "iOS",

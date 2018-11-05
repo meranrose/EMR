@@ -3,9 +3,10 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9882352941176471,
-    "green": 0.9764705882352941,
-    "red": 0.9686274509803922
+    "blue": 1,
+    "do_objectID": "1AAC02C6-E4BE-46C5-BD90-0FBD97AFFEBA",
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -14,15 +15,6 @@
     "_class": "exportOptions",
     "do_objectID": "360E9559-B2C4-4CE8-9567-7D737C4E1730",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -35,11 +27,11 @@
     "do_objectID": "50D7A083-DCD3-48DF-AF92-58903AB1D29E",
     "height": 785,
     "width": 375,
-    "x": 12629,
-    "y": 3537
+    "x": 7964,
+    "y": 2952
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +49,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "290AB797-7D76-4066-8BFD-9C40FA09A56C"
+    },
     {
       "class": "symbolInstance",
       "id": "2BBA3515-483E-45F7-8F73-F3A075EDBE68"
@@ -73,18 +69,34 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C64B148E-39E0-427E-9E61-73635256C80D"
-    },
-    {
-      "class": "group",
-      "id": "2318FE9D-EF0D-4F45-ABF5-55F0DC8B40C8"
+      "id": "4BC51C70-3393-4AE4-B667-324E94A7D423"
     },
     {
       "class": "symbolInstance",
-      "id": "0807485F-E625-4130-A372-8F5885A73E4B"
+      "id": "EF251EA7-8995-42BA-B8B1-A008A91468EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FFF7A6C-3E3B-4E4A-8022-7349D483109D"
+    },
+    {
+      "class": "text",
+      "id": "FD99CD08-349D-4EBF-82BE-A97EDE50E079"
+    },
+    {
+      "class": "text",
+      "id": "8465DB20-AA1C-4DF6-813B-82CF7F06B9AE"
+    },
+    {
+      "class": "text",
+      "id": "67E74AF4-6D9D-4370-B60D-E6E8F0432714"
+    },
+    {
+      "class": "text",
+      "id": "7BB0C48B-1ED6-44DE-B278-4CA274E66E47"
     }
   ],
-  "name": "[2 Pay] 1.2 Past Due",
+  "name": "Pay - Past Due",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

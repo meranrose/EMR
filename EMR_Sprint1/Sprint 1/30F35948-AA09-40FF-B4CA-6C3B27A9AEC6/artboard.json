@@ -3,9 +3,10 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9882352941176471,
-    "green": 0.9764705882352941,
-    "red": 0.9686274509803922
+    "blue": 1,
+    "do_objectID": "F7C471A7-F802-4555-A5B5-666B8D5F0656",
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -14,15 +15,6 @@
     "_class": "exportOptions",
     "do_objectID": "D8377A9E-7555-48FD-87E7-761E727B9EB0",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -35,11 +27,11 @@
     "do_objectID": "14B6AAA5-4BC0-45DF-A7F4-CA57C07C611C",
     "height": 741,
     "width": 375,
-    "x": 11679,
-    "y": 7056
+    "x": 10339,
+    "y": 3837
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -79,9 +71,9 @@
       "id": "5F9DF6C3-2F18-4D3A-85A5-D593C9BD33A4"
     }
   ],
-  "name": "[2 Pay] Dialogs",
+  "name": "Dialogs",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
