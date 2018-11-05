@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E25DCFBA-DA29-4587-A3C1-9B14A03FACD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C99ADBB-FDE9-46D3-8790-1BB2C873F74A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2B86917-C630-4BA4-A93D-E8FD6D448705",
+    "height": 300,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page / Landing / Account Details",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB8B3384-D69B-452D-AC88-AFF5AD372DA9",
+      "overrideName": "B9148847-6F5E-420C-8C90-F8C4958D6491_textStyle",
+      "value": "7A709096-9407-448C-BF17-5340407ADC0F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1DD9F55-F0D0-4459-9A11-D0CEF452E650",
+      "overrideName": "BEB5E622-B770-40EE-B7BF-660E574ED628_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6320549-47EA-49AA-9C05-7071522FA114",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "62F2DA98-0D10-4D3D-8137-C0C7DA5D6CD8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

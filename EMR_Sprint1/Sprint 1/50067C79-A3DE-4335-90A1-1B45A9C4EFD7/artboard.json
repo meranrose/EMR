@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "D912C28F-E78D-4EC0-AB61-6A09805E33B6",
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -15,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "FFDE00BF-3230-44FA-A98E-0553B03CF15E",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,11 +35,11 @@
     "do_objectID": "DE207370-4932-4463-9BCB-F17870FC78F7",
     "height": 1000,
     "width": 375,
-    "x": 7489,
-    "y": 1085
+    "x": 11679,
+    "y": -1963
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -60,7 +68,7 @@
       "id": "3E0D434D-6685-4D1F-B29C-C62A903D6099"
     }
   ],
-  "name": "Dash -  Usage",
+  "name": "[1 Dash] 1.0 Default",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -94,10 +102,6 @@
     "base": 0,
     "do_objectID": "7C5F9562-9912-4764-81C3-3922B2C65A5E",
     "guides": [
-      402,
-      331,
-      145,
-      -96
     ]
   }
 }

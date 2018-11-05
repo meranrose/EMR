@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC4DE3A4-DAAD-42D6-9C4F-3C233B8EC578",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "177EDB07-E0F5-4473-A1B6-79E9F812DCD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31AA88F0-EEFC-43E9-BE3A-066B21203B1D",
+    "height": 182,
+    "width": 311,
+    "x": 32,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page / Landing / Personalization",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F81ADA2F-A22E-47EE-8AE7-9D8B5803511D",
+      "overrideName": "CC3695ED-3302-4DA6-ABB2-7B4B8C82B718_stringValue",
+      "value": "We just switched our rate structure to encourage our customers to use less electricity during peak times."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96A4CD2D-CF97-4A4F-AA10-C21518C559BE",
+      "overrideName": "FC636E72-75A7-4A01-8487-20F244FCD83D_stringValue",
+      "value": "Learn More"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DEA54B1D-E1EA-4824-8F34-71B3EC5EA0D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A60117F3-E60B-4AFC-BDA3-08DF6C43867C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

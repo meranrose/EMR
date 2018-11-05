@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "3955E0F2-0937-49C5-98FE-8942669EC37B",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "71826DCB-4DE1-482F-9A76-CE00624DCEE1",
-    "height": 399,
-    "width": 344,
-    "x": 10814,
-    "y": 3837
+    "height": 667,
+    "width": 375,
+    "x": 12154,
+    "y": 7056
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,33 +60,21 @@
   "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "CDA8AF8F-6D6E-4B6A-AD81-99F27F3BBE7F"
+    },
+    {
       "class": "group",
-      "id": "F3022CC1-14FB-4BBB-8EA1-4E1F0B02E6DD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "33E83931-0D48-4A48-8B2F-6377A7D6B81D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CFC4D871-6858-4A15-881A-4C094F221161"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "75B3AB45-1067-41C8-973E-1AD06B4B7567"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7C019EA2-936C-49E1-B42F-07E8E4644BB8"
+      "id": "B554603F-A255-4837-AAC1-B50671C94D65"
     },
     {
       "class": "symbolInstance",
       "id": "0306323E-8CFC-465B-B142-48974EB49044"
     }
   ],
-  "name": "Dialog - Autopay",
+  "name": "[2 Pay] Dialog - Autopay",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

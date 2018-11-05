@@ -28,7 +28,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "System Bar / Android Copy",
   "nameIsFixed": true,
@@ -48,5 +48,11 @@
     "windingRule": 1
   },
   "symbolID": "2201B8C8-37F1-4472-BDA5-2B9FE53A8325",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

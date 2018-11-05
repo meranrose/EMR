@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "1B5D0887-3510-4B50-9DA1-ABF384F5CBA4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5BF730E0-C328-4C5B-A016-429193F3FE91",
-    "height": 275,
-    "width": 344,
-    "x": 11258,
-    "y": 3837
+    "height": 667,
+    "width": 375,
+    "x": 12629,
+    "y": 7056
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,19 +60,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "9663FEB8-1003-4939-AABE-A34E2FD50FC2"
+    },
+    {
       "class": "group",
       "id": "04EC03DD-EE44-4F58-9306-26F726E7F7EF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D9233B37-4AB5-4D4A-9730-37EA4B1D5913"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AD18BCBB-FE95-4457-B635-7B85BCE6671B"
     }
   ],
-  "name": "Dialog - Excecution Failure",
+  "name": "[2 Pay] Dialog - Excecution Failure",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

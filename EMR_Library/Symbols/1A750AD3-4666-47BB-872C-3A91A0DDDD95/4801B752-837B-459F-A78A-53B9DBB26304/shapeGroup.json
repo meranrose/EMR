@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -41,6 +41,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -52,12 +53,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7647058823529411,
-          "green": 0.6627450980392157,
-          "red": 0.5882352941176471
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -67,6 +68,27 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_bdd0be02-e5fd-45e6-b49b-f5ba17c081ed",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_71294542-bd52-432b-94ac-a58e56a81935",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
   },
   "windingRule": 1
 }

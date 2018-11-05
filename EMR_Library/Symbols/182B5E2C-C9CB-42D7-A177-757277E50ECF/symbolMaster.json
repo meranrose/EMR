@@ -8,7 +8,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 31,
+=======
+  "changeIdentifier": 88,
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
   "clippingMaskMode": 0,
   "do_objectID": "182B5E2C-C9CB-42D7-A177-757277E50ECF",
   "exportOptions": {
@@ -46,15 +50,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "C532ECBC-12F0-4087-82C8-B60E730FFFC7"
+<<<<<<< HEAD
     },
     {
       "class": "symbolInstance",
       "id": "3A251F25-BDC2-4984-8E36-A9F059417414"
+=======
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
     }
   ],
   "name": "Icons / Check",
@@ -72,6 +79,12 @@
     "windingRule": 1
   },
   "symbolID": "9979EA92-40D6-4A4F-8876-BBBCA7879A6C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

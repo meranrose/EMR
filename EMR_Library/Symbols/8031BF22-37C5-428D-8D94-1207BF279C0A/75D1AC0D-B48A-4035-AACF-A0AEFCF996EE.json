@@ -147,9 +147,17 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+<<<<<<< HEAD
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+=======
+  "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E217A9AB-9D61-4FE2-8D79-9B342774421C",
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
     "endMarkerType": 0,
     "fills": [
       {
@@ -162,7 +170,7 @@
           "red": 0
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

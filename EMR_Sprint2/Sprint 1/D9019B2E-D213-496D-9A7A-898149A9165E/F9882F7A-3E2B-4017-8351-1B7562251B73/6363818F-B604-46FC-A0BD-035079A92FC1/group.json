@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6363818F-B604-46FC-A0BD-035079A92FC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "599370F5-BC49-4BAE-B16C-7F22379E7724",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AD64859-F7B6-4C20-8B85-A74DCD2BFB1E",
+    "height": 48,
+    "width": 310,
+    "x": 0,
+    "y": 21
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D208EF07-3F26-45A0-9C96-BA3456F71A10"
+    },
+    {
+      "class": "text",
+      "id": "868A606A-1524-4A00-8502-C5DADF027F31"
+    }
+  ],
+  "name": "Selection / Radio Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A88D3745-786B-4E3D-9211-011DCB118BB7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

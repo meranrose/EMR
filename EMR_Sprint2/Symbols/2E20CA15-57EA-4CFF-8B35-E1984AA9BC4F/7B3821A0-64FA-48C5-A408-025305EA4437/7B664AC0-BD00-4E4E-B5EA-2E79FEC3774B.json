@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B664AC0-BD00-4E4E-B5EA-2E79FEC3774B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "570E41E7-FCB9-4404-AAFD-06FB588DDC03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8704447-ADD6-42A9-9CB4-6FB5D7F6092D",
+    "height": 24,
+    "width": 303,
+    "x": 0,
+    "y": 28
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Selection / Radio Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "672657E1-31CE-4BD1-8FAF-04DF3D0D7174",
+      "overrideName": "7DA8EE3F-D954-40DB-A36C-10A792A8CE5B_stringValue",
+      "value": "Past Due"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E77E52D-A921-48B8-AAB3-A3DF6D77761B",
+      "overrideName": "CEEFC542-C070-4F32-A6FB-C8AAB2811A4B_stringValue",
+      "value": "$0.00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "FDC2494C-091E-4449-A90D-00F568200C91",
+      "opacity": 0.5
+    },
+    "do_objectID": "FA122946-0DD9-42EF-9959-1C6544C1BF3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "539DD26D-FF2A-4E2D-9335-9A2616284607",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

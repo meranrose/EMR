@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "AF2D4309-C5D4-4CD7-9D7C-2046ACA51E99",
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -15,6 +14,15 @@
     "_class": "exportOptions",
     "do_objectID": "AD3C5C90-4F50-4FA2-B587-07C242EC7E47",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,11 +35,11 @@
     "do_objectID": "FF347BD8-2556-426E-83D2-FDABF8373532",
     "height": 1000,
     "width": 375,
-    "x": 7489,
-    "y": 3837
+    "x": 12154,
+    "y": 4422
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,15 +68,15 @@
       "id": "1912B4E8-13CE-41CE-82AC-27FD350E4158"
     },
     {
-      "class": "group",
-      "id": "DF63A521-4AF3-4299-8419-797410F70768"
-    },
-    {
       "class": "symbolInstance",
       "id": "1A23DA5B-B4A4-4722-A078-FC9A3B7545C7"
+    },
+    {
+      "class": "group",
+      "id": "83E69642-7695-4564-9BAA-4495F8C94463"
     }
   ],
-  "name": "Pay - Modify - Default - Other",
+  "name": "[2 Pay] 2.1 Select Other",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

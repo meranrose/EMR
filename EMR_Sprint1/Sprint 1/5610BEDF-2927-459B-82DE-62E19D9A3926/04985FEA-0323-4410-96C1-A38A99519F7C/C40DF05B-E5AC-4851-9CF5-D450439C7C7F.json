@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C40DF05B-E5AC-4851-9CF5-D450439C7C7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B7774BB-4407-489B-B13B-8DE95EC7031C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66DE6201-1693-4ECE-BCB7-888AEFB07136",
+    "height": 56,
+    "width": 311,
+    "x": 0,
+    "y": 114
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA7265A9-3103-4DA3-A454-226CC3C544AA",
+      "overrideName": "1F8E4A9D-DD83-4502-BFC2-FF2E05407D6E_stringValue",
+      "value": "Today"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "313FBF7C-BDCE-4CA1-B444-1D9D853FAC1F",
+      "overrideName": "540EB266-B268-49F6-8493-47C32D44AF45_stringValue",
+      "value": "Date"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BED58796-5D3D-433F-AC3A-21C144EAADA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1947C41D-4DA3-4159-874F-75BEC9251B53",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

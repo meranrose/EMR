@@ -17,17 +17,19 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-Light",
-              "size": 14.08854166666666
+              "size": 16
             }
           },
-          "kerning": 0.25,
+          "kerning": 0.2839187,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 20,
             "minimumLineHeight": 20
-          }
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
         },
         "length": 15,
         "location": 0
@@ -55,11 +57,11 @@
     "constrainProportions": false,
     "do_objectID": "B1A75238-49D2-411E-8F29-B52C398C2DE5",
     "height": 20,
-    "width": 115,
-    "x": 32,
-    "y": 312
+    "width": 131,
+    "x": 28,
+    "y": 244
   },
-  "glyphBounds": "{{1, 4}, {113, 14}}",
+  "glyphBounds": "{{1, 4}, {128, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,17 +98,19 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-Light",
-            "size": 14.08854166666666
+            "size": 16
           }
         },
-        "kerning": 0.25,
+        "kerning": 0.2839187,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 20,
           "minimumLineHeight": 20
-        }
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },
@@ -118,6 +122,26 @@
       "kModelPropertiesKey": {
         "isAutoWidth": 1
       }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 1,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "81E54EB1-5B53-4E0C-905B-394104749DD7",
+      "transition": 0
     }
   }
 }

@@ -17,14 +17,14 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6BB9D153-CA65-4A5C-B07A-EA1A58BEFF22",
-    "height": 64,
+    "height": 72,
     "width": 375,
     "x": 0,
-    "y": 936
+    "y": 928
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -47,7 +47,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0C3AA349-A307-4580-AD03-E85B71FA4DA7",
+  "symbolID": "11E6F8FB-51FF-4293-A1EE-26369561F5F5",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

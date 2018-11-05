@@ -19,8 +19,8 @@
     "do_objectID": "7A0EEB75-5A56-4F56-B086-9BE3A1792AC5",
     "height": 275,
     "width": 344,
-    "x": -0.1666666666666607,
-    "y": 0
+    "x": 16,
+    "y": 48
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,12 +32,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E3CD1CF1-A415-4FDB-88DC-54A0CCF9BE55"
-    },
-    {
-      "class": "text",
-      "id": "07890121-BE73-402A-9C47-7AC282249552"
+      "class": "group",
+      "id": "9450347F-E8AA-42EC-A0A3-4CA9254D7FB3"
     }
   ],
   "name": "Group",

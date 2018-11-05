@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6008020E-7260-43B8-86E8-25957A7092EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "887DAB38-FD27-4D68-AF27-B4DD4A8BE0B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "307C9F0E-3B8C-422A-81F4-F0D41E8BA0D0",
+    "height": 23.94737308413369,
+    "width": 23.99999268079546,
+    "x": 0.000003461949290795018,
+    "y": -0.00002500000005056791
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3D7E194B-E29A-4655-828D-DF70863E4EA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "D84BDCF3-F6A9-4DA5-9007-11F7E6786C53"
+    }
+  ],
+  "name": "Clip 308",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B32BBE4-1AEC-4FD7-8BEA-D94F32A92128",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

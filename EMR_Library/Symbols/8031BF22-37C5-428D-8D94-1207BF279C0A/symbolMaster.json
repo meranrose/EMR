@@ -9,7 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 167,
+=======
+  "changeIdentifier": 246,
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
   "clippingMaskMode": 0,
   "do_objectID": "8031BF22-37C5-428D-8D94-1207BF279C0A",
   "exportOptions": {
@@ -50,15 +54,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 1,
+=======
+  "layerListExpandedType": 2,
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
   "layers": [
     {
       "class": "shapePath",
       "id": "75D1AC0D-B48A-4035-AACF-A0AEFCF996EE"
+<<<<<<< HEAD
     },
     {
       "class": "symbolInstance",
       "id": "1C2A8FE3-75EC-4B55-A348-663DD610EE1B"
+=======
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
     }
   ],
   "name": "Icons / Home",
@@ -77,6 +88,12 @@
     "windingRule": 1
   },
   "symbolID": "02EB8AD9-1BC7-4686-A55D-A1789ED6D4E3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

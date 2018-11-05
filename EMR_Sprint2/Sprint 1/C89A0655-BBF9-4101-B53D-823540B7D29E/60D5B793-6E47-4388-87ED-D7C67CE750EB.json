@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "60D5B793-6E47-4388-87ED-D7C67CE750EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1F882D0-D68A-41EF-861F-E4B27565EAA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F00A3E6-D0B8-4186-840E-FDC4042D4AB7",
+    "height": 120,
+    "width": 313,
+    "x": 0,
+    "y": 34
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_stringValue",
+      "value": "Bank of America ****1234"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "29026114-B7A0-4362-8164-7F2F9BDCB190_stringValue",
+      "value": "Method"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA8CC5C4-683A-4E08-B352-CBA32ED8AA3B_symbolID",
+      "value": "B661E0E2-0133-4178-8080-B0A70A11AB81"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_textStyle",
+      "value": "A0AECCE5-8FEA-4D79-A265-405D1E28C302"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B244994-7423-49BD-94A7-92AA3ACBD9F4",
+      "overrideName": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A45118F-1AE1-4E96-9C2C-25DD02B9DFE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2666A73-5AF7-451F-B96B-84524433902D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 1,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 3,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "05D433BA-1E2F-4A3B-91C0-ADAD37C8C468",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

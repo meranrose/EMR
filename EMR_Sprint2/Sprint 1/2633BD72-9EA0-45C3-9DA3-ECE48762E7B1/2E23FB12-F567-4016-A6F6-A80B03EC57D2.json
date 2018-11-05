@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E23FB12-F567-4016-A6F6-A80B03EC57D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3EB731A8-43DA-4516-A983-61FAD66A44B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "608A2375-5F15-43F7-AD42-49815DE36662",
+    "height": 39,
+    "width": 39,
+    "x": 35,
+    "y": 334
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Selector / Calendar / Selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8474A625-916E-4EFC-A0FF-C4EE0C9955AF",
+      "overrideName": "1D86FADE-1E84-4368-9C92-89D7D180ADB3_stringValue",
+      "value": "11"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41FE0280-5061-476A-BD41-E4B6A81527AD",
+      "overrideName": "937791AF-29E3-4F6A-A20B-5F1BD9C668C1_layerStyle",
+      "value": "2AF1F281-24CA-4DE7-80CE-BD5F1C1AA925"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C308B548-F506-46BD-8467-7488B012609F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A28EEB3D-BC82-4999-887B-6462EC6FF4CD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

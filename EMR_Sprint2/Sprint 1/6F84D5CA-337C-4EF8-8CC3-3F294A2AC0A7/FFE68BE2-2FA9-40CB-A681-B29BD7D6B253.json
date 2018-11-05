@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFE68BE2-2FA9-40CB-A681-B29BD7D6B253",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00226F7C-CBF0-4CCF-A37D-3D08237D30EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80DF2BF6-4DF6-4115-9DD9-F89826635429",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Dialog",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30AA9F45-0370-406C-B47F-DA213423DAA4",
+      "overrideName": "75AA9339-8878-415D-A8F6-5BF080A68ADB_symbolID",
+      "value": "206AB46D-8EE2-4640-8786-A2A685FEA6D0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB2041F9-93D9-4273-9A43-0AF208A37B6B",
+      "overrideName": "75AA9339-8878-415D-A8F6-5BF080A68ADB/B544376C-AC5C-4FDF-BD07-817A9090E838_layerStyle",
+      "value": "61CFBB9B-E067-431E-BCFF-04CE40619238"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBC8E01A-ADB5-4380-88A7-FB0CFA225C0F",
+      "overrideName": "426B7B41-BD71-4543-8EA3-19EFD75B3EEB/B36A6485-0245-4050-85B6-1F094AC717A6_layerStyle",
+      "value": "61CFBB9B-E067-431E-BCFF-04CE40619238"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B0E63C4-A31A-4DEA-A696-C2A4A5B23B97",
+      "overrideName": "B2D9BB1B-55F1-499C-8AD4-28977A00E143_textStyle",
+      "value": "8C36EA8F-9908-462E-B87E-CF05E6BA5F8B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0B1BCE8-B399-4BA8-B539-2A920412B385",
+      "overrideName": "B2D9BB1B-55F1-499C-8AD4-28977A00E143_stringValue",
+      "value": "About Something"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6BDFDD4-2074-4FC0-80A1-13476BB1FEDA",
+      "overrideName": "5D32A143-221D-4E22-B276-2F7C0D2DF737_layerStyle",
+      "value": "B71CA537-D7D2-4EAB-8D28-9E691B58BD52"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEC54F95-5987-4BFA-8EEA-F08842DDC6D7",
+      "overrideName": "426B7B41-BD71-4543-8EA3-19EFD75B3EEB/3C9AC36D-18CA-4AFA-A4A3-5EB68BD5042F_layerStyle",
+      "value": "61CFBB9B-E067-431E-BCFF-04CE40619238"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8296DAB0-2E97-46D4-AFBA-F5FFFDBC399C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD59CED2-2D57-42F0-944B-023178F1539E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 5,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

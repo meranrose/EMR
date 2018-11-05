@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "EB2B704D-9BA3-4875-A030-2234FB545F1B",
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -27,10 +26,10 @@
     "do_objectID": "AC4914F1-B87A-4E7A-9C27-416C8EA00F90",
     "height": 667,
     "width": 375,
-    "x": 7489,
-    "y": 2185
+    "x": 11679,
+    "y": -2730
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -53,22 +52,22 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "B3B875F7-8AD3-42AF-9C5F-3EBE687D1B4E"
-    },
-    {
-      "class": "text",
-      "id": "F8F2F42C-1097-4276-AD88-BCFED6BEB68F"
-    },
-    {
-      "class": "rectangle",
-      "id": "4A9703A4-CEEA-4624-8FF6-A2EF7E7AEA58"
+      "id": "04A84CAE-60AB-425B-AC0F-6BC003CF794F"
     },
     {
       "class": "symbolInstance",
-      "id": "CA321AA3-A58D-4E21-BBD7-D507C7719B21"
+      "id": "762B822A-94F3-4447-97E3-F3034721037B"
+    },
+    {
+      "class": "text",
+      "id": "35036522-FD4F-4EF0-8EA5-DC6626037AC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76CF8207-17B0-401B-A72D-72827B675151"
     }
   ],
-  "name": "Dialog - Learn More",
+  "name": "Dash Dialogs",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

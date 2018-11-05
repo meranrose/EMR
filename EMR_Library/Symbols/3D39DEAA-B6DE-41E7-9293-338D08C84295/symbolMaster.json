@@ -8,7 +8,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 137,
+=======
+  "changeIdentifier": 216,
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
   "clippingMaskMode": 0,
   "do_objectID": "3D39DEAA-B6DE-41E7-9293-338D08C84295",
   "exportOptions": {
@@ -46,15 +50,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 1,
+=======
+  "layerListExpandedType": 2,
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
   "layers": [
     {
       "class": "shapePath",
       "id": "F5E251FC-E4C1-410F-B6DA-741B3CFF237B"
+<<<<<<< HEAD
     },
     {
       "class": "symbolInstance",
       "id": "28C32993-0A71-4565-AD70-057866D18CC0"
+=======
+>>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
     }
   ],
   "name": "Icons / Like",
@@ -72,6 +83,12 @@
     "windingRule": 1
   },
   "symbolID": "556D2BB0-6206-4342-A154-8172966927EE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
