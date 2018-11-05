@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36CE6944-7924-404A-9338-49544696ADD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08BC8877-2E32-4EBB-8A73-2FFA26D22F72",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2A24A8B-CC23-429A-BB53-624283288AD7",
+    "height": 36,
+    "width": 326,
+    "x": 20,
+    "y": 489
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Secondary / Normal Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A510327-6171-4C03-B75B-87478ED75931",
+      "overrideName": "EF2F0B1A-5A9F-4958-9E1C-39D84FC04577_stringValue",
+      "value": "Centered Link"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD4D19C1-CBFF-4D99-900E-B89B3716DA63",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F80171EC-5F39-47D3-8FD8-741F10B4ACF4",
+  "verticalSpacing": 0
+}

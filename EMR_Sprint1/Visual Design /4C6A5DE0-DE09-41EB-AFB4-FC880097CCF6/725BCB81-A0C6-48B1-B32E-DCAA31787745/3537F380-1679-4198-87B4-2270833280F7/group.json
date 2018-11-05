@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3537F380-1679-4198-87B4-2270833280F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F667001-58F9-4D31-A712-D6C4D25640F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DE0E437-A6C8-4FE9-9F7C-1055E90EF1EA",
+    "height": 56,
+    "width": 343,
+    "x": 0,
+    "y": 52.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E768B89F-3BE6-4163-A560-1F37B7884F68"
+    },
+    {
+      "class": "text",
+      "id": "A5FDE8AA-B323-4901-8D5C-27D35EB11A96"
+    },
+    {
+      "class": "text",
+      "id": "8BC5745F-D28F-4453-BB8A-CC79DD6116E7"
+    }
+  ],
+  "name": "Text Field / Icon + Input Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24AB6C18-C142-479E-B5B0-599D89354138",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Interstate-Bold",
-              "size": 16
+              "name": "Interstate-Light",
+              "size": 14.08854166666666
             }
           },
-          "kerning": 1,
+          "kerning": 1.25,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -30,38 +30,8 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 5,
+        "length": 6,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Interstate-Bold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "ligature": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
-          }
-        },
-        "length": 1,
-        "location": 5
       }
     ],
     "string": "Button"
@@ -84,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 58,
-    "x": 71,
-    "y": 17
+    "width": 64,
+    "x": 16,
+    "y": 10
   },
-  "glyphBounds": "{{1, 2}, {56, 13}}",
+  "glyphBounds": "{{8, 2}, {47, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -102,7 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "A5EB2CFE-BDF6-4274-AEDB-F76E2373AC0D",
+  "sharedStyleID": "362F1644-DDFA-4D95-B030-2CC097B032EC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -123,11 +93,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Interstate-Bold",
-            "size": 16
+            "name": "Interstate-Light",
+            "size": 14.08854166666666
           }
         },
-        "kerning": 1,
+        "kerning": 1.25,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
@@ -141,12 +111,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 2
 }

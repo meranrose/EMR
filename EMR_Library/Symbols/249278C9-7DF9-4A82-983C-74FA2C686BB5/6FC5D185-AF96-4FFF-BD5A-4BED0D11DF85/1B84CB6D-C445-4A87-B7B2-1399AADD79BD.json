@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 21
+              "size": 20.12648809523809
             }
           },
-          "kerning": 0.2608503,
+          "kerning": 0.25,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 70,
+    "height": 24,
+    "width": 67,
     "x": 22,
     "y": 20
   },
-  "glyphBounds": "{{2, 4}, {67, 17}}",
+  "glyphBounds": "{{1, 4}, {65, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B5E56B9D-9EBF-4E73-9D20-0CDF4B89CCBA",
+  "sharedStyleID": "A7CFF936-D86F-45D6-9CBC-125A005159F2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,10 +92,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 21
+            "size": 20.12648809523809
           }
         },
-        "kerning": 0.2608503,
+        "kerning": 0.25,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
@@ -107,12 +107,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }

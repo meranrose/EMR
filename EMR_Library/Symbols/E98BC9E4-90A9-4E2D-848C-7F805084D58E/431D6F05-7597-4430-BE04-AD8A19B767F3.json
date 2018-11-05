@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-ExtraLight",
-              "size": 16
+              "size": 14.08854166666666
             }
           },
-          "kerning": 0.2839187,
+          "kerning": 0.25,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -57,7 +57,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 4}, {35, 15}}",
+  "glyphBounds": "{{1, 4}, {31, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D3059203-0926-40F9-B226-05834AB30619",
+  "sharedStyleID": "916A4342-C071-4399-B03C-38095CB5E18A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,10 +93,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
-            "size": 16
+            "size": 14.08854166666666
           }
         },
-        "kerning": 0.2839187,
+        "kerning": 0.25,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

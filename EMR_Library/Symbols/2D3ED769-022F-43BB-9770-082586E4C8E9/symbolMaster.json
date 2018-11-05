@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 852,
+  "changeIdentifier": 104,
   "clippingMaskMode": 0,
   "do_objectID": "2D3ED769-022F-43BB-9770-082586E4C8E9",
   "exportOptions": {
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 200,
-    "x": 950,
+    "height": 36,
+    "width": 96,
+    "x": 475,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -49,15 +49,19 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "13C2744C-A8D5-4124-A803-CAEA61A2423D"
+      "class": "shapeGroup",
+      "id": "2E1D8462-4DFD-47D1-BD43-D049DF8CA3DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3B25DAC-F202-40E3-B235-A6361061CB80"
     },
     {
       "class": "text",
       "id": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3"
     }
   ],
-  "name": "Buttons / 1 Round",
+  "name": "Buttons / Primary",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

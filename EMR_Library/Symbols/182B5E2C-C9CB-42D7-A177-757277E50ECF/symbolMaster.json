@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 56,
+  "changeIdentifier": 31,
   "clippingMaskMode": 0,
   "do_objectID": "182B5E2C-C9CB-42D7-A177-757277E50ECF",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 2296,
-    "y": 992
+    "x": 1647,
+    "y": 372
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,8 +53,8 @@
       "id": "C532ECBC-12F0-4087-82C8-B60E730FFFC7"
     },
     {
-      "class": "rectangle",
-      "id": "51918A18-CB68-4C68-A387-670239956086"
+      "class": "symbolInstance",
+      "id": "3A251F25-BDC2-4984-8E36-A9F059417414"
     }
   ],
   "name": "Icons / Check",

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "05DB4750-1060-4967-97C7-8796DFA5F86C",
-  "name": "Link / Underline",
+  "name": "Button / Dark Blue / Underlined",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -21,10 +21,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-Light",
-            "size": 16
+            "size": 14.08854166666666
           }
         },
-        "kerning": 1,
+        "kerning": 1.25,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

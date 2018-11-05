@@ -31,12 +31,6 @@
   "name": "Icon",
   "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CF4EB721-ADD3-437D-871F-DB273BB18050",
-      "overrideName": "4BAB6C4A-32FD-4DFF-9284-4CC400F72B8D_layerStyle",
-      "value": "69D5FF07-7DCC-4B01-96CC-A3F851937ED3"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,11 +45,5 @@
     "windingRule": 1
   },
   "symbolID": "556D2BB0-6206-4342-A154-8172966927EE",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalSpacing": 0
 }

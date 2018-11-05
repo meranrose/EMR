@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2D156190-6D23-43B4-9BD5-91F834F423E6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 129,
+  "clippingMaskMode": 0,
+  "do_objectID": "87C7F669-97DB-4A8C-BF94-CD6CF2F3B2ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06FD3B63-FF1E-47A9-B8A6-CB2965FB21A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA96213C-00BE-4C58-B5B5-CCDE1E95DFB2",
+    "height": 36,
+    "width": 96,
+    "x": 475,
+    "y": 408
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9F1A367E-0D9E-4955-A489-61667B4E38B7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0108EB92-2F44-459F-ADE1-B24FD6E91A05"
+    }
+  ],
+  "name": "Buttons / Text",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43D42A3A-DB91-4F9B-9AFC-FB5D358B65C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC95926C-2324-4473-8BA9-901F12B0DA6E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "86ABCCF2-2AE7-4BD6-A87D-4E3BAE9DC400",
+    "guides": [
+    ]
+  }
+}

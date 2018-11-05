@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 350,
+  "changeIdentifier": 326,
   "clippingMaskMode": 0,
   "do_objectID": "1A750AD3-4666-47BB-872C-3A91A0DDDD95",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 2296,
-    "y": 744
+    "x": 1647,
+    "y": 124
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,8 +53,8 @@
       "id": "4801B752-837B-459F-A78A-53B9DBB26304"
     },
     {
-      "class": "rectangle",
-      "id": "83F0E7CD-89C0-4CB9-9CCC-56118CDD9939"
+      "class": "symbolInstance",
+      "id": "A9753561-605E-45EB-8803-FD77481AC77D"
     }
   ],
   "name": "Icons / Bill",

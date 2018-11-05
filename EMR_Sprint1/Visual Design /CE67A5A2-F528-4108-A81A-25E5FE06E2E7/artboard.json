@@ -1,0 +1,186 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE67A5A2-F528-4108-A81A-25E5FE06E2E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -1083,
+    "y": -74
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      375
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "37DD4FA3-DB5F-4549-8EC1-A52C24487775"
+    },
+    {
+      "class": "rectangle",
+      "id": "E3DF86A7-B6A5-4883-8A6A-3B476D586999"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A662056-27D0-4BDF-8BD6-C0E216B7091F"
+    },
+    {
+      "class": "group",
+      "id": "4D0CDAE9-7436-4E82-989E-CD7F95D5839D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3A5F0DD-6DBD-4174-9848-938AF6078D0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "256F8D2D-9D58-4F01-9BFE-CB51A226103C"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8D3E4F2-BE97-4468-B7FB-EFB0B7E61A28"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF012C7F-E695-47C2-99D3-FB2AF1D207F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "17480984-58C4-4861-8481-F81ABDF0B44B"
+    },
+    {
+      "class": "group",
+      "id": "8450F1B3-0795-43DD-B62A-4FB4F441759E"
+    },
+    {
+      "class": "group",
+      "id": "094C23DA-1E51-4219-AE18-352F28CAA405"
+    },
+    {
+      "class": "rectangle",
+      "id": "8DD9068B-8758-48D3-8255-8FC748FE3C2A"
+    },
+    {
+      "class": "bitmap",
+      "id": "B064C510-7973-4276-B0D2-FD1CCEFC5A24"
+    },
+    {
+      "class": "text",
+      "id": "A1BC4960-5410-4B3E-A22D-F11B6F955868"
+    },
+    {
+      "class": "group",
+      "id": "70265B4F-26E9-45D0-A67E-B2AC80F12A31"
+    },
+    {
+      "class": "group",
+      "id": "F9773E1F-7376-4C79-BEBD-35973B422554"
+    },
+    {
+      "class": "rectangle",
+      "id": "156393E5-7101-4AFF-AF36-743D9A7AA438"
+    },
+    {
+      "class": "group",
+      "id": "17D9D3B3-9350-4ADD-93C3-0C070F1C1329"
+    },
+    {
+      "class": "group",
+      "id": "269AB534-7D63-434E-9600-92FE8A150CA7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 32.875,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 309.25,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Landing ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      68,
+      636
+    ]
+  }
+}

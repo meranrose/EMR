@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49B1BC6D-6218-4AEA-A6E8-91D48A476F8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B374682B-2CA4-46FD-9B78-22DDA34B8555",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B3AD1E7-BD5F-47FE-B751-1EDB968E3EB2",
+    "height": 20,
+    "width": 69,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9B47D0C4-EA6F-42D6-8B20-346A8434A167"
+    },
+    {
+      "class": "group",
+      "id": "05B18FB4-5565-4923-A7C3-0DE072645C07"
+    }
+  ],
+  "name": "Electric",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70B420EB-3904-4E35-A1FE-C1A307BA3126",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

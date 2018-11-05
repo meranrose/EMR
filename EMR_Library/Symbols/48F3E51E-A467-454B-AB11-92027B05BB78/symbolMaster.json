@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 259,
+  "changeIdentifier": 134,
   "clippingMaskMode": 0,
   "do_objectID": "48F3E51E-A467-454B-AB11-92027B05BB78",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2C022099-50A1-4569-855A-E9AFD7D5FC0F",
-    "height": 40,
-    "width": 270,
-    "x": 950,
-    "y": 590
+    "height": 36,
+    "width": 96,
+    "x": 475,
+    "y": 544
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +59,7 @@
   ],
   "name": "Buttons / Text - Underlined",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -73,12 +73,6 @@
     "windingRule": 1
   },
   "symbolID": "F80171EC-5F39-47D3-8FD8-741F10B4ACF4",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
