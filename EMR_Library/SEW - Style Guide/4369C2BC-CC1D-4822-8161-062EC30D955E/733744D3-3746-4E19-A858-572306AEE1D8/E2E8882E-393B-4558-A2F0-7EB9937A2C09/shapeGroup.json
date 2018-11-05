@@ -1,0 +1,62 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2E8882E-393B-4558-A2F0-7EB9937A2C09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C2BBE5C-B06F-48B2-8693-8CDF8135679D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E615FFF9-CB03-4ED1-81BE-7F7AC4216088",
+    "height": 19.19999999999999,
+    "width": 12.80000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "11CEBA2A-CED3-4A2B-8652-96E994AFF079"
+    },
+    {
+      "class": "shapePath",
+      "id": "25A94150-DD49-4A80-8E2B-70FD2C4DF01F"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD097492-11A0-43F4-83A7-E2C419C07565"
+    }
+  ],
+  "name": "Clip 200",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74B0C204-749C-4B1F-9B35-1394EB3B708E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -9,10 +9,14 @@
   },
   "booleanOperation": -1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "changeIdentifier": 302,
 =======
   "changeIdentifier": 408,
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+=======
+  "changeIdentifier": 327,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "33026D26-2DD4-4977-B24D-32741D70D0C7",
   "exportOptions": {
@@ -29,8 +33,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 1647,
-    "y": 1612
+    "x": 2296,
+    "y": 1736
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -58,11 +62,16 @@
       "id": "8D15A4AE-65D6-4DE4-9B2C-17CB68587FC3"
     },
     {
+<<<<<<< HEAD
       "class": "symbolInstance",
       "id": "E205432B-4109-42D2-B396-1D10EB00DC7A"
 =======
       "id": "9212E689-2222-4115-98B9-12291C241DC2"
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+=======
+      "class": "rectangle",
+      "id": "385D7F84-AE6D-433F-A9E2-4AA4375651EC"
+>>>>>>> parent of 53996f2... 11/5 - 01
     }
   ],
   "name": "Icons / More",

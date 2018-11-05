@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA68C877-995E-47A0-887A-AD63B34C5990",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F754C77-ACE9-4006-9347-37CAE1644F1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E86D6330-FD3E-48E7-8A3B-365BD1D83118",
+    "height": 142,
+    "width": 121,
+    "x": 127,
+    "y": 43.99999999999999
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ECBFBE41-CB4F-4E6A-A7AF-2EBC662101BD"
+    },
+    {
+      "class": "group",
+      "id": "F044C32A-D227-45F1-A118-15FADBCF93B1"
+    },
+    {
+      "class": "oval",
+      "id": "2A1668AA-A5D3-435E-845B-C39D2FC1D26C"
+    }
+  ],
+  "name": "business",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8030842-0976-4706-A685-1236A10AF384",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

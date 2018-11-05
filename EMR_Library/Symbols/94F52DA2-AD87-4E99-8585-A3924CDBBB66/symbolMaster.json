@@ -10,10 +10,14 @@
   },
   "booleanOperation": -1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "changeIdentifier": 85,
 =======
   "changeIdentifier": 168,
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+=======
+  "changeIdentifier": 108,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "94F52DA2-AD87-4E99-8585-A3924CDBBB66",
   "exportOptions": {
@@ -32,8 +36,8 @@
     "do_objectID": "B1BA0A30-90FA-4E5A-8708-917B73888E3E",
     "height": 24,
     "width": 24,
-    "x": 1647,
-    "y": 0
+    "x": 2296,
+    "y": 496
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -62,10 +66,15 @@
 <<<<<<< HEAD
     },
     {
+<<<<<<< HEAD
       "class": "group",
       "id": "53D9BD51-465F-42C9-8AF2-ADB094E8A01B"
 =======
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+=======
+      "class": "rectangle",
+      "id": "C095BBDD-51E1-44A7-8EFA-BF9705066871"
+>>>>>>> parent of 53996f2... 11/5 - 01
     }
   ],
   "name": "Icons / Arrow - Right",

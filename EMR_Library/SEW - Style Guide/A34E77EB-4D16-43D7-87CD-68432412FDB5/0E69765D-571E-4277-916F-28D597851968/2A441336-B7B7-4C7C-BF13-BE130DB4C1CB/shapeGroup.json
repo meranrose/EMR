@@ -1,0 +1,58 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A441336-B7B7-4C7C-BF13-BE130DB4C1CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A8992CA-A518-411E-A283-A04D09A9EB23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5615053E-FA51-42BF-ABC4-6F5D972095DD",
+    "height": 48,
+    "width": 47.99996999999999,
+    "x": 0.9653300000000087,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6541A91A-4164-446C-B7E6-44A393C99628"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE15A0C9-DE82-4D0C-942E-CD6646B09C6C"
+    }
+  ],
+  "name": "Clip 1988",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE75D871-01A0-4801-9D22-D53A03719473",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

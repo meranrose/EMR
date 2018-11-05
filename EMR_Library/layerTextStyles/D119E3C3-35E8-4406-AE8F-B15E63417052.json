@@ -21,10 +21,17 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-ExtraLight",
+<<<<<<< HEAD
             "size": 12
           }
         },
         "kerning": 0.3974862,
+=======
+            "size": 12.07589285714286
+          }
+        },
+        "kerning": 0.4000000059604645,
+>>>>>>> parent of 53996f2... 11/5 - 01
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

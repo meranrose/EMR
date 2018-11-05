@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -1508,
-    "y": 691
+    "x": 771,
+    "y": -74
   },
   "grid": {
     "_class": "simpleGrid",
@@ -122,6 +122,14 @@
     {
       "class": "group",
       "id": "DF3660F5-4ABD-4D1D-8B1E-82436AA13E0B"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF64BCD6-CCFC-4C3B-9554-7C9FA6AF15D0"
+    },
+    {
+      "class": "group",
+      "id": "F6940B92-3187-4AE9-8633-82DFD959FCF3"
     }
   ],
   "layout": {
@@ -139,7 +147,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 375
   },
-  "name": "Select Account ",
+  "name": "Splash_1 Copy 4",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

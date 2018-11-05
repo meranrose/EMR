@@ -36,8 +36,8 @@
     "do_objectID": "AAB21F5E-8ED5-4701-B4A7-C23FC8E99908",
     "height": 667,
     "width": 375,
-    "x": -1535,
-    "y": 1598
+    "x": -179,
+    "y": -74
   },
   "grid": {
     "_class": "simpleGrid",
@@ -47,7 +47,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -137,7 +137,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 375
   },
-  "name": "Billing",
+  "name": "Splash_1 Copy 2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

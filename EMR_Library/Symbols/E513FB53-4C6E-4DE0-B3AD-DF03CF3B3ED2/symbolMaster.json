@@ -9,7 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 3205,
+=======
+  "changeIdentifier": 3172,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "E513FB53-4C6E-4DE0-B3AD-DF03CF3B3ED2",
   "exportOptions": {
@@ -50,11 +54,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 2,
+=======
+  "layerListExpandedType": 1,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "layers": [
     {
       "class": "shapeGroup",
       "id": "AB5EE178-8732-4C67-8464-22A930C85B84"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "class": "rectangle",
+      "id": "F3EA1BB4-AA1D-4E4B-BEB9-D0688E1C2F49"
+>>>>>>> parent of 53996f2... 11/5 - 01
     }
   ],
   "name": "Icons / Calendar",
@@ -73,12 +88,15 @@
     "windingRule": 1
   },
   "symbolID": "8FD2C307-DF66-4CCB-B91D-499D312BCCAE",
+<<<<<<< HEAD
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
   },
+=======
+>>>>>>> parent of 53996f2... 11/5 - 01
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

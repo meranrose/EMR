@@ -25,7 +25,11 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+<<<<<<< HEAD
   "isLocked": false,
+=======
+  "isLocked": true,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
@@ -51,11 +55,17 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+<<<<<<< HEAD
   "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "0ACCDCD7-1B90-4A49-B4D1-5B5952EAE619",
+=======
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+>>>>>>> parent of 53996f2... 11/5 - 01
     "endMarkerType": 0,
     "fills": [
       {
@@ -63,9 +73,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+<<<<<<< HEAD
           "blue": 0.4,
           "green": 0.3882352941176471,
           "red": 0.4
+=======
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
+>>>>>>> parent of 53996f2... 11/5 - 01
         },
         "fillType": 0,
         "isEnabled": true,
@@ -73,10 +89,56 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
+<<<<<<< HEAD
+=======
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+>>>>>>> parent of 53996f2... 11/5 - 01
       }
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
+<<<<<<< HEAD
+=======
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09803921568627451,
+          "green": 0.09803921568627451,
+          "red": 0.09803921568627451
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Ionicons",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        }
+      },
+      "verticalAlignment": 1
+    },
+>>>>>>> parent of 53996f2... 11/5 - 01
     "windingRule": 1
   },
   "userInfo": {
@@ -86,13 +148,21 @@
           "aspectRatio": {
             "constant": 15,
             "enabled": 1,
+<<<<<<< HEAD
             "modelID": "constraint_162c32d0-4fb2-40d2-a3ba-e3c33d9e7952",
+=======
+            "modelID": "constraint_e66df25a-a9d5-43f8-b870-f4be8aacf14b",
+>>>>>>> parent of 53996f2... 11/5 - 01
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 16.25
           },
           "automatic": 1,
+<<<<<<< HEAD
           "modelID": "viewConstraints_cd44dc87-51a5-4068-831e-b7b9029cf47d",
+=======
+          "modelID": "viewConstraints_892dcf5c-8004-4ef4-ba72-a1b26385c3ff",
+>>>>>>> parent of 53996f2... 11/5 - 01
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

@@ -26,11 +26,11 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon/navigation/chevron_left_24px",
-  "nameIsFixed": false,
+  "name": "icon",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -125,14 +125,20 @@
     "startMarkerType": 0,
 <<<<<<< HEAD
     "windingRule": 0
+<<<<<<< HEAD
 =======
     "windingRule": 1
+=======
+>>>>>>> parent of 53996f2... 11/5 - 01
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
+<<<<<<< HEAD
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+=======
+>>>>>>> parent of 53996f2... 11/5 - 01
   }
 }

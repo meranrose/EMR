@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9221,
+  "changeIdentifier": 9257,
   "clippingMaskMode": 0,
   "do_objectID": "5B764467-41A0-4790-9688-C8A1A3844C6D",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "DB1B7EAF-115C-4903-8900-8B2C61CC5A9A",
     "height": 40,
     "width": 300,
-    "x": 867,
-    "y": 354
+    "x": 3334,
+    "y": 593
   },
   "grid": {
     "_class": "simpleGrid",
@@ -39,7 +39,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,7 +68,7 @@
       "id": "7CF7BCF0-E9EF-4F03-A695-C2755C33B9E3"
     }
   ],
-  "name": "Custom / Dropdown",
+  "name": "Selectors / Dropdown",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

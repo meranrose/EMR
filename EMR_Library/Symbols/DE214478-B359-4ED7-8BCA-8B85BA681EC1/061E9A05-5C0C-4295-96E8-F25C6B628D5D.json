@@ -114,7 +114,11 @@
           "red": 1
         },
         "fillType": 0,
+<<<<<<< HEAD
         "isEnabled": false,
+=======
+        "isEnabled": true,
+>>>>>>> parent of 53996f2... 11/5 - 01
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

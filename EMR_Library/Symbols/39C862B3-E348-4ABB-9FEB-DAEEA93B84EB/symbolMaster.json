@@ -9,7 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 3093,
+=======
+  "changeIdentifier": 2993,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "39C862B3-E348-4ABB-9FEB-DAEEA93B84EB",
   "exportOptions": {
@@ -50,11 +54,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "21F7A2BF-1A59-47CD-9041-D691E41BE7F1"
+=======
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E2A08E6-8AF7-472A-8B4D-285303FA6EF5"
+    },
+    {
+      "class": "rectangle",
+      "id": "E8F6E60A-AB28-47C6-A79B-EE01B0068BB6"
+>>>>>>> parent of 53996f2... 11/5 - 01
     }
   ],
   "name": "Icons / Radio - Selected",
@@ -73,12 +89,15 @@
     "windingRule": 1
   },
   "symbolID": "4EACF3E1-7E1F-4AFC-BCFD-B758CA905E63",
+<<<<<<< HEAD
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
   },
+=======
+>>>>>>> parent of 53996f2... 11/5 - 01
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

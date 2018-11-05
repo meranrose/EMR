@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7731,
+  "changeIdentifier": 7867,
   "clippingMaskMode": 0,
   "do_objectID": "E03F289B-4D9B-45D9-8638-288BD5E226CC",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "39D16EA4-52D1-4464-A9E8-C0B95EA351E8",
     "height": 61,
     "width": 300,
-    "x": 867,
+    "x": 1516,
     "y": 0
   },
   "grid": {
@@ -39,7 +39,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,12 +68,12 @@
       "id": "00C4B03C-8872-461B-90FC-328BCCF38820"
     },
     {
-      "class": "symbolInstance",
-      "id": "7EF97038-AD78-4504-9303-F83C7184C041"
+      "class": "text",
+      "id": "6016054B-9F00-4629-8311-79F466853695"
     },
     {
-      "class": "symbolInstance",
-      "id": "19EE0872-378C-48F3-A94F-332513966B4A"
+      "class": "text",
+      "id": "C302D079-1EA4-45D6-AACE-1907A1768B54"
     },
     {
       "class": "shapeGroup",

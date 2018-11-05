@@ -1,0 +1,62 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E965A61A-F6DA-411E-8793-A57083808D00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6BCB04F-7785-475B-9F54-FB8713033043",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E214AF26-6975-4869-93A7-615CD4582F3D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E2C373C8-FF49-4DD2-B517-DAB84A1B38DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "06BA01D8-3CC2-4686-90FC-9160BB80A826"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD5ECDCD-A98D-4C73-BD5F-93D65ACF1034"
+    }
+  ],
+  "name": "Clip 386",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B70BA649-EF57-44D7-AE54-DDD809852861",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

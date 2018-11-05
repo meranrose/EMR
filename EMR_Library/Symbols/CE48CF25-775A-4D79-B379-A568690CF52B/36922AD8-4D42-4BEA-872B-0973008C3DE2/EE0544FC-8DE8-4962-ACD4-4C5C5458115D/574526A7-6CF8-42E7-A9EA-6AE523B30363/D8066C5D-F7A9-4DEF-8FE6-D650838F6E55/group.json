@@ -1,0 +1,209 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8066C5D-F7A9-4DEF-8FE6-D650838F6E55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63B85620-E087-46D5-BAB0-79EC0ACCC516",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F926116B-CA25-4BD0-AE68-150C01951C44",
+    "height": 254,
+    "width": 295,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "694FF4D1-8316-4023-89F6-0BA9AAE0496B"
+    },
+    {
+      "class": "text",
+      "id": "A73C9EE4-E0C5-41CC-AD71-8003D86992AD"
+    },
+    {
+      "class": "text",
+      "id": "310701B1-96E9-40C9-BCCE-9A82DF27BDCB"
+    },
+    {
+      "class": "text",
+      "id": "8ED9B7C3-317F-4063-8965-4315E43FFE88"
+    },
+    {
+      "class": "text",
+      "id": "D6D44A94-6A4B-47E0-9DF6-52F99F1484BD"
+    },
+    {
+      "class": "text",
+      "id": "FEF4956E-B416-4068-BAC9-EFBF394F5FA1"
+    },
+    {
+      "class": "text",
+      "id": "0D19D4F8-A5C2-4966-B26B-0EA8A8E63D2C"
+    },
+    {
+      "class": "text",
+      "id": "A6DC38D3-F831-49DA-A6DF-79A82FA20488"
+    },
+    {
+      "class": "text",
+      "id": "9CB27E19-7EEA-49F1-A207-059028005188"
+    },
+    {
+      "class": "text",
+      "id": "8D62256E-5B5D-416E-96A6-F73A963A04E6"
+    },
+    {
+      "class": "text",
+      "id": "4B60BA83-10F1-4F6F-82E1-53E8EFC25376"
+    },
+    {
+      "class": "text",
+      "id": "570D27E7-9380-4E93-8803-45876A5631EB"
+    },
+    {
+      "class": "text",
+      "id": "A9E9C79E-D573-4B71-AA73-31B69A430AF8"
+    },
+    {
+      "class": "text",
+      "id": "81880DF5-7A1D-493B-81E5-2CAE33DAEFC8"
+    },
+    {
+      "class": "text",
+      "id": "EC19F097-17A5-4F7D-8B9D-43ADD4A7402D"
+    },
+    {
+      "class": "text",
+      "id": "21B8F308-90DA-4D96-8FC1-CBF1FE5F6AAD"
+    },
+    {
+      "class": "text",
+      "id": "310FBA54-FFCA-43FC-9ADA-5F2AB31E04E6"
+    },
+    {
+      "class": "text",
+      "id": "FFC07A5F-D163-463B-B43E-300DB85EADDB"
+    },
+    {
+      "class": "text",
+      "id": "AD7DAE04-A4D9-468B-B956-747F6FAA680C"
+    },
+    {
+      "class": "text",
+      "id": "E9F7273A-C284-4AD2-976F-572643A4E188"
+    },
+    {
+      "class": "text",
+      "id": "41D0758A-B24C-4BE8-9E6E-79858D272BC6"
+    },
+    {
+      "class": "text",
+      "id": "52E364AD-5506-49AE-B2CE-6F2B16BEBD92"
+    },
+    {
+      "class": "text",
+      "id": "EDD82587-FC19-4119-BA5B-695BBDA9869D"
+    },
+    {
+      "class": "text",
+      "id": "9FE1FABC-D923-486E-905B-D96FCDE84F81"
+    },
+    {
+      "class": "text",
+      "id": "6B1C8F0F-B25A-49BC-B2EA-77F8BA422FD7"
+    },
+    {
+      "class": "text",
+      "id": "E28C5A9C-7076-456C-908B-8DF10EF22084"
+    },
+    {
+      "class": "text",
+      "id": "6F2E891A-81FE-4479-BF08-ED5C167A43E4"
+    },
+    {
+      "class": "text",
+      "id": "1D45399B-797E-432D-9EC4-7C3881CDAFE4"
+    },
+    {
+      "class": "text",
+      "id": "CEA220D5-0BC2-4192-B9D9-D81843E597E6"
+    },
+    {
+      "class": "text",
+      "id": "62455298-F33F-49B0-8534-76E900CC210C"
+    },
+    {
+      "class": "text",
+      "id": "D75611ED-6093-40A3-B8D0-2997CC15588F"
+    },
+    {
+      "class": "text",
+      "id": "C93182D5-8182-442F-9EC7-D218347574CA"
+    },
+    {
+      "class": "text",
+      "id": "F9A8746C-2485-4E9F-8778-057DD6B86E6F"
+    },
+    {
+      "class": "text",
+      "id": "C98C6E85-25C2-40F2-A621-9F3D1CF63244"
+    },
+    {
+      "class": "text",
+      "id": "3A688219-BC3C-4FCE-911D-E448146B7572"
+    },
+    {
+      "class": "text",
+      "id": "1EBAD953-138F-41E1-830A-01B425C55189"
+    }
+  ],
+  "name": "Calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E07467A3-6008-4EF2-B33B-F57B5D3DBC7F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8ACAFDB6-78E3-48BB-B55E-BA75FB16C4DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

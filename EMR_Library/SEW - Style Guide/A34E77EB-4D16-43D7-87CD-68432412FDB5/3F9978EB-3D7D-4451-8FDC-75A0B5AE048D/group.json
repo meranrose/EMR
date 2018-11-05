@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F9978EB-3D7D-4451-8FDC-75A0B5AE048D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD4F5AFA-88AB-4113-AAEB-681026F3C61F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B787C11E-C329-4963-B8D9-8A289EC71A35",
+    "height": 65,
+    "width": 1138,
+    "x": 74,
+    "y": 2784
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0168C3F7-4296-45DF-A20A-4DE102322B67"
+    },
+    {
+      "class": "bitmap",
+      "id": "5BA45FBB-5833-4923-AFA0-3F470C4E0F7D"
+    },
+    {
+      "class": "bitmap",
+      "id": "9FC26745-7D1E-483D-A831-692BBFC5410A"
+    }
+  ],
+  "name": "Group 2050",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21A08133-66FA-44D1-8BF1-59985FB931CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

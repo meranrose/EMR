@@ -9,7 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 2255,
+=======
+  "changeIdentifier": 2161,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "D1762877-4441-4063-9551-09A3E3B77DBA",
   "exportOptions": {
@@ -50,11 +54,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "B2CC077A-AA3D-449E-BED0-91AF2BC74CC8"
+=======
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4C7D909D-148A-4E08-BB8B-CE8CABFF58B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "EA3FCF3A-AEE2-4283-86F6-D1FDCEA1F9BB"
+>>>>>>> parent of 53996f2... 11/5 - 01
     }
   ],
   "name": "Icons / Usage Copy",
@@ -73,12 +89,15 @@
     "windingRule": 1
   },
   "symbolID": "B88D40E2-1741-49FC-BE57-21185C71530D",
+<<<<<<< HEAD
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
   },
+=======
+>>>>>>> parent of 53996f2... 11/5 - 01
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

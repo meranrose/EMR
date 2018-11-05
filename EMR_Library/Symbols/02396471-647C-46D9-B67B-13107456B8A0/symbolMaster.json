@@ -8,7 +8,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 2553,
+=======
+  "changeIdentifier": 2549,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "02396471-647C-46D9-B67B-13107456B8A0",
   "exportOptions": {
@@ -46,7 +50,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 0,
+=======
+  "layerListExpandedType": 1,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "layers": [
     {
       "class": "rectangle",
@@ -71,7 +79,11 @@
   ],
   "name": "Text Field / With Link",
   "nameIsFixed": false,
+<<<<<<< HEAD
   "resizesContent": true,
+=======
+  "resizesContent": false,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

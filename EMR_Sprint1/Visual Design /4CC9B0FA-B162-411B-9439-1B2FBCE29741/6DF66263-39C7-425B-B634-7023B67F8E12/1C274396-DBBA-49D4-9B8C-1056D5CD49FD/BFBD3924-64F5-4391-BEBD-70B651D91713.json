@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-Regular",
-              "size": 12
+              "size": 16
             }
           },
-          "kerning": 0.75,
+          "kerning": 1,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -58,11 +58,11 @@
     "constrainProportions": false,
     "do_objectID": "E28D7A23-C4A8-40D6-918B-BB1DCA50604B",
     "height": 16,
-    "width": 135,
+    "width": 180,
     "x": 0,
     "y": 20
   },
-  "glyphBounds": "{{0, 3}, {134, 12}}",
+  "glyphBounds": "{{0, 2}, {179, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -99,10 +99,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-Regular",
-            "size": 12
+            "size": 16
           }
         },
-        "kerning": 0.75,
+        "kerning": 1,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

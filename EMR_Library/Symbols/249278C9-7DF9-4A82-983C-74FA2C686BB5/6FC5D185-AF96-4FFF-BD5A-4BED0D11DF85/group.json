@@ -29,15 +29,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "AD7DFA2A-5EC4-4A67-96A8-4C0186BB66B0"
+      "class": "shapeGroup",
+      "id": "13DE4068-445F-4EB5-AC0E-4E5266BF54F4"
     },
     {
-      "class": "symbolInstance",
-      "id": "81F20A85-EB43-40CF-B056-B3DE38D98C1D"
+      "class": "rectangle",
+      "id": "A94B7847-1807-4FDD-A09A-55650EEBCA3B"
+    },
+    {
+      "class": "group",
+      "id": "9C7D81D2-CA1E-4303-8456-927A10BF712A"
     },
     {
       "class": "text",

@@ -9,7 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 3061,
+=======
+  "changeIdentifier": 3032,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "082B8747-3865-4FA0-B33D-5346B1C4560B",
   "exportOptions": {
@@ -50,11 +54,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 2,
+=======
+  "layerListExpandedType": 1,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "layers": [
     {
       "class": "shapePath",
       "id": "51021FF3-2600-472A-BD62-EC7B17C6BC2F"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "class": "rectangle",
+      "id": "3AD4DFA5-D097-474D-838B-C03142599A1B"
+>>>>>>> parent of 53996f2... 11/5 - 01
     }
   ],
   "name": "Icons / Arrow - Right",
@@ -73,12 +88,15 @@
     "windingRule": 1
   },
   "symbolID": "D1BA0FF8-FEE8-40C6-8E44-E0DF9CB7BD72",
+<<<<<<< HEAD
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
   },
+=======
+>>>>>>> parent of 53996f2... 11/5 - 01
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

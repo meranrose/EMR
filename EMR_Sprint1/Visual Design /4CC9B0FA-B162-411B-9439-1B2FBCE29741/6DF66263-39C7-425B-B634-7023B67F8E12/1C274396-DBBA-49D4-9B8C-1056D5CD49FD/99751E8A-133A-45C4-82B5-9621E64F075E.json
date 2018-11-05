@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Interstate-Light",
-              "size": 12
+              "size": 16
             }
           },
-          "kerning": 0.212939,
+          "kerning": 0.2839187,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {228, 10}}",
+  "glyphBounds": "{{0, 4}, {303, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -96,10 +96,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Interstate-Light",
-            "size": 12
+            "size": 16
           }
         },
-        "kerning": 0.212939,
+        "kerning": 0.2839187,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",

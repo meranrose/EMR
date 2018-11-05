@@ -28,7 +28,11 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": true,
   "isFlippedVertical": false,
+<<<<<<< HEAD
   "isLocked": false,
+=======
+  "isLocked": true,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Mask",
@@ -69,7 +73,10 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+<<<<<<< HEAD
   "sharedStyleID": "B44C09E2-1533-4A5E-A92F-6B98A6B02D1A",
+=======
+>>>>>>> parent of 53996f2... 11/5 - 01
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,12 +88,21 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+<<<<<<< HEAD
           "blue": 0.4,
           "green": 0.3882352941176471,
           "red": 0.4
         },
         "fillType": 0,
         "isEnabled": true,
+=======
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+>>>>>>> parent of 53996f2... 11/5 - 01
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -95,7 +111,11 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
+<<<<<<< HEAD
     "windingRule": 1
+=======
+    "windingRule": 0
+>>>>>>> parent of 53996f2... 11/5 - 01
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

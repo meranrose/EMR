@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 18,
+  "changeIdentifier": 55,
   "clippingMaskMode": 0,
   "do_objectID": "53F67FE6-A6BB-4C66-9826-F0AF4AA3CB68",
   "exportOptions": {
@@ -25,10 +25,10 @@
     "constrainProportions": false,
     "height": 20,
     "width": 375,
-    "x": 2103,
+    "x": 3778,
     "y": 124
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -38,7 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,8 +49,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5036AE3C-9E8D-424F-A68C-A531B843ACCD"
+      "class": "rectangle",
+      "id": "E1C03ED2-D588-43D2-8871-B3A7A645FD2A"
+    },
+    {
+      "class": "group",
+      "id": "D4340651-425F-4E2E-A73D-9CFA7F31B61D"
     }
   ],
   "name": "System Bar / iOS",

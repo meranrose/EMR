@@ -9,7 +9,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 3052,
+=======
+  "changeIdentifier": 3019,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "074A4B9B-9FCE-4E8D-85C3-928402F1C255",
   "exportOptions": {
@@ -50,11 +54,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 2,
+=======
+  "layerListExpandedType": 1,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "layers": [
     {
       "class": "shapePath",
       "id": "D4087912-10F4-4067-ACEC-FC2A5B30164B"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "class": "rectangle",
+      "id": "FC19BD15-37C4-4212-BD65-DA0FDE969909"
+>>>>>>> parent of 53996f2... 11/5 - 01
     }
   ],
   "name": "Icons / Arrow - Up",

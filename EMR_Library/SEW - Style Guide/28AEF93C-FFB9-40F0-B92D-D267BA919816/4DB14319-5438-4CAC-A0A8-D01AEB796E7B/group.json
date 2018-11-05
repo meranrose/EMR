@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DB14319-5438-4CAC-A0A8-D01AEB796E7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EADA9899-3E3D-4A50-A001-2976FC311696",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A00B964-7BFC-46E9-B9EF-F2926153B609",
+    "height": 8,
+    "width": 16,
+    "x": 1212,
+    "y": 3301
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "50641BB0-182B-44D6-8DA2-7908103B98DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "673820DF-B048-415D-8C52-0454A47BA5E8"
+    }
+  ],
+  "name": "Group 893",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E51427AF-C149-4614-BDD9-4D90D415D8CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

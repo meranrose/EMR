@@ -29,8 +29,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Mask",
-  "nameIsFixed": false,
+  "name": "Icon",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 0,
   "points": [
     {
@@ -158,6 +158,7 @@
   "resizingType": 0,
   "rotation": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -168,6 +169,29 @@
     "_class": "style",
     "do_objectID": "7390573A-E411-4CBB-89A6-08E814C79AA1",
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+=======
+  "sharedStyleID": "A5E003B4-256C-40CA-B635-9D6485FAE89D",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "7390573A-E411-4CBB-89A6-08E814C79AA1",
+>>>>>>> parent of 53996f2... 11/5 - 01
     "endMarkerType": 0,
     "fills": [
       {
@@ -175,20 +199,26 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.4,
+          "green": 0.3882352941176471,
+          "red": 0.4
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

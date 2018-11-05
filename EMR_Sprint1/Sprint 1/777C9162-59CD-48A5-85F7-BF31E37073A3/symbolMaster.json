@@ -9,10 +9,14 @@
   },
   "booleanOperation": -1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "changeIdentifier": 1258,
 =======
   "changeIdentifier": 1302,
 >>>>>>> 48e35a7c2e15ed64318ef16c538df95340cc1d34
+=======
+  "changeIdentifier": 1253,
+>>>>>>> parent of 53996f2... 11/5 - 01
   "clippingMaskMode": 0,
   "do_objectID": "777C9162-59CD-48A5-85F7-BF31E37073A3",
   "exportOptions": {
@@ -33,7 +37,7 @@
     "y": -2730
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
