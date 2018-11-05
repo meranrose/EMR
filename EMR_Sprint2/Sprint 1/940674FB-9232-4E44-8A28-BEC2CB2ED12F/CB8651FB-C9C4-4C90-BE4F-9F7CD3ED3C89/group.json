@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB8651FB-C9C4-4C90-BE4F-9F7CD3ED3C89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7690F02-749A-47D2-86CD-AD064F829126",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4168C72-BFA1-4F96-852E-53353E2232E5",
+    "height": 20,
+    "width": 304,
+    "x": 35,
+    "y": 810
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9D3F4B7C-8753-40A9-B436-6071CA999AD8"
+    }
+  ],
+  "name": "Text Field / Filled / Leading Icon / No Assistive Text / Enabled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "296C6BC0-A55E-4199-85B1-E96FB69FD46F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

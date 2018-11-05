@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F38B2718-5365-417F-ACB3-AF55BBA7874F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F656E9CF-B124-45E4-8968-758AB9D5B2AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCBA5EF7-2B27-4111-89A7-9303C22C09FF",
+    "height": 220,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modify Payment Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2165B64D-F0D1-4503-AF26-0D174CF9A220",
+      "overrideName": "70988996-C896-4784-AFA7-BD7AF115BCAB/CB758768-7088-47A3-8964-68FDFBCDCA86_stringValue",
+      "value": "Make Payment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B0880AC-F973-455B-9E76-D6B1AA40E0B4",
+      "overrideName": "7FE4ACF6-0D18-40BF-9F53-B28DEA95E16A_stringValue",
+      "value": "Make Payment"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FAF4F75-AF32-48D3-B742-094946A81345",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6390B0EF-4B54-44C4-A033-AB88BCF13EEC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

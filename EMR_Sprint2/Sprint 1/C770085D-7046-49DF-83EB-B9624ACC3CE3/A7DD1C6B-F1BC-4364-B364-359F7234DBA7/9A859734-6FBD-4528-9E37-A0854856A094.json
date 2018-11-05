@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A859734-6FBD-4528-9E37-A0854856A094",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39BBD4E0-F64C-4558-A7D7-9605100FD543",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54DD20E1-DB19-4DC4-8260-42A28CF99148",
+    "height": 56,
+    "width": 311,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51D27903-932B-46A1-B717-E8B17FCFB4B9",
+      "overrideName": "69240B24-3623-4D51-801C-D76DE77DD64E_stringValue",
+      "value": "$68.90 (Amount Due)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80497400-D875-4101-A67C-8C4BF94FFC3A",
+      "overrideName": "B249CDEC-5A52-40E7-8366-670C89913DBF_stringValue",
+      "value": "Amount"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49AB408A-1BF7-4BD3-A931-81D247A6D980",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C3716196-87D5-48F4-AA7A-480BC8645C4F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

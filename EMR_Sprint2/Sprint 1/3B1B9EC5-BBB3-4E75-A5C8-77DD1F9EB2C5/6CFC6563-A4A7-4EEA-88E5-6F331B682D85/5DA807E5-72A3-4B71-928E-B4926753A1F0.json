@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DA807E5-72A3-4B71-928E-B4926753A1F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36B1040B-0657-4E2C-B91F-050D232EDCEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB622D73-28C5-47A1-95AF-B10AFB20098B",
+    "height": 182,
+    "width": 311,
+    "x": 32,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page / Landing / Personalization",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "856C92D8-06B5-4092-BBD8-0D712FA8C8F9",
+      "overrideName": "CC3695ED-3302-4DA6-ABB2-7B4B8C82B718_stringValue",
+      "value": "You have a past due payment for at least one of your services. Let us know how we can help get you sorted."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC49ED46-B556-400C-ABA8-5EC7FB9C58BE",
+      "overrideName": "FC636E72-75A7-4A01-8487-20F244FCD83D_stringValue",
+      "value": "Learn About Payment Assistance"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B54E5B5-FDE1-4F3E-9A20-542F5BE8BA40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A60117F3-E60B-4AFC-BDA3-08DF6C43867C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

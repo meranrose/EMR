@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3972DF7D-31A3-4DD2-92CA-F35F48B2858B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11CCE1F4-C8FB-418B-A998-833987F002A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D60F6BC-F61B-439A-8351-CB078BB7663B",
+    "height": 182,
+    "width": 311,
+    "x": 32,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page / Landing / Personalization",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F81ADA2F-A22E-47EE-8AE7-9D8B5803511D",
+      "overrideName": "CC3695ED-3302-4DA6-ABB2-7B4B8C82B718_stringValue",
+      "value": "You have peak rates right now. We recommend holding off on that load of laundry until 10 pm tonight."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96A4CD2D-CF97-4A4F-AA10-C21518C559BE",
+      "overrideName": "FC636E72-75A7-4A01-8487-20F244FCD83D_stringValue",
+      "value": "Learn More"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E37F935-5C44-4D9E-9C32-B2B155EEBA1C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A60117F3-E60B-4AFC-BDA3-08DF6C43867C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

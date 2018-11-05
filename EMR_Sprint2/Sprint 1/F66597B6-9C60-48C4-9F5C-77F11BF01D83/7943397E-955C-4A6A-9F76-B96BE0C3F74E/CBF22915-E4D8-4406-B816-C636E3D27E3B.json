@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBF22915-E4D8-4406-B816-C636E3D27E3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5551C8F-5BAB-4185-812E-F7E8107183EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30104C49-4ED6-4D78-99D9-1C9D921E93B7",
+    "height": 182,
+    "width": 311,
+    "x": 32,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page / Landing / Personalization",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "856C92D8-06B5-4092-BBD8-0D712FA8C8F9",
+      "overrideName": "CC3695ED-3302-4DA6-ABB2-7B4B8C82B718_stringValue",
+      "value": "You've used more electricity this month than last month at this time. Don't worry! There's still time to reduce."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BE4AE41-E070-4849-A84D-AE86542CDDD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A60117F3-E60B-4AFC-BDA3-08DF6C43867C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

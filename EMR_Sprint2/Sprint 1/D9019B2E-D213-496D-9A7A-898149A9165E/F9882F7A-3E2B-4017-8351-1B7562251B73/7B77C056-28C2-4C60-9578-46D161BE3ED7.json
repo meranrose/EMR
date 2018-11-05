@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B77C056-28C2-4C60-9578-46D161BE3ED7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CEF27CF-21B2-4D2F-BEB5-2653E745ADDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A34A7D3-01B3-470B-A5A2-D87274EA72FB",
+    "height": 120,
+    "width": 313,
+    "x": 0,
+    "y": 269
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_stringValue",
+      "value": "Today"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "29026114-B7A0-4362-8164-7F2F9BDCB190_stringValue",
+      "value": "Date"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FA8CC5C4-683A-4E08-B352-CBA32ED8AA3B_symbolID",
+      "value": "AC993EE0-0BDB-4823-827F-4D2DE0E10894"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8ED0B3F6-F1BE-48BB-BEF8-7CA56C36640E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2666A73-5AF7-451F-B96B-84524433902D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 1,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "26D2FCB8-9BF0-4FC5-A55F-DC112927D9B5",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

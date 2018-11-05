@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C0E2C9B-94E5-4E34-9225-A3647AB5DE9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7FF355D-3C55-4B78-BD4D-7FB70B026499",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C437099A-0DCD-4104-8952-9A470B0AD5CD",
+    "height": 50,
+    "width": 200,
+    "x": 93,
+    "y": 249
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8734DEC-51AB-4A4F-A602-2560475A3C1A",
+      "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
+      "value": "Make Payment"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2976815D-FF15-4FF0-B990-7F20FEB49431",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC87A790-1C17-4A21-9BD8-71985C9606C2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

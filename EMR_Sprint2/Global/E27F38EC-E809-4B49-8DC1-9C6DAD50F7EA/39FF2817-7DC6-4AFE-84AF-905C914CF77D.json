@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39FF2817-7DC6-4AFE-84AF-905C914CF77D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A54BF719-E124-4EBF-8DB2-5BB502EF7301",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB9643A7-8551-47A2-AFC8-C12BF0BE492C",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/Two-Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D62AC50-D1FE-4EF1-BC2C-AF18DE9843A9",
+      "overrideName": "DCAE3F08-C2AF-4455-B363-95611972DD8E_stringValue",
+      "value": "SDGE would like to open\nyour native browser"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E58C4E3E-F0C7-4A34-824C-7182B1388A9A",
+      "overrideName": "31DBF28E-0EC4-468B-8565-14D2BF54240A_stringValue",
+      "value": "Nevermind"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F7166B1-1D08-4DCF-8671-457EEF0EC6CE",
+      "overrideName": "994F8A1B-EC4C-4F23-9B9D-AA5B7D34ECE5_stringValue",
+      "value": "This resource is not available on our mobile app."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02C90621-C02B-428A-ADD3-F601AA84D24C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E9470374-B620-4292-93AB-624D28A6A213",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

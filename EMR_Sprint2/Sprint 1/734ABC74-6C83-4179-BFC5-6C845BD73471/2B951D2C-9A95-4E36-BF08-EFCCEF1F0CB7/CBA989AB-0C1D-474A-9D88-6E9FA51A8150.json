@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBA989AB-0C1D-474A-9D88-6E9FA51A8150",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2BD0501-5597-4B71-8C4F-D577EF59C346",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BAED421-2511-4E07-BD8D-C6CB9CFA0E16",
+    "height": 105,
+    "width": 320,
+    "x": 28,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / With Link",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F73371E-B3EF-4A67-9348-CFFAB4774344",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_stringValue",
+      "value": "My House - 1234 Sunny Street"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2B0CA28-8F06-4F6B-8AAD-8207F548B030",
+      "overrideName": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1_stringValue",
+      "value": "  "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83348F61-C856-44BC-9CDD-99CB13B78A4B",
+      "overrideName": "29026114-B7A0-4362-8164-7F2F9BDCB190_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A76E03E-AC43-4D88-B114-FEF3BD97DDB0",
+      "overrideName": "FA8CC5C4-683A-4E08-B352-CBA32ED8AA3B_symbolID",
+      "value": "B661E0E2-0133-4178-8080-B0A70A11AB81"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02DE9EF6-E4DD-49F8-98A0-17E69D0BF042",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2666A73-5AF7-451F-B96B-84524433902D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 1,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "DDDD8529-FE55-4ADB-813C-E1638DD0CDE8",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

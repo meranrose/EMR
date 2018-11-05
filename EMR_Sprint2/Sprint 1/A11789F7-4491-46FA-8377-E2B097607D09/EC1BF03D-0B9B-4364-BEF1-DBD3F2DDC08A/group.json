@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC1BF03D-0B9B-4364-BEF1-DBD3F2DDC08A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9F39DC6-67B0-474F-8D35-541C6B5C7DBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FB6A259-555D-4E25-91FA-E204A39BDF35",
+    "height": 497,
+    "width": 313,
+    "x": 31,
+    "y": 246
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2A7E7ABD-BDCE-4026-9934-C858D12B523E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACBC24D1-D8B2-416D-A318-EAFD61EED941"
+    },
+    {
+      "class": "group",
+      "id": "88F76CE0-0761-4AFD-966B-CFF94929C0AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB414588-9144-4BCF-AE3A-FAF5FC7A243D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED36C450-474C-43E4-82D6-1C3C339838B5"
+    },
+    {
+      "class": "text",
+      "id": "44D8A9D8-2C09-4CE0-9D69-6D52B30E77E9"
+    }
+  ],
+  "name": "Stacked Group Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13D83BF8-D273-425A-80BF-01D8029C7783",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 6,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

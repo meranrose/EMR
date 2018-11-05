@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9882352941176471,
+    "do_objectID": "473AF35F-FA3F-44AA-9AF4-5727FB1BBDFC",
+    "green": 0.9764705882352941,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2F9B5E2-77AE-4F43-B78D-B4F14161A23E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B23D8384-8CC5-4588-8B8B-576ACA0087A5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "408BB0C6-77B7-4679-B763-84D51FDDA9F9",
+    "height": 741,
+    "width": 375,
+    "x": 11679,
+    "y": 7056
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E8037EE-EEC1-4378-B696-45538829CF9D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E549A6EB-11EC-49FD-BD46-80D101220869"
+    },
+    {
+      "class": "text",
+      "id": "BF3AC643-7D19-4CF4-A1E7-7887F6D28A15"
+    },
+    {
+      "class": "text",
+      "id": "8543D65E-85BE-40AE-A167-A1D03158F08A"
+    },
+    {
+      "class": "text",
+      "id": "FBA96C4F-B6E1-45DF-A5DC-285F80989EC2"
+    },
+    {
+      "class": "text",
+      "id": "30CA7F63-2B99-491D-AD46-E52280446D15"
+    }
+  ],
+  "name": "[2 Pay] Dialogs",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DEB61A53-0D2D-493D-89EF-FA30D0C99F0D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5080BEBE-BBA0-4E7B-AC2A-BBDE5AC66897",
+    "guides": [
+    ]
+  }
+}

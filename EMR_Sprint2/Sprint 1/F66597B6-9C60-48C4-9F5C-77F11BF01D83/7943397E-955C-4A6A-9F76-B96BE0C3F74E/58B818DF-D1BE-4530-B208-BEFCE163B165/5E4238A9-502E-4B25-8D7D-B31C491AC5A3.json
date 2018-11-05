@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E4238A9-502E-4B25-8D7D-B31C491AC5A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8F3085B-BA6F-4277-82C9-16FF68D726B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA5CD60F-DDEE-445B-B1D1-22713C6ECBB7",
+    "height": 50,
+    "width": 200,
+    "x": 88,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / 1 Round",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0D14AB8-209E-4F90-95ED-A5DB5B2D7192",
+      "overrideName": "F38BA4B9-EBD2-4396-8D77-9E9EC33A95A3_stringValue",
+      "value": "Make Payment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF2891E3-0FF9-4A81-A561-1DBF23106060",
+      "overrideName": "13C2744C-A8D5-4124-A803-CAEA61A2423D_layerStyle",
+      "value": "2AF1F281-24CA-4DE7-80CE-BD5F1C1AA925"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "75174670-4CE5-4D00-852B-EC2D7C2E9D5E",
+      "opacity": 0.5
+    },
+    "do_objectID": "7C546C21-D951-4623-8C10-AE285F4237B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC87A790-1C17-4A21-9BD8-71985C9606C2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

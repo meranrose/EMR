@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EEE10D7-5032-485C-8D3C-D98AFFDDD8A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92340A0F-FA06-4A48-BEEB-F55BA4335DCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9E089FC-2FE7-46A6-846E-48F8EE33C9CF",
+    "height": 94,
+    "width": 311,
+    "x": 1,
+    "y": 176
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Icon + Input Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8583180-3880-469A-A4F4-946C794DB5BE",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_stringValue",
+      "value": "Bank of America ****1234"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EB3E8DE-8D22-45AF-A25A-07BEE498FBB6",
+      "overrideName": "8C11C0A3-A2C3-491A-92E9-59D0A3820EB1_stringValue",
+      "value": "Manage Bank Accounts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57A5434F-784A-466B-936E-E5211C4DDAB4",
+      "overrideName": "29026114-B7A0-4362-8164-7F2F9BDCB190_stringValue",
+      "value": "Bank Account"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "901F6CD3-E9FA-4C96-8952-79A2DBBE4475",
+      "overrideName": "FA8CC5C4-683A-4E08-B352-CBA32ED8AA3B_symbolID",
+      "value": "B661E0E2-0133-4178-8080-B0A70A11AB81"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7811D94D-C76E-4589-8B56-409EC66C75FF",
+      "overrideName": "6EE98D52-CA01-44D6-BC1B-A690CB3001D1_textStyle",
+      "value": "A0AECCE5-8FEA-4D79-A265-405D1E28C302"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8455DC1E-2DD1-4403-ABEC-07732BFF404F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2666A73-5AF7-451F-B96B-84524433902D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
